@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 data/2020-*.csv
+data/merged-dataset.csv

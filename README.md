@@ -1,11 +1,3 @@
-# ICAF: Predicting the Visual Focus of Attention (VFOA) in Multi-Person Discussion Videos
+# twitter covid 19 network analysis 
 
-Networks data and network loader sample code. Please check the [project page](https://cs.dartmouth.edu/dsail/demos/icaf) for more details.
-
-##### Data Description
-Please visit the dataset page for more details and explanation of the dataset: http://snap.stanford.edu/data/comm-f2f-Resistance.html
-
-##### Reference
-C.Bai, S. Kumar, J. Leskovec, M. Metzger, J.F. Nunamaker, V.S. Subrahmanian.
-Predicting Visual Focus of Attention in Multi-person Discussion Videos.
-International Joint Conference on Artificial Intelligence (IJCAI), 2019.
+Download dataset from: https://www.kaggle.com/smid80/coronavirus-covid19-tweets-late-april, extract, and put individual CSV files in /data.

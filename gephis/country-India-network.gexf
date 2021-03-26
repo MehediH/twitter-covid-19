@@ -1,0 +1,1006 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-03-26">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="followers_count" type="long" />
+      <attribute id="1" title="friends_count" type="long" />
+      <attribute id="2" title="favourites_count" type="long" />
+      <attribute id="3" title="retweet_count" type="long" />
+      <attribute id="4" title="created_at" type="string" />
+    </attributes>
+    <nodes>
+      <node id="paperhearts79" label="paperhearts79" />
+      <node id="@TajinderBagga" label="@TajinderBagga" />
+      <node id="deepaksomisetty" label="deepaksomisetty" />
+      <node id="@narendramodi,@AkhilAkkineni8,@iamnagarjuna,@chay_akkineni" label="@narendramodi,@AkhilAkkineni8,@iamnagarjuna,@chay_akkineni" />
+      <node id="LangaMahesh" label="LangaMahesh" />
+      <node id="@ArvindKejriwal" label="@ArvindKejriwal" />
+      <node id="iMonkJi" label="iMonkJi" />
+      <node id="@ashutosh83B,@mygovindia" label="@ashutosh83B,@mygovindia" />
+      <node id="AshramBlr" label="AshramBlr" />
+      <node id="@mygovindia" label="@mygovindia" />
+      <node id="MUMBlr1" label="MUMBlr1" />
+      <node id="@AshramBlr,@HRC,@humanrights1st,@HRDMinistry,@UN,@PMOIndia,@UNHumanRights,@RajGovOfficial,@CommissionerHR,@mygovindia,@HumaneSociety,@HMOIndia" label="@AshramBlr,@HRC,@humanrights1st,@HRDMinistry,@UN,@PMOIndia,@UNHumanRights,@RajGovOfficial,@CommissionerHR,@mygovindia,@HumaneSociety,@HMOIndia" />
+      <node id="sudarsansand" label="sudarsansand" />
+      <node id="@Naveen_Odisha" label="@Naveen_Odisha" />
+      <node id="AnimaSonkar" label="AnimaSonkar" />
+      <node id="@RanveerOfficial,@deepikapadukone" label="@RanveerOfficial,@deepikapadukone" />
+      <node id="manukumarjain" label="manukumarjain" />
+      <node id="@RailMinIndia" label="@RailMinIndia" />
+      <node id="Milan_reports" label="Milan_reports" />
+      <node id="@IndiaToday" label="@IndiaToday" />
+      <node id="mymalishka" label="mymalishka" />
+      <node id="@AUThackeray,@RedFM_Mumbai,@RedFMIndia,@mybmc,@CMOMaharashtra" label="@AUThackeray,@RedFM_Mumbai,@RedFMIndia,@mybmc,@CMOMaharashtra" />
+      <node id="@AshramBlr,@BangaloreTimes1,@DDNational,@BangaloreMirror,@cnnbrk,@ZeeNews,@THBengaluru,@airnewsalerts,@BBCHindi,@DeccanHerald,@TOIBengaluru" label="@AshramBlr,@BangaloreTimes1,@DDNational,@BangaloreMirror,@cnnbrk,@ZeeNews,@THBengaluru,@airnewsalerts,@BBCHindi,@DeccanHerald,@TOIBengaluru" />
+      <node id="manojmuntashir" label="manojmuntashir" />
+      <node id="@narendramodi,@RochakTweets" label="@narendramodi,@RochakTweets" />
+      <node id="idiamondbabu" label="idiamondbabu" />
+      <node id="@Siva_Kartikeyan" label="@Siva_Kartikeyan" />
+      <node id="prasarbharati" label="prasarbharati" />
+      <node id="@narendramodi" label="@narendramodi" />
+      <node id="thekiranbedi" label="thekiranbedi" />
+      <node id="@AkashvaniAIR,@ANI,@PTI_News" label="@AkashvaniAIR,@ANI,@PTI_News" />
+      <node id="DrTamilisaiGuv" label="DrTamilisaiGuv" />
+      <node id="@IPRTelangana,@VPSecretariat,@rashtrapatibhvn,@PMOIndia" label="@IPRTelangana,@VPSecretariat,@rashtrapatibhvn,@PMOIndia" />
+      <node id="@NewIndianXpress,@ANI" label="@NewIndianXpress,@ANI" />
+      <node id="deepak_mragwani" label="deepak_mragwani" />
+      <node id="@JantaKeeAwaaz" label="@JantaKeeAwaaz" />
+      <node id="CharanT16" label="CharanT16" />
+      <node id="@TV9Telugu" label="@TV9Telugu" />
+      <node id="@narendramodi,@PMOIndia" label="@narendramodi,@PMOIndia" />
+      <node id="docvjg" label="docvjg" />
+      <node id="@RMLDelhi,@AnantBhan,@drharshvardhan,@PMOIndia" label="@RMLDelhi,@AnantBhan,@drharshvardhan,@PMOIndia" />
+      <node id="@OfficeofUT,@CMOMaharashtra" label="@OfficeofUT,@CMOMaharashtra" />
+      <node id="vikrantgupta73" label="vikrantgupta73" />
+      <node id="@TheKanikakapoor" label="@TheKanikakapoor" />
+      <node id="ABChiruYuvatha" label="ABChiruYuvatha" />
+      <node id="@narendramodi,@AlwaysRamCharan" label="@narendramodi,@AlwaysRamCharan" />
+      <node id="chhuti_is" label="chhuti_is" />
+      <node id="@BJP4India,@dreamgirlhema" label="@BJP4India,@dreamgirlhema" />
+      <node id="@MoHFW_INDIA,@narendramodi,@dpradhanbjp,@imranirampal,@COVIDNewsByMIB,@drharshvardhan,@PiyushGoyal,@HimaDas8,@HardeepSPuri,@AmitShah,@smritiirani" label="@MoHFW_INDIA,@narendramodi,@dpradhanbjp,@imranirampal,@COVIDNewsByMIB,@drharshvardhan,@PiyushGoyal,@HimaDas8,@HardeepSPuri,@AmitShah,@smritiirani" />
+      <node id="KSFA_Official" label="KSFA_Official" />
+      <node id="@KicchaSudeep,@ColorsKannada" label="@KicchaSudeep,@ColorsKannada" />
+      <node id="@ArvindKejriwal,@CMODelhi" label="@ArvindKejriwal,@CMODelhi" />
+      <node id="@KicchaSudeep" label="@KicchaSudeep" />
+      <node id="@KChiruTweets" label="@KChiruTweets" />
+      <node id="@AshramBlr,@banashankarips,@Tejasvi_Surya,@HRC,@UNOCHA,@BlrCityPolice,@CPBlr,@narendramodi,@HRDMinistry,@UNHumanRights,@HumaneSociety,@HMOKarnataka" label="@AshramBlr,@banashankarips,@Tejasvi_Surya,@HRC,@UNOCHA,@BlrCityPolice,@CPBlr,@narendramodi,@HRDMinistry,@UNHumanRights,@HumaneSociety,@HMOKarnataka" />
+      <node id="@narendramodi,@alluarjun" label="@narendramodi,@alluarjun" />
+      <node id="musharraf_ias" label="musharraf_ias" />
+      <node id="@arvindkumar_ias,@KTRTRS" label="@arvindkumar_ias,@KTRTRS" />
+      <node id="@PMCares" label="@PMCares" />
+      <node id="revolution_raj7" label="revolution_raj7" />
+      <node id="@BJP4India" label="@BJP4India" />
+      <node id="Chaiti" label="Chaiti" />
+      <node id="@BorisJohnson" label="@BorisJohnson" />
+      <node id="Gurkirtan_77" label="Gurkirtan_77" />
+      <node id="@derasachasauda" label="@derasachasauda" />
+      <node id="sandep_lnsan" label="sandep_lnsan" />
+      <node id="@Gurmeetramrahim" label="@Gurmeetramrahim" />
+      <node id="@IndianExpress,@ANI,@PTI_News" label="@IndianExpress,@ANI,@PTI_News" />
+      <node id="vbwalia" label="vbwalia" />
+      <node id="@IYC" label="@IYC" />
+      <node id="radiocityindia" label="radiocityindia" />
+      <node id="@narendramodi,@BeingSalmanKhan,@PMOIndia" label="@narendramodi,@BeingSalmanKhan,@PMOIndia" />
+      <node id="worldNTRfans" label="worldNTRfans" />
+      <node id="@tarak9999,@AnsarNtr" label="@tarak9999,@AnsarNtr" />
+      <node id="karunasagarllb" label="karunasagarllb" />
+      <node id="@Eenadu_Newspapr" label="@Eenadu_Newspapr" />
+      <node id="IamMaheshFan" label="IamMaheshFan" />
+      <node id="@urstrulyMahesh" label="@urstrulyMahesh" />
+      <node id="JSPLFoundation" label="JSPLFoundation" />
+      <node id="@jsplcorporate,@shallujindal20,@JSPLFoundation" label="@jsplcorporate,@shallujindal20,@JSPLFoundation" />
+      <node id="Srigangacinemas" label="Srigangacinemas" />
+      <node id="@OTFC_Off,@Dir_Lokesh,@actorvijay,@XBFilmCreators,@Srigangacinemas,@anirudhofficial" label="@OTFC_Off,@Dir_Lokesh,@actorvijay,@XBFilmCreators,@Srigangacinemas,@anirudhofficial" />
+      <node id="gauravcsawant" label="gauravcsawant" />
+      <node id="@narendramodi,@realDonaldTrump,@PMOIndia" label="@narendramodi,@realDonaldTrump,@PMOIndia" />
+      <node id="@adgpi" label="@adgpi" />
+      <node id="VijuyRonjan" label="VijuyRonjan" />
+      <node id="@TheOfficialSBI" label="@TheOfficialSBI" />
+      <node id="@gauravcsawant," label="@gauravcsawant," />
+      <node id="SubbarajuSiva" label="SubbarajuSiva" />
+      <node id="@rk_mahanti,@AkhilAkkineni8,@iamnagarjuna,@amalaakkineni1,@chay_akkineni" label="@rk_mahanti,@AkhilAkkineni8,@iamnagarjuna,@amalaakkineni1,@chay_akkineni" />
+      <node id="digvijayvasuni1" label="digvijayvasuni1" />
+      <node id="@TOIMumbai" label="@TOIMumbai" />
+      <node id="@AshramBlr" label="@AshramBlr" />
+      <node id="@RamanSI02837335" label="@RamanSI02837335" />
+      <node id="@RamratePahade,@bhartiya_a_" label="@RamratePahade,@bhartiya_a_" />
+      <node id="amitbhawani" label="amitbhawani" />
+      <node id="silarindam" label="silarindam" />
+      <node id="@RituparnaSpeaks,@RukminiMaitra,@MamataOfficial,@bickramghosh,@mimichakraborty,@YourKoel,@nusratchirps,@jeet30,@prosenjitbumba,@idevadhikari,@subhashreesotwe" label="@RituparnaSpeaks,@RukminiMaitra,@MamataOfficial,@bickramghosh,@mimichakraborty,@YourKoel,@nusratchirps,@jeet30,@prosenjitbumba,@idevadhikari,@subhashreesotwe" />
+      <node id="achyuta_samanta" label="achyuta_samanta" />
+      <node id="@odisha_mining" label="@odisha_mining" />
+      <node id="SuriyaFansClub" label="SuriyaFansClub" />
+      <node id="@Suriya_offl,@rajsekarpandian,@NorthchennaiSFC,@prabhu_sr" label="@Suriya_offl,@rajsekarpandian,@NorthchennaiSFC,@prabhu_sr" />
+      <node id="gaurgopald" label="gaurgopald" />
+      <node id="alok_ajay" label="alok_ajay" />
+      <node id="pafcoms" label="pafcoms" />
+      <node id="@milaapdotorg" label="@milaapdotorg" />
+      <node id="Elizatweetz" label="Elizatweetz" />
+      <node id="@RahulGandhi" label="@RahulGandhi" />
+      <node id="@_Ajayks" label="@_Ajayks" />
+      <node id="kartikeya_1975" label="kartikeya_1975" />
+      <node id="Guttajwala" label="Guttajwala" />
+      <node id="@TheVishnuVishal" label="@TheVishnuVishal" />
+      <node id="JebiMather" label="JebiMather" />
+      <node id="@hazeekhalid,@IYC" label="@hazeekhalid,@IYC" />
+      <node id="SandeepUnnithan" label="SandeepUnnithan" />
+      <node id="@indiatoday" label="@indiatoday" />
+      <node id="TanushreePande" label="TanushreePande" />
+      <node id="@iamsrk" label="@iamsrk" />
+      <node id="@WHO,@DrTedros,@ladygaga,@GlblCtzn" label="@WHO,@DrTedros,@ladygaga,@GlblCtzn" />
+      <node id="Srk_bangalore" label="Srk_bangalore" />
+      <node id="@iamsrk,@GlblCtzn,@togetherathome" label="@iamsrk,@GlblCtzn,@togetherathome" />
+      <node id="GulzebAhmed" label="GulzebAhmed" />
+      <node id="@SachinPilot,@ashokgehlot51,@INCRajasthan" label="@SachinPilot,@ashokgehlot51,@INCRajasthan" />
+      <node id="@HFWOdisha,@MoHFW_INDIA,@dpradhanbjp,@KapilSharmaK9,@COVIDNewsByMIB,@drharshvardhan,@PiyushGoyal,@SrBachchan,@ArvindKejriwal,@ChouhanShivraj,@ICMRDELHI,@CMO_Odisha,@KTRTRS" label="@HFWOdisha,@MoHFW_INDIA,@dpradhanbjp,@KapilSharmaK9,@COVIDNewsByMIB,@drharshvardhan,@PiyushGoyal,@SrBachchan,@ArvindKejriwal,@ChouhanShivraj,@ICMRDELHI,@CMO_Odisha,@KTRTRS" />
+      <node id="Anurag_Dwary" label="Anurag_Dwary" />
+      <node id="@AbhayIndia,@ndtvindia,@OfficeOfKNath,@VTankha,@ndtv" label="@AbhayIndia,@ndtvindia,@OfficeOfKNath,@VTankha,@ndtv" />
+      <node id="@ndtv,@ravishndtv" label="@ndtv,@ravishndtv" />
+      <node id="AvdheshanandG" label="AvdheshanandG" />
+      <node id="@ani_digital" label="@ani_digital" />
+      <node id="ImSuresh_insan" label="ImSuresh_insan" />
+      <node id="@KicchaSudeep,@AanandAaudio,@10am,@Kotigobba3Movie" label="@KicchaSudeep,@AanandAaudio,@10am,@Kotigobba3Movie" />
+      <node id="@tarak9999" label="@tarak9999" />
+      <node id="DEVenDrapai" label="DEVenDrapai" />
+      <node id="@CMOMaharashtra" label="@CMOMaharashtra" />
+      <node id="@ndtv" label="@ndtv" />
+      <node id="@TheOfficialSBI,@challasetty" label="@TheOfficialSBI,@challasetty" />
+      <node id="@ChouhanShivraj,@ndtvindia,@drnarottammisra,@INCMP,@OfficeOfKNath,@ndtv" label="@ChouhanShivraj,@ndtvindia,@drnarottammisra,@INCMP,@OfficeOfKNath,@ndtv" />
+      <node id="@ani_digital,@RSSorg,@AcharyaSabha,@VHPDigital" label="@ani_digital,@RSSorg,@AcharyaSabha,@VHPDigital" />
+      <node id="SinghLions" label="SinghLions" />
+      <node id="@DelhiPolice" label="@DelhiPolice" />
+      <node id="KotaNeelima" label="KotaNeelima" />
+      <node id="@TedhiLakeer,@TheQuint" label="@TedhiLakeer,@TheQuint" />
+      <node id="NPDay" label="NPDay" />
+      <node id="@ThePrintIndia" label="@ThePrintIndia" />
+      <node id="SanirSayyed" label="SanirSayyed" />
+      <node id="@aimim_national,@asadowaisi" label="@aimim_national,@asadowaisi" />
+      <node id="PramodChturvedi" label="PramodChturvedi" />
+      <node id="@aimim_national" label="@aimim_national" />
+      <node id="@aimim_national,@balala_ahmed" label="@aimim_national,@balala_ahmed" />
+      <node id="@narendramodi,@DrKumarVishwas,@drharshvardhan,@ZeeMusicCompany,@akshaykumar,@ParineetiChopra" label="@narendramodi,@DrKumarVishwas,@drharshvardhan,@ZeeMusicCompany,@akshaykumar,@ParineetiChopra" />
+    </nodes>
+    <edges>
+      <edge source="paperhearts79" target="@TajinderBagga" id="0">
+        <attvalues>
+          <attvalue for="0" value="1698" />
+          <attvalue for="1" value="867" />
+          <attvalue for="2" value="34283" />
+          <attvalue for="3" value="303" />
+          <attvalue for="4" value="2020-03-29T10:22:53Z" />
+        </attvalues>
+      </edge>
+      <edge source="deepaksomisetty" target="@narendramodi,@AkhilAkkineni8,@iamnagarjuna,@chay_akkineni" id="1">
+        <attvalues>
+          <attvalue for="0" value="2587" />
+          <attvalue for="1" value="34" />
+          <attvalue for="2" value="22673" />
+          <attvalue for="3" value="57" />
+          <attvalue for="4" value="2020-03-29T11:36:45Z" />
+        </attvalues>
+      </edge>
+      <edge source="LangaMahesh" target="@ArvindKejriwal" id="2">
+        <attvalues>
+          <attvalue for="0" value="24173" />
+          <attvalue for="1" value="791" />
+          <attvalue for="2" value="13932" />
+          <attvalue for="3" value="90" />
+          <attvalue for="4" value="2020-03-29T16:51:26Z" />
+        </attvalues>
+      </edge>
+      <edge source="iMonkJi" target="@ashutosh83B,@mygovindia" id="3">
+        <attvalues>
+          <attvalue for="0" value="20370" />
+          <attvalue for="1" value="5204" />
+          <attvalue for="2" value="46301" />
+          <attvalue for="3" value="606" />
+          <attvalue for="4" value="2020-03-30T02:37:13Z" />
+        </attvalues>
+      </edge>
+      <edge source="iMonkJi" target="@narendramodi,@alluarjun" id="4">
+        <attvalues>
+          <attvalue for="0" value="20194" />
+          <attvalue for="1" value="5150" />
+          <attvalue for="2" value="46305" />
+          <attvalue for="3" value="147" />
+          <attvalue for="4" value="2020-04-06T02:32:12Z" />
+        </attvalues>
+      </edge>
+      <edge source="AshramBlr" target="@mygovindia" id="5">
+        <attvalues>
+          <attvalue for="0" value="11190" />
+          <attvalue for="1" value="33" />
+          <attvalue for="2" value="9464" />
+          <attvalue for="3" value="633" />
+          <attvalue for="4" value="2020-03-30T02:42:05Z" />
+        </attvalues>
+      </edge>
+      <edge source="AshramBlr" target="@AshramBlr" id="6">
+        <attvalues>
+          <attvalue for="0" value="11182" />
+          <attvalue for="1" value="33" />
+          <attvalue for="2" value="9468" />
+          <attvalue for="3" value="454" />
+          <attvalue for="4" value="2020-04-14T01:38:56Z" />
+        </attvalues>
+      </edge>
+      <edge source="MUMBlr1" target="@AshramBlr,@HRC,@humanrights1st,@HRDMinistry,@UN,@PMOIndia,@UNHumanRights,@RajGovOfficial,@CommissionerHR,@mygovindia,@HumaneSociety,@HMOIndia" id="7">
+        <attvalues>
+          <attvalue for="0" value="6794" />
+          <attvalue for="1" value="244" />
+          <attvalue for="2" value="4064" />
+          <attvalue for="3" value="74" />
+          <attvalue for="4" value="2020-03-30T02:52:10Z" />
+        </attvalues>
+      </edge>
+      <edge source="MUMBlr1" target="@AshramBlr,@BangaloreTimes1,@DDNational,@BangaloreMirror,@cnnbrk,@ZeeNews,@THBengaluru,@airnewsalerts,@BBCHindi,@DeccanHerald,@TOIBengaluru" id="8">
+        <attvalues>
+          <attvalue for="0" value="6792" />
+          <attvalue for="1" value="243" />
+          <attvalue for="2" value="4066" />
+          <attvalue for="3" value="75" />
+          <attvalue for="4" value="2020-03-31T01:50:27Z" />
+        </attvalues>
+      </edge>
+      <edge source="MUMBlr1" target="@AshramBlr,@banashankarips,@Tejasvi_Surya,@HRC,@UNOCHA,@BlrCityPolice,@CPBlr,@narendramodi,@HRDMinistry,@UNHumanRights,@HumaneSociety,@HMOKarnataka" id="9">
+        <attvalues>
+          <attvalue for="0" value="6781" />
+          <attvalue for="1" value="242" />
+          <attvalue for="2" value="4077" />
+          <attvalue for="3" value="68" />
+          <attvalue for="4" value="2020-04-06T01:36:08Z" />
+        </attvalues>
+      </edge>
+      <edge source="sudarsansand" target="@Naveen_Odisha" id="10">
+        <attvalues>
+          <attvalue for="0" value="577028" />
+          <attvalue for="1" value="827" />
+          <attvalue for="2" value="57357" />
+          <attvalue for="3" value="467" />
+          <attvalue for="4" value="2020-03-30T05:12:45Z" />
+        </attvalues>
+      </edge>
+      <edge source="sudarsansand" target="@narendramodi" id="11">
+        <attvalues>
+          <attvalue for="0" value="578215" />
+          <attvalue for="1" value="830" />
+          <attvalue for="2" value="57657" />
+          <attvalue for="3" value="58" />
+          <attvalue for="4" value="2020-04-05T07:01:15Z" />
+        </attvalues>
+      </edge>
+      <edge source="sudarsansand" target="@MoHFW_INDIA,@narendramodi,@dpradhanbjp,@imranirampal,@COVIDNewsByMIB,@drharshvardhan,@PiyushGoyal,@HimaDas8,@HardeepSPuri,@AmitShah,@smritiirani" id="12">
+        <attvalues>
+          <attvalue for="0" value="578216" />
+          <attvalue for="1" value="830" />
+          <attvalue for="2" value="57657" />
+          <attvalue for="3" value="68" />
+          <attvalue for="4" value="2020-04-05T03:55:59Z" />
+        </attvalues>
+      </edge>
+      <edge source="sudarsansand" target="@WHO,@DrTedros,@ladygaga,@GlblCtzn" id="13">
+        <attvalues>
+          <attvalue for="0" value="581648" />
+          <attvalue for="1" value="838" />
+          <attvalue for="2" value="58675" />
+          <attvalue for="3" value="62" />
+          <attvalue for="4" value="2020-04-18T10:46:06Z" />
+        </attvalues>
+      </edge>
+      <edge source="sudarsansand" target="@HFWOdisha,@MoHFW_INDIA,@dpradhanbjp,@KapilSharmaK9,@COVIDNewsByMIB,@drharshvardhan,@PiyushGoyal,@SrBachchan,@ArvindKejriwal,@ChouhanShivraj,@ICMRDELHI,@CMO_Odisha,@KTRTRS" id="14">
+        <attvalues>
+          <attvalue for="0" value="581931" />
+          <attvalue for="1" value="838" />
+          <attvalue for="2" value="58750" />
+          <attvalue for="3" value="131" />
+          <attvalue for="4" value="2020-04-20T14:48:11Z" />
+        </attvalues>
+      </edge>
+      <edge source="AnimaSonkar" target="@RanveerOfficial,@deepikapadukone" id="15">
+        <attvalues>
+          <attvalue for="0" value="10316" />
+          <attvalue for="1" value="550" />
+          <attvalue for="2" value="49962" />
+          <attvalue for="3" value="112" />
+          <attvalue for="4" value="2020-03-30T08:26:53Z" />
+        </attvalues>
+      </edge>
+      <edge source="AnimaSonkar" target="@adgpi" id="16">
+        <attvalues>
+          <attvalue for="0" value="11101" />
+          <attvalue for="1" value="617" />
+          <attvalue for="2" value="52692" />
+          <attvalue for="3" value="62" />
+          <attvalue for="4" value="2020-04-08T20:35:50Z" />
+        </attvalues>
+      </edge>
+      <edge source="manukumarjain" target="@RailMinIndia" id="17">
+        <attvalues>
+          <attvalue for="0" value="316020" />
+          <attvalue for="1" value="375" />
+          <attvalue for="2" value="1281" />
+          <attvalue for="3" value="79" />
+          <attvalue for="4" value="2020-03-30T12:44:12Z" />
+        </attvalues>
+      </edge>
+      <edge source="manukumarjain" target="@OfficeofUT,@CMOMaharashtra" id="18">
+        <attvalues>
+          <attvalue for="0" value="319428" />
+          <attvalue for="1" value="377" />
+          <attvalue for="2" value="1283" />
+          <attvalue for="3" value="189" />
+          <attvalue for="4" value="2020-04-03T14:42:22Z" />
+        </attvalues>
+      </edge>
+      <edge source="manukumarjain" target="@ArvindKejriwal,@CMODelhi" id="19">
+        <attvalues>
+          <attvalue for="0" value="321245" />
+          <attvalue for="1" value="377" />
+          <attvalue for="2" value="1282" />
+          <attvalue for="3" value="83" />
+          <attvalue for="4" value="2020-04-05T10:38:17Z" />
+        </attvalues>
+      </edge>
+      <edge source="Milan_reports" target="@IndiaToday" id="20">
+        <attvalues>
+          <attvalue for="0" value="3156" />
+          <attvalue for="1" value="853" />
+          <attvalue for="2" value="12696" />
+          <attvalue for="3" value="106" />
+          <attvalue for="4" value="2020-04-04T05:21:32Z" />
+        </attvalues>
+      </edge>
+      <edge source="mymalishka" target="@AUThackeray,@RedFM_Mumbai,@RedFMIndia,@mybmc,@CMOMaharashtra" id="21">
+        <attvalues>
+          <attvalue for="0" value="1353059" />
+          <attvalue for="1" value="567" />
+          <attvalue for="2" value="9531" />
+          <attvalue for="3" value="54" />
+          <attvalue for="4" value="2020-03-30T19:52:03Z" />
+        </attvalues>
+      </edge>
+      <edge source="manojmuntashir" target="@narendramodi,@RochakTweets" id="22">
+        <attvalues>
+          <attvalue for="0" value="153916" />
+          <attvalue for="1" value="600" />
+          <attvalue for="2" value="34825" />
+          <attvalue for="3" value="97" />
+          <attvalue for="4" value="2020-03-31T08:21:05Z" />
+        </attvalues>
+      </edge>
+      <edge source="idiamondbabu" target="@Siva_Kartikeyan" id="23">
+        <attvalues>
+          <attvalue for="0" value="43413" />
+          <attvalue for="1" value="1055" />
+          <attvalue for="2" value="24450" />
+          <attvalue for="3" value="106" />
+          <attvalue for="4" value="2020-03-31T09:13:53Z" />
+        </attvalues>
+      </edge>
+      <edge source="prasarbharati" target="@narendramodi" id="24">
+        <attvalues>
+          <attvalue for="0" value="190823" />
+          <attvalue for="1" value="115" />
+          <attvalue for="2" value="518" />
+          <attvalue for="3" value="57" />
+          <attvalue for="4" value="2020-03-31T11:50:44Z" />
+        </attvalues>
+      </edge>
+      <edge source="thekiranbedi" target="@AkashvaniAIR,@ANI,@PTI_News" id="25">
+        <attvalues>
+          <attvalue for="0" value="12223352" />
+          <attvalue for="1" value="296" />
+          <attvalue for="2" value="9692" />
+          <attvalue for="3" value="80" />
+          <attvalue for="4" value="2020-04-01T06:28:33Z" />
+        </attvalues>
+      </edge>
+      <edge source="thekiranbedi" target="@NewIndianXpress,@ANI" id="26">
+        <attvalues>
+          <attvalue for="0" value="12223173" />
+          <attvalue for="1" value="296" />
+          <attvalue for="2" value="9692" />
+          <attvalue for="3" value="59" />
+          <attvalue for="4" value="2020-04-01T11:07:09Z" />
+        </attvalues>
+      </edge>
+      <edge source="thekiranbedi" target="@narendramodi,@PMOIndia" id="27">
+        <attvalues>
+          <attvalue for="0" value="12229786" />
+          <attvalue for="1" value="296" />
+          <attvalue for="2" value="9702" />
+          <attvalue for="3" value="370" />
+          <attvalue for="4" value="2020-04-03T03:59:05Z" />
+        </attvalues>
+      </edge>
+      <edge source="thekiranbedi" target="@IndianExpress,@ANI,@PTI_News" id="28">
+        <attvalues>
+          <attvalue for="0" value="12244867" />
+          <attvalue for="1" value="295" />
+          <attvalue for="2" value="9714" />
+          <attvalue for="3" value="132" />
+          <attvalue for="4" value="2020-04-07T04:09:52Z" />
+        </attvalues>
+      </edge>
+      <edge source="DrTamilisaiGuv" target="@IPRTelangana,@VPSecretariat,@rashtrapatibhvn,@PMOIndia" id="29">
+        <attvalues>
+          <attvalue for="0" value="355679" />
+          <attvalue for="1" value="520" />
+          <attvalue for="2" value="35426" />
+          <attvalue for="3" value="459" />
+          <attvalue for="4" value="2020-04-01T08:40:08Z" />
+        </attvalues>
+      </edge>
+      <edge source="DrTamilisaiGuv" target="@PMCares" id="30">
+        <attvalues>
+          <attvalue for="0" value="361221" />
+          <attvalue for="1" value="524" />
+          <attvalue for="2" value="35765" />
+          <attvalue for="3" value="53" />
+          <attvalue for="4" value="2020-04-06T06:04:21Z" />
+        </attvalues>
+      </edge>
+      <edge source="deepak_mragwani" target="@JantaKeeAwaaz" id="31">
+        <attvalues>
+          <attvalue for="0" value="9676" />
+          <attvalue for="1" value="5579" />
+          <attvalue for="2" value="216765" />
+          <attvalue for="3" value="61" />
+          <attvalue for="4" value="2020-04-02T01:20:52Z" />
+        </attvalues>
+      </edge>
+      <edge source="deepak_mragwani" target="@RamanSI02837335" id="32">
+        <attvalues>
+          <attvalue for="0" value="9974" />
+          <attvalue for="1" value="5584" />
+          <attvalue for="2" value="218843" />
+          <attvalue for="3" value="50" />
+          <attvalue for="4" value="2020-04-14T02:20:37Z" />
+        </attvalues>
+      </edge>
+      <edge source="deepak_mragwani" target="@RamratePahade,@bhartiya_a_" id="33">
+        <attvalues>
+          <attvalue for="0" value="9974" />
+          <attvalue for="1" value="5584" />
+          <attvalue for="2" value="218843" />
+          <attvalue for="3" value="53" />
+          <attvalue for="4" value="2020-04-14T02:26:33Z" />
+        </attvalues>
+      </edge>
+      <edge source="deepak_mragwani" target="@_Ajayks" id="34">
+        <attvalues>
+          <attvalue for="0" value="10004" />
+          <attvalue for="1" value="5656" />
+          <attvalue for="2" value="219230" />
+          <attvalue for="3" value="62" />
+          <attvalue for="4" value="2020-04-16T02:34:43Z" />
+        </attvalues>
+      </edge>
+      <edge source="CharanT16" target="@TV9Telugu" id="35">
+        <attvalues>
+          <attvalue for="0" value="1506" />
+          <attvalue for="1" value="1817" />
+          <attvalue for="2" value="4760" />
+          <attvalue for="3" value="574" />
+          <attvalue for="4" value="2020-04-02T07:32:36Z" />
+        </attvalues>
+      </edge>
+      <edge source="docvjg" target="@RMLDelhi,@AnantBhan,@drharshvardhan,@PMOIndia" id="36">
+        <attvalues>
+          <attvalue for="0" value="3039" />
+          <attvalue for="1" value="3769" />
+          <attvalue for="2" value="19261" />
+          <attvalue for="3" value="78" />
+          <attvalue for="4" value="2020-04-03T08:08:03Z" />
+        </attvalues>
+      </edge>
+      <edge source="docvjg" target="@narendramodi,@DrKumarVishwas,@drharshvardhan,@ZeeMusicCompany,@akshaykumar,@ParineetiChopra" id="37">
+        <attvalues>
+          <attvalue for="0" value="3853" />
+          <attvalue for="1" value="1430" />
+          <attvalue for="2" value="20856" />
+          <attvalue for="3" value="2098" />
+          <attvalue for="4" value="2020-04-29T15:21:12Z" />
+        </attvalues>
+      </edge>
+      <edge source="vikrantgupta73" target="@TheKanikakapoor" id="38">
+        <attvalues>
+          <attvalue for="0" value="319227" />
+          <attvalue for="1" value="312" />
+          <attvalue for="2" value="17070" />
+          <attvalue for="3" value="64" />
+          <attvalue for="4" value="2020-04-04T15:40:45Z" />
+        </attvalues>
+      </edge>
+      <edge source="ABChiruYuvatha" target="@narendramodi,@AlwaysRamCharan" id="39">
+        <attvalues>
+          <attvalue for="0" value="835" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="55" />
+          <attvalue for="3" value="56" />
+          <attvalue for="4" value="2020-04-04T15:46:08Z" />
+        </attvalues>
+      </edge>
+      <edge source="ABChiruYuvatha" target="@KChiruTweets" id="40">
+        <attvalues>
+          <attvalue for="0" value="835" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="55" />
+          <attvalue for="3" value="73" />
+          <attvalue for="4" value="2020-04-05T16:01:24Z" />
+        </attvalues>
+      </edge>
+      <edge source="chhuti_is" target="@BJP4India,@dreamgirlhema" id="41">
+        <attvalues>
+          <attvalue for="0" value="8489" />
+          <attvalue for="1" value="836" />
+          <attvalue for="2" value="21463" />
+          <attvalue for="3" value="71" />
+          <attvalue for="4" value="2020-04-04T16:06:09Z" />
+        </attvalues>
+      </edge>
+      <edge source="KSFA_Official" target="@KicchaSudeep,@ColorsKannada" id="42">
+        <attvalues>
+          <attvalue for="0" value="91971" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="83378" />
+          <attvalue for="3" value="53" />
+          <attvalue for="4" value="2020-04-05T06:20:14Z" />
+        </attvalues>
+      </edge>
+      <edge source="KSFA_Official" target="@KicchaSudeep" id="43">
+        <attvalues>
+          <attvalue for="0" value="91971" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="83378" />
+          <attvalue for="3" value="86" />
+          <attvalue for="4" value="2020-04-05T15:43:08Z" />
+        </attvalues>
+      </edge>
+      <edge source="KSFA_Official" target="@KicchaSudeep,@AanandAaudio,@10am,@Kotigobba3Movie" id="44">
+        <attvalues>
+          <attvalue for="0" value="92184" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="83548" />
+          <attvalue for="3" value="146" />
+          <attvalue for="4" value="2020-04-24T06:32:32Z" />
+        </attvalues>
+      </edge>
+      <edge source="musharraf_ias" target="@arvindkumar_ias,@KTRTRS" id="45">
+        <attvalues>
+          <attvalue for="0" value="14690" />
+          <attvalue for="1" value="310" />
+          <attvalue for="2" value="2532" />
+          <attvalue for="3" value="190" />
+          <attvalue for="4" value="2020-04-06T03:34:10Z" />
+        </attvalues>
+      </edge>
+      <edge source="revolution_raj7" target="@BJP4India" id="46">
+        <attvalues>
+          <attvalue for="0" value="1575" />
+          <attvalue for="1" value="940" />
+          <attvalue for="2" value="26900" />
+          <attvalue for="3" value="60" />
+          <attvalue for="4" value="2020-04-06T16:32:27Z" />
+        </attvalues>
+      </edge>
+      <edge source="Chaiti" target="@BorisJohnson" id="47">
+        <attvalues>
+          <attvalue for="0" value="17170" />
+          <attvalue for="1" value="1871" />
+          <attvalue for="2" value="9995" />
+          <attvalue for="3" value="50" />
+          <attvalue for="4" value="2020-04-06T19:41:39Z" />
+        </attvalues>
+      </edge>
+      <edge source="Gurkirtan_77" target="@derasachasauda" id="48">
+        <attvalues>
+          <attvalue for="0" value="147" />
+          <attvalue for="1" value="17" />
+          <attvalue for="2" value="13836" />
+          <attvalue for="3" value="112" />
+          <attvalue for="4" value="2020-04-07T01:34:07Z" />
+        </attvalues>
+      </edge>
+      <edge source="sandep_lnsan" target="@Gurmeetramrahim" id="49">
+        <attvalues>
+          <attvalue for="0" value="327" />
+          <attvalue for="1" value="129" />
+          <attvalue for="2" value="9787" />
+          <attvalue for="3" value="69" />
+          <attvalue for="4" value="2020-04-07T01:38:32Z" />
+        </attvalues>
+      </edge>
+      <edge source="vbwalia" target="@IYC" id="50">
+        <attvalues>
+          <attvalue for="0" value="18088" />
+          <attvalue for="1" value="549" />
+          <attvalue for="2" value="2242" />
+          <attvalue for="3" value="70" />
+          <attvalue for="4" value="2020-04-07T07:00:27Z" />
+        </attvalues>
+      </edge>
+      <edge source="radiocityindia" target="@narendramodi,@BeingSalmanKhan,@PMOIndia" id="51">
+        <attvalues>
+          <attvalue for="0" value="311039" />
+          <attvalue for="1" value="470" />
+          <attvalue for="2" value="10984" />
+          <attvalue for="3" value="171" />
+          <attvalue for="4" value="2020-04-07T07:15:32Z" />
+        </attvalues>
+      </edge>
+      <edge source="worldNTRfans" target="@tarak9999,@AnsarNtr" id="52">
+        <attvalues>
+          <attvalue for="0" value="60563" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="4363" />
+          <attvalue for="3" value="94" />
+          <attvalue for="4" value="2020-04-07T07:20:40Z" />
+        </attvalues>
+      </edge>
+      <edge source="worldNTRfans" target="@tarak9999" id="53">
+        <attvalues>
+          <attvalue for="0" value="61589" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="4406" />
+          <attvalue for="3" value="115" />
+          <attvalue for="4" value="2020-04-25T02:53:01Z" />
+        </attvalues>
+      </edge>
+      <edge source="karunasagarllb" target="@Eenadu_Newspapr" id="54">
+        <attvalues>
+          <attvalue for="0" value="3964" />
+          <attvalue for="1" value="230" />
+          <attvalue for="2" value="7655" />
+          <attvalue for="3" value="165" />
+          <attvalue for="4" value="2020-04-08T04:29:52Z" />
+        </attvalues>
+      </edge>
+      <edge source="IamMaheshFan" target="@urstrulyMahesh" id="55">
+        <attvalues>
+          <attvalue for="0" value="24948" />
+          <attvalue for="1" value="167" />
+          <attvalue for="2" value="8922" />
+          <attvalue for="3" value="52" />
+          <attvalue for="4" value="2020-04-08T05:47:55Z" />
+        </attvalues>
+      </edge>
+      <edge source="JSPLFoundation" target="@jsplcorporate,@shallujindal20,@JSPLFoundation" id="56">
+        <attvalues>
+          <attvalue for="0" value="5908" />
+          <attvalue for="1" value="152" />
+          <attvalue for="2" value="1741" />
+          <attvalue for="3" value="83" />
+          <attvalue for="4" value="2020-04-08T16:12:29Z" />
+        </attvalues>
+      </edge>
+      <edge source="Srigangacinemas" target="@OTFC_Off,@Dir_Lokesh,@actorvijay,@XBFilmCreators,@Srigangacinemas,@anirudhofficial" id="57">
+        <attvalues>
+          <attvalue for="0" value="4558" />
+          <attvalue for="1" value="63" />
+          <attvalue for="2" value="625" />
+          <attvalue for="3" value="386" />
+          <attvalue for="4" value="2020-04-08T17:35:06Z" />
+        </attvalues>
+      </edge>
+      <edge source="gauravcsawant" target="@narendramodi,@realDonaldTrump,@PMOIndia" id="58">
+        <attvalues>
+          <attvalue for="0" value="1425465" />
+          <attvalue for="1" value="1299" />
+          <attvalue for="2" value="10814" />
+          <attvalue for="3" value="81" />
+          <attvalue for="4" value="2020-04-08T19:20:57Z" />
+        </attvalues>
+      </edge>
+      <edge source="gauravcsawant" target="@gauravcsawant," id="59">
+        <attvalues>
+          <attvalue for="0" value="1425598" />
+          <attvalue for="1" value="1301" />
+          <attvalue for="2" value="10848" />
+          <attvalue for="3" value="74" />
+          <attvalue for="4" value="2020-04-10T15:21:22Z" />
+        </attvalues>
+      </edge>
+      <edge source="VijuyRonjan" target="@TheOfficialSBI" id="60">
+        <attvalues>
+          <attvalue for="0" value="2004" />
+          <attvalue for="1" value="305" />
+          <attvalue for="2" value="8525" />
+          <attvalue for="3" value="85" />
+          <attvalue for="4" value="2020-04-17T12:59:58Z" />
+        </attvalues>
+      </edge>
+      <edge source="VijuyRonjan" target="@TheOfficialSBI,@challasetty" id="61">
+        <attvalues>
+          <attvalue for="0" value="2124" />
+          <attvalue for="1" value="308" />
+          <attvalue for="2" value="8756" />
+          <attvalue for="3" value="89" />
+          <attvalue for="4" value="2020-04-26T12:31:08Z" />
+        </attvalues>
+      </edge>
+      <edge source="SubbarajuSiva" target="@rk_mahanti,@AkhilAkkineni8,@iamnagarjuna,@amalaakkineni1,@chay_akkineni" id="62">
+        <attvalues>
+          <attvalue for="0" value="3079" />
+          <attvalue for="1" value="228" />
+          <attvalue for="2" value="5291" />
+          <attvalue for="3" value="63" />
+          <attvalue for="4" value="2020-04-11T08:57:10Z" />
+        </attvalues>
+      </edge>
+      <edge source="digvijayvasuni1" target="@TOIMumbai" id="63">
+        <attvalues>
+          <attvalue for="0" value="1576" />
+          <attvalue for="1" value="596" />
+          <attvalue for="2" value="31840" />
+          <attvalue for="3" value="549" />
+          <attvalue for="4" value="2020-04-12T02:59:43Z" />
+        </attvalues>
+      </edge>
+      <edge source="amitbhawani" target="@narendramodi" id="64">
+        <attvalues>
+          <attvalue for="0" value="222695" />
+          <attvalue for="1" value="58" />
+          <attvalue for="2" value="1336" />
+          <attvalue for="3" value="397" />
+          <attvalue for="4" value="2020-04-14T04:48:10Z" />
+        </attvalues>
+      </edge>
+      <edge source="silarindam" target="@RituparnaSpeaks,@RukminiMaitra,@MamataOfficial,@bickramghosh,@mimichakraborty,@YourKoel,@nusratchirps,@jeet30,@prosenjitbumba,@idevadhikari,@subhashreesotwe" id="65">
+        <attvalues>
+          <attvalue for="0" value="85446" />
+          <attvalue for="1" value="647" />
+          <attvalue for="2" value="15779" />
+          <attvalue for="3" value="55" />
+          <attvalue for="4" value="2020-04-14T08:44:42Z" />
+        </attvalues>
+      </edge>
+      <edge source="achyuta_samanta" target="@odisha_mining" id="66">
+        <attvalues>
+          <attvalue for="0" value="146661" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1441" />
+          <attvalue for="3" value="66" />
+          <attvalue for="4" value="2020-04-14T15:39:16Z" />
+        </attvalues>
+      </edge>
+      <edge source="achyuta_samanta" target="@ndtv,@ravishndtv" id="67">
+        <attvalues>
+          <attvalue for="0" value="147638" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="1447" />
+          <attvalue for="3" value="59" />
+          <attvalue for="4" value="2020-04-22T15:13:22Z" />
+        </attvalues>
+      </edge>
+      <edge source="SuriyaFansClub" target="@Suriya_offl,@rajsekarpandian,@NorthchennaiSFC,@prabhu_sr" id="68">
+        <attvalues>
+          <attvalue for="0" value="262651" />
+          <attvalue for="1" value="103" />
+          <attvalue for="2" value="13703" />
+          <attvalue for="3" value="212" />
+          <attvalue for="4" value="2020-04-14T17:38:30Z" />
+        </attvalues>
+      </edge>
+      <edge source="gaurgopald" target="@narendramodi" id="69">
+        <attvalues>
+          <attvalue for="0" value="62552" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="105" />
+          <attvalue for="3" value="75" />
+          <attvalue for="4" value="2020-04-15T03:55:14Z" />
+        </attvalues>
+      </edge>
+      <edge source="alok_ajay" target="@narendramodi" id="70">
+        <attvalues>
+          <attvalue for="0" value="108493" />
+          <attvalue for="1" value="50" />
+          <attvalue for="2" value="110" />
+          <attvalue for="3" value="59" />
+          <attvalue for="4" value="2020-04-15T06:48:57Z" />
+        </attvalues>
+      </edge>
+      <edge source="pafcoms" target="@milaapdotorg" id="71">
+        <attvalues>
+          <attvalue for="0" value="1522" />
+          <attvalue for="1" value="979" />
+          <attvalue for="2" value="8669" />
+          <attvalue for="3" value="52" />
+          <attvalue for="4" value="2020-04-15T08:11:18Z" />
+        </attvalues>
+      </edge>
+      <edge source="Elizatweetz" target="@RahulGandhi" id="72">
+        <attvalues>
+          <attvalue for="0" value="2017" />
+          <attvalue for="1" value="861" />
+          <attvalue for="2" value="3061" />
+          <attvalue for="3" value="149" />
+          <attvalue for="4" value="2020-04-15T09:06:29Z" />
+        </attvalues>
+      </edge>
+      <edge source="kartikeya_1975" target="@RahulGandhi" id="73">
+        <attvalues>
+          <attvalue for="0" value="13506" />
+          <attvalue for="1" value="763" />
+          <attvalue for="2" value="5824" />
+          <attvalue for="3" value="60" />
+          <attvalue for="4" value="2020-04-16T08:46:33Z" />
+        </attvalues>
+      </edge>
+      <edge source="Guttajwala" target="@TheVishnuVishal" id="74">
+        <attvalues>
+          <attvalue for="0" value="1520434" />
+          <attvalue for="1" value="421" />
+          <attvalue for="2" value="8806" />
+          <attvalue for="3" value="74" />
+          <attvalue for="4" value="2020-04-17T07:33:20Z" />
+        </attvalues>
+      </edge>
+      <edge source="JebiMather" target="@hazeekhalid,@IYC" id="75">
+        <attvalues>
+          <attvalue for="0" value="18923" />
+          <attvalue for="1" value="70" />
+          <attvalue for="2" value="17862" />
+          <attvalue for="3" value="62" />
+          <attvalue for="4" value="2020-04-17T10:26:41Z" />
+        </attvalues>
+      </edge>
+      <edge source="SandeepUnnithan" target="@indiatoday" id="76">
+        <attvalues>
+          <attvalue for="0" value="19690" />
+          <attvalue for="1" value="704" />
+          <attvalue for="2" value="13472" />
+          <attvalue for="3" value="101" />
+          <attvalue for="4" value="2020-04-17T15:23:48Z" />
+        </attvalues>
+      </edge>
+      <edge source="TanushreePande" target="@iamsrk" id="77">
+        <attvalues>
+          <attvalue for="0" value="11330" />
+          <attvalue for="1" value="1303" />
+          <attvalue for="2" value="17440" />
+          <attvalue for="3" value="222" />
+          <attvalue for="4" value="2020-04-18T06:39:14Z" />
+        </attvalues>
+      </edge>
+      <edge source="Srk_bangalore" target="@iamsrk,@GlblCtzn,@togetherathome" id="78">
+        <attvalues>
+          <attvalue for="0" value="5336" />
+          <attvalue for="1" value="198" />
+          <attvalue for="2" value="5757" />
+          <attvalue for="3" value="61" />
+          <attvalue for="4" value="2020-04-18T18:10:08Z" />
+        </attvalues>
+      </edge>
+      <edge source="GulzebAhmed" target="@SachinPilot,@ashokgehlot51,@INCRajasthan" id="79">
+        <attvalues>
+          <attvalue for="0" value="8161" />
+          <attvalue for="1" value="2490" />
+          <attvalue for="2" value="13766" />
+          <attvalue for="3" value="87" />
+          <attvalue for="4" value="2020-04-19T12:25:21Z" />
+        </attvalues>
+      </edge>
+      <edge source="Anurag_Dwary" target="@AbhayIndia,@ndtvindia,@OfficeOfKNath,@VTankha,@ndtv" id="80">
+        <attvalues>
+          <attvalue for="0" value="3954" />
+          <attvalue for="1" value="264" />
+          <attvalue for="2" value="89" />
+          <attvalue for="3" value="155" />
+          <attvalue for="4" value="2020-04-22T14:43:30Z" />
+        </attvalues>
+      </edge>
+      <edge source="Anurag_Dwary" target="@ndtv" id="81">
+        <attvalues>
+          <attvalue for="0" value="4035" />
+          <attvalue for="1" value="264" />
+          <attvalue for="2" value="89" />
+          <attvalue for="3" value="263" />
+          <attvalue for="4" value="2020-04-26T03:25:50Z" />
+        </attvalues>
+      </edge>
+      <edge source="Anurag_Dwary" target="@ChouhanShivraj,@ndtvindia,@drnarottammisra,@INCMP,@OfficeOfKNath,@ndtv" id="82">
+        <attvalues>
+          <attvalue for="0" value="4089" />
+          <attvalue for="1" value="265" />
+          <attvalue for="2" value="89" />
+          <attvalue for="3" value="73" />
+          <attvalue for="4" value="2020-04-26T16:06:03Z" />
+        </attvalues>
+      </edge>
+      <edge source="AvdheshanandG" target="@ani_digital" id="83">
+        <attvalues>
+          <attvalue for="0" value="182988" />
+          <attvalue for="1" value="59" />
+          <attvalue for="2" value="2406" />
+          <attvalue for="3" value="1077" />
+          <attvalue for="4" value="2020-04-23T01:30:04Z" />
+        </attvalues>
+      </edge>
+      <edge source="AvdheshanandG" target="@ani_digital,@RSSorg,@AcharyaSabha,@VHPDigital" id="84">
+        <attvalues>
+          <attvalue for="0" value="187987" />
+          <attvalue for="1" value="52" />
+          <attvalue for="2" value="2511" />
+          <attvalue for="3" value="421" />
+          <attvalue for="4" value="2020-04-27T01:30:04Z" />
+        </attvalues>
+      </edge>
+      <edge source="ImSuresh_insan" target="@Gurmeetramrahim" id="85">
+        <attvalues>
+          <attvalue for="0" value="3856" />
+          <attvalue for="1" value="703" />
+          <attvalue for="2" value="191095" />
+          <attvalue for="3" value="70" />
+          <attvalue for="4" value="2020-04-23T01:52:35Z" />
+        </attvalues>
+      </edge>
+      <edge source="DEVenDrapai" target="@CMOMaharashtra" id="86">
+        <attvalues>
+          <attvalue for="0" value="8160" />
+          <attvalue for="1" value="990" />
+          <attvalue for="2" value="2361" />
+          <attvalue for="3" value="70" />
+          <attvalue for="4" value="2020-04-25T10:37:08Z" />
+        </attvalues>
+      </edge>
+      <edge source="SinghLions" target="@DelhiPolice" id="87">
+        <attvalues>
+          <attvalue for="0" value="1500208" />
+          <attvalue for="1" value="1493093" />
+          <attvalue for="2" value="26780" />
+          <attvalue for="3" value="183" />
+          <attvalue for="4" value="2020-04-27T10:42:58Z" />
+        </attvalues>
+      </edge>
+      <edge source="KotaNeelima" target="@TedhiLakeer,@TheQuint" id="88">
+        <attvalues>
+          <attvalue for="0" value="22211" />
+          <attvalue for="1" value="790" />
+          <attvalue for="2" value="2492" />
+          <attvalue for="3" value="110" />
+          <attvalue for="4" value="2020-04-27T15:37:53Z" />
+        </attvalues>
+      </edge>
+      <edge source="NPDay" target="@ThePrintIndia" id="89">
+        <attvalues>
+          <attvalue for="0" value="19874" />
+          <attvalue for="1" value="1036" />
+          <attvalue for="2" value="8933" />
+          <attvalue for="3" value="390" />
+          <attvalue for="4" value="2020-04-28T05:18:54Z" />
+        </attvalues>
+      </edge>
+      <edge source="SanirSayyed" target="@aimim_national,@asadowaisi" id="90">
+        <attvalues>
+          <attvalue for="0" value="58" />
+          <attvalue for="1" value="51" />
+          <attvalue for="2" value="1261" />
+          <attvalue for="3" value="169" />
+          <attvalue for="4" value="2020-04-28T09:57:41Z" />
+        </attvalues>
+      </edge>
+      <edge source="PramodChturvedi" target="@aimim_national" id="91">
+        <attvalues>
+          <attvalue for="0" value="2273" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="3620" />
+          <attvalue for="3" value="180" />
+          <attvalue for="4" value="2020-04-29T03:53:15Z" />
+        </attvalues>
+      </edge>
+      <edge source="PramodChturvedi" target="@aimim_national,@balala_ahmed" id="92">
+        <attvalues>
+          <attvalue for="0" value="2282" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="3628" />
+          <attvalue for="3" value="68" />
+          <attvalue for="4" value="2020-04-29T12:52:01Z" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

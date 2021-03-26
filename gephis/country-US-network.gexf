@@ -1,0 +1,2477 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-03-26">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="followers_count" type="long" />
+      <attribute id="1" title="friends_count" type="long" />
+      <attribute id="2" title="favourites_count" type="long" />
+      <attribute id="3" title="retweet_count" type="long" />
+      <attribute id="4" title="created_at" type="string" />
+    </attributes>
+    <nodes>
+      <node id="LorenzoHall" label="LorenzoHall" />
+      <node id="@wusa9" label="@wusa9" />
+      <node id="JudgeClayJ" label="JudgeClayJ" />
+      <node id="@DCHHS,@PCCInnovation" label="@DCHHS,@PCCInnovation" />
+      <node id="drkomanduri" label="drkomanduri" />
+      <node id="@GovRonDeSantis" label="@GovRonDeSantis" />
+      <node id="grantstern" label="grantstern" />
+      <node id="VanHipp" label="VanHipp" />
+      <node id="@IngrahamAngle,@realDonaldTrump" label="@IngrahamAngle,@realDonaldTrump" />
+      <node id="JoeBorelliNYC" label="JoeBorelliNYC" />
+      <node id="@SIUHOSPITAL" label="@SIUHOSPITAL" />
+      <node id="PatFNelson" label="PatFNelson" />
+      <node id="@NYGovCuomo" label="@NYGovCuomo" />
+      <node id="JoshBreslowWKRN" label="JoshBreslowWKRN" />
+      <node id="@WKRN" label="@WKRN" />
+      <node id="HandtevyMD" label="HandtevyMD" />
+      <node id="@Rick_Pescatore" label="@Rick_Pescatore" />
+      <node id="AmandiOnAir" label="AmandiOnAir" />
+      <node id="@USAID,@JeremyKonyndyk" label="@USAID,@JeremyKonyndyk" />
+      <node id="ColSDM" label="ColSDM" />
+      <node id="@realDonaldTrump" label="@realDonaldTrump" />
+      <node id="David_Leavitt" label="David_Leavitt" />
+      <node id="@WKRN,@GovBillLee" label="@WKRN,@GovBillLee" />
+      <node id="W7VOA" label="W7VOA" />
+      <node id="@HHSGov,@Novartis,@Bayer" label="@HHSGov,@Novartis,@Bayer" />
+      <node id="DrChoueiri" label="DrChoueiri" />
+      <node id="@isbsci" label="@isbsci" />
+      <node id="sparksjls" label="sparksjls" />
+      <node id="@sparksjls" label="@sparksjls" />
+      <node id="4USAFreedom" label="4USAFreedom" />
+      <node id="@FloridaGOP,@GOP,@GovRonDeSantis" label="@FloridaGOP,@GOP,@GovRonDeSantis" />
+      <node id="evankirstel" label="evankirstel" />
+      <node id="@IrmaRaste,@AidVentil,@eViRaHealth,@RAPID_Event,@SME_MFG" label="@IrmaRaste,@AidVentil,@eViRaHealth,@RAPID_Event,@SME_MFG" />
+      <node id="MikevWUSA" label="MikevWUSA" />
+      <node id="@WUSA9" label="@WUSA9" />
+      <node id="BrianCaskeyNC" label="BrianCaskeyNC" />
+      <node id="@NC_Governor" label="@NC_Governor" />
+      <node id="MikeyKayNYC" label="MikeyKayNYC" />
+      <node id="@krystalball" label="@krystalball" />
+      <node id="@POTUS,@VP" label="@POTUS,@VP" />
+      <node id="JapanMissionUN" label="JapanMissionUN" />
+      <node id="@antonioguterres,@UN" label="@antonioguterres,@UN" />
+      <node id="GovSisolak" label="GovSisolak" />
+      <node id="@NVEmergencyMgmt,@DHHSNevada" label="@NVEmergencyMgmt,@DHHSNevada" />
+      <node id="@JacksonHealth" label="@JacksonHealth" />
+      <node id="uche_blackstock" label="uche_blackstock" />
+      <node id="@Slate,@juliacraven" label="@Slate,@juliacraven" />
+      <node id="TraceySRogers1" label="TraceySRogers1" />
+      <node id="@HillaryClinton,@JoeBiden,@dbongino" label="@HillaryClinton,@JoeBiden,@dbongino" />
+      <node id="ChadLivengood" label="ChadLivengood" />
+      <node id="@GovernorBullock,@POTUS,@GovWhitmer" label="@GovernorBullock,@POTUS,@GovWhitmer" />
+      <node id="WCSOOregon" label="WCSOOregon" />
+      <node id="@Providence" label="@Providence" />
+      <node id="shomaristone" label="shomaristone" />
+      <node id="@nbcwashington" label="@nbcwashington" />
+      <node id="NBSaphierMD" label="NBSaphierMD" />
+      <node id="SarahRahal_" label="SarahRahal_" />
+      <node id="@detroitnews" label="@detroitnews" />
+      <node id="GovKemp" label="GovKemp" />
+      <node id="@GaDPH,@GeorgiaGuard,@BORUSG" label="@GaDPH,@GeorgiaGuard,@BORUSG" />
+      <node id="AndrewMIbrahim" label="AndrewMIbrahim" />
+      <node id="@tylerwinkelman,@kejoynt,@ASlavitt,@ashishkjha,@JosephSakran" label="@tylerwinkelman,@kejoynt,@ASlavitt,@ashishkjha,@JosephSakran" />
+      <node id="@IrmaRaste,@eViRaHealth,@MIT_CSAIL,@Mitefcmb" label="@IrmaRaste,@eViRaHealth,@MIT_CSAIL,@Mitefcmb" />
+      <node id="RealDrGina" label="RealDrGina" />
+      <node id="@IngrahamAngle,@DineshDSouza,@GovMikeHuckabee" label="@IngrahamAngle,@DineshDSouza,@GovMikeHuckabee" />
+      <node id="@LtGovNunez,@WhiteHouse,@PalmBeachGOP,@POTUS,@GOP,@GovRonDeSantis" label="@LtGovNunez,@WhiteHouse,@PalmBeachGOP,@POTUS,@GOP,@GovRonDeSantis" />
+      <node id="@GaDPH,@GeorgiaEMA,@GeorgiaGuard,@GovKemp" label="@GaDPH,@GeorgiaEMA,@GeorgiaGuard,@GovKemp" />
+      <node id="@AmandaHead,@AVoiceNews" label="@AmandaHead,@AVoiceNews" />
+      <node id="@IrmaRaste,@ScottKirsner,@eViRaHealth,@MIT,@techreview,@adamdanyal" label="@IrmaRaste,@ScottKirsner,@eViRaHealth,@MIT,@techreview,@adamdanyal" />
+      <node id="ScottWalker" label="ScottWalker" />
+      <node id="@POTUS,@realDonaldTrump,@SpeakerPelosi" label="@POTUS,@realDonaldTrump,@SpeakerPelosi" />
+      <node id="@eViRaHealth,@IrmaRaste" label="@eViRaHealth,@IrmaRaste" />
+      <node id="@BrianKarem,@gregolear,@Playboy,@realDonaldTrump" label="@BrianKarem,@gregolear,@Playboy,@realDonaldTrump" />
+      <node id="@fema" label="@fema" />
+      <node id="LydaKrewson" label="LydaKrewson" />
+      <node id="@STLCityGov" label="@STLCityGov" />
+      <node id="GCobbHunter" label="GCobbHunter" />
+      <node id="@RonDeSantisFL" label="@RonDeSantisFL" />
+      <node id="jasonbaum" label="jasonbaum" />
+      <node id="@USPS" label="@USPS" />
+      <node id="SolisREMDoc" label="SolisREMDoc" />
+      <node id="@mededgene,@airwayGladiator,@kovacsgj,@srrezaie,@emcrit,@jducanto,@RussBrown3,@TBayEDguy,@JohnCSakles,@ketaminh,@rob_cosentini,@EBMgoneWILD" label="@mededgene,@airwayGladiator,@kovacsgj,@srrezaie,@emcrit,@jducanto,@RussBrown3,@TBayEDguy,@JohnCSakles,@ketaminh,@rob_cosentini,@EBMgoneWILD" />
+      <node id="NewsGuyGreg" label="NewsGuyGreg" />
+      <node id="@WaltDisneyWorld,@BN9,@MyNews13" label="@WaltDisneyWorld,@BN9,@MyNews13" />
+      <node id="CrispinBurke" label="CrispinBurke" />
+      <node id="@TheRealCVN71" label="@TheRealCVN71" />
+      <node id="RepChipRoy" label="RepChipRoy" />
+      <node id="@RepArrington,@SteveScalise" label="@RepArrington,@SteveScalise" />
+      <node id="tarajakewaytv" label="tarajakewaytv" />
+      <node id="@CBSNewYork,@Giants,@Patriots" label="@CBSNewYork,@Giants,@Patriots" />
+      <node id="isiah4congress" label="isiah4congress" />
+      <node id="@isiah4congress" label="@isiah4congress" />
+      <node id="mickakers" label="mickakers" />
+      <node id="@Raiders" label="@Raiders" />
+      <node id="JamesComer" label="JamesComer" />
+      <node id="@CongressmanHice,@SecPompeo" label="@CongressmanHice,@SecPompeo" />
+      <node id="NaveedAJamali" label="NaveedAJamali" />
+      <node id="@Newsweek" label="@Newsweek" />
+      <node id="FOX5_Tiana" label="FOX5_Tiana" />
+      <node id="@FOX5Vegas" label="@FOX5Vegas" />
+      <node id="DMAronoff" label="DMAronoff" />
+      <node id="@VUMC_ID" label="@VUMC_ID" />
+      <node id="kerry98198" label="kerry98198" />
+      <node id="@GovNedLamont,@mitchellvii" label="@GovNedLamont,@mitchellvii" />
+      <node id="JJRyanOnAir" label="JJRyanOnAir" />
+      <node id="@LewisCapaldi,@NiallOfficial" label="@LewisCapaldi,@NiallOfficial" />
+      <node id="hjosephleblanc" label="hjosephleblanc" />
+      <node id="@Annakhait,@BillGates" label="@Annakhait,@BillGates" />
+      <node id="@NBCWashington" label="@NBCWashington" />
+      <node id="@nytimes,@GovWhitmer" label="@nytimes,@GovWhitmer" />
+      <node id="@realDonaldTrump,@GOP" label="@realDonaldTrump,@GOP" />
+      <node id="@POTUS,@SteveFDA,@VP" label="@POTUS,@SteveFDA,@VP" />
+      <node id="SophiaGermer" label="SophiaGermer" />
+      <node id="@NOLAnews" label="@NOLAnews" />
+      <node id="PACAF" label="PACAF" />
+      <node id="@fema,@CDCgov" label="@fema,@CDCgov" />
+      <node id="Ryanintheus" label="Ryanintheus" />
+      <node id="@ConvivialsNG" label="@ConvivialsNG" />
+      <node id="@POTUS" label="@POTUS" />
+      <node id="MarkPochapin" label="MarkPochapin" />
+      <node id="@nyulangone" label="@nyulangone" />
+      <node id="@SpeakerPelosi" label="@SpeakerPelosi" />
+      <node id="Fightfor15LA" label="Fightfor15LA" />
+      <node id="@McDonalds" label="@McDonalds" />
+      <node id="the_etheropian" label="the_etheropian" />
+      <node id="@CamaraJones,@the_etheropian,@CDCgov" label="@CamaraJones,@the_etheropian,@CDCgov" />
+      <node id="@dominos,@Fightfor15LA" label="@dominos,@Fightfor15LA" />
+      <node id="EmilyRoseFinn" label="EmilyRoseFinn" />
+      <node id="NidaQadirMD" label="NidaQadirMD" />
+      <node id="@uclaimchiefs,@NoCoughEng,@HungryDes,@UCLAHealth,@atscommunity,@GiladJaffe" label="@uclaimchiefs,@NoCoughEng,@HungryDes,@UCLAHealth,@atscommunity,@GiladJaffe" />
+      <node id="Tennesseine" label="Tennesseine" />
+      <node id="@realdonaldtrump,@gop" label="@realdonaldtrump,@gop" />
+      <node id="LiveBoston617" label="LiveBoston617" />
+      <node id="@The_BMC,@Boston_EMS" label="@The_BMC,@Boston_EMS" />
+      <node id="charlielangton" label="charlielangton" />
+      <node id="@SpiritOfDet,@WWJ950,@FOX2News" label="@SpiritOfDet,@WWJ950,@FOX2News" />
+      <node id="KTVUCAMERAMAN" label="KTVUCAMERAMAN" />
+      <node id="@KTVU" label="@KTVU" />
+      <node id="StevenDialFox4" label="StevenDialFox4" />
+      <node id="@FOX4" label="@FOX4" />
+      <node id="CEStephens" label="CEStephens" />
+      <node id="@LouisianaGov" label="@LouisianaGov" />
+      <node id="ChaseCrews7" label="ChaseCrews7" />
+      <node id="@linemanissues,@Sc0ttymac71,@Bigcoachmays" label="@linemanissues,@Sc0ttymac71,@Bigcoachmays" />
+      <node id="hcphtx" label="hcphtx" />
+      <node id="@nrgpark" label="@nrgpark" />
+      <node id="bestnaunieever" label="bestnaunieever" />
+      <node id="HaririRobert" label="HaririRobert" />
+      <node id="@DrOz" label="@DrOz" />
+      <node id="CharlesMBlow" label="CharlesMBlow" />
+      <node id="@nytopinion" label="@nytopinion" />
+      <node id="@GovNedLamont,@marklevinshow,@OBSERVER_RAM" label="@GovNedLamont,@marklevinshow,@OBSERVER_RAM" />
+      <node id="@BreitbartNews" label="@BreitbartNews" />
+      <node id="BarbMcQuade" label="BarbMcQuade" />
+      <node id="@LeahLitman,@TheAtlantic,@UMichLaw" label="@LeahLitman,@TheAtlantic,@UMichLaw" />
+      <node id="NAACP" label="NAACP" />
+      <node id="@BET" label="@BET" />
+      <node id="SylvesterTurner" label="SylvesterTurner" />
+      <node id="@HoustonHealth" label="@HoustonHealth" />
+      <node id="weijia" label="weijia" />
+      <node id="@CDCgov" label="@CDCgov" />
+      <node id="oscarcabot" label="oscarcabot" />
+      <node id="@NBCBayArea,@BrendanNWeber,@abc7kristensze,@NBCian,@sfchronicle,@KTVU,@KPIXtv,@latimes,@mercnews,@LondonBreed,@abc7newsbayarea" label="@NBCBayArea,@BrendanNWeber,@abc7kristensze,@NBCian,@sfchronicle,@KTVU,@KPIXtv,@latimes,@mercnews,@LondonBreed,@abc7newsbayarea" />
+      <node id="GeraldoRivera" label="GeraldoRivera" />
+      <node id="joshuabickel" label="joshuabickel" />
+      <node id="@GovMikeDeWine" label="@GovMikeDeWine" />
+      <node id="@whca" label="@whca" />
+      <node id="@HPARD" label="@HPARD" />
+      <node id="@benstracy" label="@benstracy" />
+      <node id="Jon_RosenthalTX" label="Jon_RosenthalTX" />
+      <node id="@Jon_RosenthalTX" label="@Jon_RosenthalTX" />
+      <node id="TheWisemanSaid2" label="TheWisemanSaid2" />
+      <node id="@SenatorTimScott" label="@SenatorTimScott" />
+      <node id="@miriamskitchen" label="@miriamskitchen" />
+      <node id="RonWaxman" label="RonWaxman" />
+      <node id="@TimAeppel" label="@TimAeppel" />
+      <node id="@Acosta,@atrupar" label="@Acosta,@atrupar" />
+      <node id="@Acosta" label="@Acosta" />
+      <node id="obedmanuel" label="obedmanuel" />
+      <node id="@anxious_maria,@dallasnews" label="@anxious_maria,@dallasnews" />
+      <node id="la_muchasita" label="la_muchasita" />
+      <node id="@abbybroyles,@wtp__2020,@JimInhofe" label="@abbybroyles,@wtp__2020,@JimInhofe" />
+      <node id="abc7chriscristi" label="abc7chriscristi" />
+      <node id="@abc7" label="@abc7" />
+      <node id="smlungpathguy" label="smlungpathguy" />
+      <node id="@AJCPjournal" label="@AJCPjournal" />
+      <node id="BuddJenn" label="BuddJenn" />
+      <node id="@CoreCivic,@ICEgov" label="@CoreCivic,@ICEgov" />
+      <node id="larryelder" label="larryelder" />
+      <node id="@CNN" label="@CNN" />
+      <node id="KylenMills" label="KylenMills" />
+      <node id="@LEX18News" label="@LEX18News" />
+      <node id="hollandcourtney" label="hollandcourtney" />
+      <node id="@AFThunderbirds" label="@AFThunderbirds" />
+      <node id="ClarkCountyNV" label="ClarkCountyNV" />
+      <node id="@Holland_Knight,@MiamiHerald,@GovRonDeSantis" label="@Holland_Knight,@MiamiHerald,@GovRonDeSantis" />
+      <node id="ROCKONOHIO" label="ROCKONOHIO" />
+      <node id="@trish_regan,@LVNancy" label="@trish_regan,@LVNancy" />
+      <node id="StephenQ3340" label="StephenQ3340" />
+      <node id="@abc3340,@spann,@GovernorKayIvey" label="@abc3340,@spann,@GovernorKayIvey" />
+      <node id="MusicReviewer7" label="MusicReviewer7" />
+      <node id="@60Minutes" label="@60Minutes" />
+      <node id="TomCostantino" label="TomCostantino" />
+      <node id="@ScottGrimes,@garyrake,@TheOrville,@jleefilm,@hulu" label="@ScottGrimes,@garyrake,@TheOrville,@jleefilm,@hulu" />
+      <node id="JordanSekulow" label="JordanSekulow" />
+      <node id="SWFLMom2020" label="SWFLMom2020" />
+      <node id="SteveScottNEWS" label="SteveScottNEWS" />
+      <node id="@wcbs880" label="@wcbs880" />
+      <node id="@chrislhayes" label="@chrislhayes" />
+      <node id="@ICEgov" label="@ICEgov" />
+      <node id="@joshrogin,@realDonaldTrump" label="@joshrogin,@realDonaldTrump" />
+      <node id="abc7AshleyM" label="abc7AshleyM" />
+      <node id="@ABC7,@theforum" label="@ABC7,@theforum" />
+      <node id="Welch_tx" label="Welch_tx" />
+      <node id="@RepKayGranger" label="@RepKayGranger" />
+      <node id="@WWJ950,@FOX2News,@GovWhitmer" label="@WWJ950,@FOX2News,@GovWhitmer" />
+      <node id="@ddale8" label="@ddale8" />
+      <node id="@stevenportnoy,@Yamiche" label="@stevenportnoy,@Yamiche" />
+      <node id="@fred_guttenberg" label="@fred_guttenberg" />
+      <node id="SaraLlanes" label="SaraLlanes" />
+      <node id="@ScottGottliebMD,@DrEricDing,@DrDenaGrayson" label="@ScottGottliebMD,@DrEricDing,@DrDenaGrayson" />
+      <node id="DanWantsFreedom" label="DanWantsFreedom" />
+      <node id="@nypost" label="@nypost" />
+      <node id="iwashyna" label="iwashyna" />
+      <node id="@mcsweeneys" label="@mcsweeneys" />
+      <node id="EmbamexEUA" label="EmbamexEUA" />
+      <node id="@HLGatell,@lopezobrador_,@SSalud_mx" label="@HLGatell,@lopezobrador_,@SSalud_mx" />
+      <node id="@ragoninstitute,@COVID19nCCC,@harvardmed" label="@ragoninstitute,@COVID19nCCC,@harvardmed" />
+      <node id="@IrmaRaste" label="@IrmaRaste" />
+      <node id="staceyabrams" label="staceyabrams" />
+      <node id="@GoIUPAT" label="@GoIUPAT" />
+      <node id="BigBlueWaveUSA" label="BigBlueWaveUSA" />
+      <node id="@GovWhitmer" label="@GovWhitmer" />
+      <node id="cindievaccaro" label="cindievaccaro" />
+      <node id="@ABC7" label="@ABC7" />
+      <node id="@DerrickNAACP,@BET,@EdLGordon,@NAACP" label="@DerrickNAACP,@BET,@EdLGordon,@NAACP" />
+      <node id="jukka_salovaara" label="jukka_salovaara" />
+      <node id="@FinlandUN,@UNFPA,@UN_Women,@VilleSkinnari" label="@FinlandUN,@UNFPA,@UN_Women,@VilleSkinnari" />
+      <node id="@IngrahamAngle" label="@IngrahamAngle" />
+      <node id="codeofvets" label="codeofvets" />
+      <node id="@CharlieDaniels,@codeofvets,@TJHproject" label="@CharlieDaniels,@codeofvets,@TJHproject" />
+      <node id="AngelinaWTSP" label="AngelinaWTSP" />
+      <node id="@HealthyFla,@10TampaBay" label="@HealthyFla,@10TampaBay" />
+      <node id="@sally_field" label="@sally_field" />
+      <node id="Joeycules" label="Joeycules" />
+      <node id="@TPRNews" label="@TPRNews" />
+      <node id="CGothnerKCCI" label="CGothnerKCCI" />
+      <node id="@TysonFoods,@KCCINews" label="@TysonFoods,@KCCINews" />
+      <node id="C_R_Mendoza" label="C_R_Mendoza" />
+      <node id="@UCSF,@kron4news" label="@UCSF,@kron4news" />
+      <node id="BridgetKF30" label="BridgetKF30" />
+      <node id="@POTUS,@GOP" label="@POTUS,@GOP" />
+      <node id="UN_Spokesperson" label="UN_Spokesperson" />
+      <node id="@UN_Photo,@UN" label="@UN_Photo,@UN" />
+      <node id="@CStoreNews_" label="@CStoreNews_" />
+      <node id="GovernorKayIvey" label="GovernorKayIvey" />
+      <node id="@tatereeves,@henrymcmaster,@GovKemp,@GovBillLee,@GovRonDeSantis" label="@tatereeves,@henrymcmaster,@GovKemp,@GovBillLee,@GovRonDeSantis" />
+      <node id="@TateReeves,@henrymcmaster,@GovernorKayIvey,@GovBillLee,@GovRonDeSantis" label="@TateReeves,@henrymcmaster,@GovernorKayIvey,@GovBillLee,@GovRonDeSantis" />
+      <node id="@BilldeBlasio" label="@BilldeBlasio" />
+      <node id="MiamiSup" label="MiamiSup" />
+      <node id="@MDCPS" label="@MDCPS" />
+      <node id="@NBCNews" label="@NBCNews" />
+      <node id="@glennkirschner2" label="@glennkirschner2" />
+      <node id="@Beyonce" label="@Beyonce" />
+      <node id="@DeptVetAffairs" label="@DeptVetAffairs" />
+      <node id="@JudgeJeanine,@jpkiekens,@potus,@BernardKerik,@PeterDiamandis" label="@JudgeJeanine,@jpkiekens,@potus,@BernardKerik,@PeterDiamandis" />
+      <node id="Adam_Waltz" label="Adam_Waltz" />
+      <node id="@abc15" label="@abc15" />
+      <node id="janschakowsky" label="janschakowsky" />
+      <node id="@CMSGov" label="@CMSGov" />
+      <node id="@USArmy" label="@USArmy" />
+      <node id="LindaHale8006" label="LindaHale8006" />
+      <node id="@_EricCarr" label="@_EricCarr" />
+      <node id="MDNG" label="MDNG" />
+      <node id="@175thWing" label="@175thWing" />
+      <node id="DRoseTV" label="DRoseTV" />
+      <node id="@jlkowalik,@WISN12News" label="@jlkowalik,@WISN12News" />
+      <node id="@Yamiche" label="@Yamiche" />
+      <node id="ebonywarriorLLC" label="ebonywarriorLLC" />
+      <node id="@ArdaWigsCanada,@EsportsGears,@GearsofWar,@Microsoft,@WetaWorkshop" label="@ArdaWigsCanada,@EsportsGears,@GearsofWar,@Microsoft,@WetaWorkshop" />
+      <node id="@BreitbartNews,@EpochTimes" label="@BreitbartNews,@EpochTimes" />
+      <node id="MexOnu" label="MexOnu" />
+      <node id="@UN" label="@UN" />
+      <node id="Jan_Ransom" label="Jan_Ransom" />
+      <node id="@HudsonPointe_HC" label="@HudsonPointe_HC" />
+      <node id="disruptionary" label="disruptionary" />
+      <node id="@disruptionary,@BernieSanders" label="@disruptionary,@BernieSanders" />
+      <node id="@msnbc" label="@msnbc" />
+      <node id="RepGosar" label="RepGosar" />
+      <node id="@realdonaldtrump" label="@realdonaldtrump" />
+      <node id="aziaticblack" label="aziaticblack" />
+      <node id="@aziaticblack,@MoneyLynch" label="@aziaticblack,@MoneyLynch" />
+      <node id="drosssports" label="drosssports" />
+      <node id="@AndrewYang" label="@AndrewYang" />
+      <node id="GKMC18" label="GKMC18" />
+      <node id="@SunriseMvmtChi,@InSocialjustice,@IIYCfamily,@israhirsi" label="@SunriseMvmtChi,@InSocialjustice,@IIYCfamily,@israhirsi" />
+      <node id="@OIGatHHS" label="@OIGatHHS" />
+      <node id="@gop" label="@gop" />
+      <node id="KatieDaviscourt" label="KatieDaviscourt" />
+      <node id="@GovInslee" label="@GovInslee" />
+      <node id="@realDonaldTrump,@SpeakerPelosi" label="@realDonaldTrump,@SpeakerPelosi" />
+      <node id="DrRichardLeBeau" label="DrRichardLeBeau" />
+      <node id="@BeyGood,@Beyonce,@UCLA" label="@BeyGood,@Beyonce,@UCLA" />
+      <node id="@armyfieldband" label="@armyfieldband" />
+      <node id="LtGovDanForest" label="LtGovDanForest" />
+      <node id="@LtGovDanForest" label="@LtGovDanForest" />
+      <node id="@Washingtonian,@lmullinsdc" label="@Washingtonian,@lmullinsdc" />
+      <node id="@chefjoseandres,@ananavarro" label="@chefjoseandres,@ananavarro" />
+      <node id="mayorcantrell" label="mayorcantrell" />
+      <node id="@xula1925,@hanes" label="@xula1925,@hanes" />
+      <node id="JasminSanchezNY" label="JasminSanchezNY" />
+      <node id="@LESMutualAid" label="@LESMutualAid" />
+      <node id="xMugenYoruichix" label="xMugenYoruichix" />
+      <node id="@ogmusicnatho" label="@ogmusicnatho" />
+      <node id="@Google,@vp" label="@Google,@vp" />
+      <node id="@JohnKerry,@WorldWarZeroOrg" label="@JohnKerry,@WorldWarZeroOrg" />
+      <node id="c_hansen84" label="c_hansen84" />
+      <node id="@ICEgov,@maddow" label="@ICEgov,@maddow" />
+      <node id="WajSKhan" label="WajSKhan" />
+      <node id="@BBhuttoZardari" label="@BBhuttoZardari" />
+      <node id="risca1967" label="risca1967" />
+      <node id="@OBEYGIANT,@GovRaimondo" label="@OBEYGIANT,@GovRaimondo" />
+      <node id="jonfranks" label="jonfranks" />
+      <node id="@POTUS,@DrMarcSiegel,@VP" label="@POTUS,@DrMarcSiegel,@VP" />
+      <node id="anntirrell" label="anntirrell" />
+      <node id="@markos,@SpiroAgnewGhost" label="@markos,@SpiroAgnewGhost" />
+      <node id="@NikkiHaley,@SenatorDurbin" label="@NikkiHaley,@SenatorDurbin" />
+      <node id="@ArdaWigsCanada,@EsportsGears,@Xbox,@GearsofWar,@Microsoft" label="@ArdaWigsCanada,@EsportsGears,@Xbox,@GearsofWar,@Microsoft" />
+      <node id="@BuddJenn" label="@BuddJenn" />
+      <node id="DJones1067" label="DJones1067" />
+      <node id="KaplanABC11" label="KaplanABC11" />
+      <node id="@ABC11_WTVD,@TheRealReopenNC,@ncdhhs,@KaplanABC11" label="@ABC11_WTVD,@TheRealReopenNC,@ncdhhs,@KaplanABC11" />
+      <node id="@PressSec" label="@PressSec" />
+      <node id="@AprilDRyan,@NAACP,@BET" label="@AprilDRyan,@NAACP,@BET" />
+      <node id="PedsMamaDoc" label="PedsMamaDoc" />
+      <node id="@DrvanTilburg,@DrKatrin_Rabiei,@KTamirisaMD,@kari_jerge,@DrHowardLiu,@Docbasia,@arghavan_salles,@alisadoc1,@AgnesSolberg,@meggerber,@RyanMarino,@mass_marion" label="@DrvanTilburg,@DrKatrin_Rabiei,@KTamirisaMD,@kari_jerge,@DrHowardLiu,@Docbasia,@arghavan_salles,@alisadoc1,@AgnesSolberg,@meggerber,@RyanMarino,@mass_marion" />
+      <node id="RonenRubinstein" label="RonenRubinstein" />
+      <node id="@FOXTV" label="@FOXTV" />
+      <node id="HabenGirma" label="HabenGirma" />
+      <node id="@NewYorker" label="@NewYorker" />
+      <node id="ScottBeale" label="ScottBeale" />
+      <node id="@AFThunderbirds,@BlueAngels" label="@AFThunderbirds,@BlueAngels" />
+      <node id="RemarkHoldings" label="RemarkHoldings" />
+      <node id="@CBSNews" label="@CBSNews" />
+      <node id="@FOX4,@JudgeClayJ" label="@FOX4,@JudgeClayJ" />
+      <node id="FutureDocs" label="FutureDocs" />
+      <node id="@drjessigold,@MSNBC,@WUSTLmed" label="@drjessigold,@MSNBC,@WUSTLmed" />
+      <node id="AyannaPressley" label="AyannaPressley" />
+      <node id="@OfficialFBOP" label="@OfficialFBOP" />
+      <node id="@benwikler" label="@benwikler" />
+      <node id="@TeaPainUSA" label="@TeaPainUSA" />
+      <node id="@Pres,@realDonaldTrump" label="@Pres,@realDonaldTrump" />
+      <node id="abc7sid" label="abc7sid" />
+      <node id="GeoffMiami" label="GeoffMiami" />
+      <node id="@TheDemocrats" label="@TheDemocrats" />
+      <node id="@TysonFoodsCEO" label="@TysonFoodsCEO" />
+      <node id="@BillGates,@gatesfoundation,@GovInslee" label="@BillGates,@gatesfoundation,@GovInslee" />
+      <node id="@NEJM,@ChomiloMD,@MaliniDeSilva,@JAMA_current,@DrHeardGarris" label="@NEJM,@ChomiloMD,@MaliniDeSilva,@JAMA_current,@DrHeardGarris" />
+      <node id="@SenWarren" label="@SenWarren" />
+      <node id="@gatesfoundation,@GovInslee" label="@gatesfoundation,@GovInslee" />
+      <node id="@ABC7,@GavinNewsom" label="@ABC7,@GavinNewsom" />
+    </nodes>
+    <edges>
+      <edge source="LorenzoHall" target="@wusa9" id="0">
+        <attvalues>
+          <attvalue for="0" value="5072" />
+          <attvalue for="1" value="2148" />
+          <attvalue for="2" value="6798" />
+          <attvalue for="3" value="646" />
+          <attvalue for="4" value="2020-03-29T00:12:03Z" />
+        </attvalues>
+      </edge>
+      <edge source="JudgeClayJ" target="@DCHHS,@PCCInnovation" id="1">
+        <attvalues>
+          <attvalue for="0" value="22161" />
+          <attvalue for="1" value="679" />
+          <attvalue for="2" value="741" />
+          <attvalue for="3" value="126" />
+          <attvalue for="4" value="2020-03-29T01:51:07Z" />
+        </attvalues>
+      </edge>
+      <edge source="drkomanduri" target="@GovRonDeSantis" id="2">
+        <attvalues>
+          <attvalue for="0" value="7468" />
+          <attvalue for="1" value="1698" />
+          <attvalue for="2" value="17104" />
+          <attvalue for="3" value="68" />
+          <attvalue for="4" value="2020-03-29T02:20:10Z" />
+        </attvalues>
+      </edge>
+      <edge source="grantstern" target="@GovRonDeSantis" id="3">
+        <attvalues>
+          <attvalue for="0" value="89116" />
+          <attvalue for="1" value="10594" />
+          <attvalue for="2" value="141593" />
+          <attvalue for="3" value="78" />
+          <attvalue for="4" value="2020-03-29T11:44:08Z" />
+        </attvalues>
+      </edge>
+      <edge source="grantstern" target="@SpeakerPelosi" id="4">
+        <attvalues>
+          <attvalue for="0" value="89705" />
+          <attvalue for="1" value="10610" />
+          <attvalue for="2" value="142524" />
+          <attvalue for="3" value="278" />
+          <attvalue for="4" value="2020-04-07T02:24:08Z" />
+        </attvalues>
+      </edge>
+      <edge source="VanHipp" target="@IngrahamAngle,@realDonaldTrump" id="5">
+        <attvalues>
+          <attvalue for="0" value="21556" />
+          <attvalue for="1" value="4918" />
+          <attvalue for="2" value="15222" />
+          <attvalue for="3" value="224" />
+          <attvalue for="4" value="2020-03-29T15:59:53Z" />
+        </attvalues>
+      </edge>
+      <edge source="VanHipp" target="@POTUS,@VP" id="6">
+        <attvalues>
+          <attvalue for="0" value="21985" />
+          <attvalue for="1" value="4942" />
+          <attvalue for="2" value="15586" />
+          <attvalue for="3" value="133" />
+          <attvalue for="4" value="2020-04-23T17:17:50Z" />
+        </attvalues>
+      </edge>
+      <edge source="VanHipp" target="@POTUS,@SteveFDA,@VP" id="7">
+        <attvalues>
+          <attvalue for="0" value="21623" />
+          <attvalue for="1" value="4925" />
+          <attvalue for="2" value="15408" />
+          <attvalue for="3" value="311" />
+          <attvalue for="4" value="2020-04-08T01:55:42Z" />
+        </attvalues>
+      </edge>
+      <edge source="VanHipp" target="@POTUS" id="8">
+        <attvalues>
+          <attvalue for="0" value="21922" />
+          <attvalue for="1" value="4931" />
+          <attvalue for="2" value="15501" />
+          <attvalue for="3" value="72" />
+          <attvalue for="4" value="2020-04-14T12:08:55Z" />
+        </attvalues>
+      </edge>
+      <edge source="VanHipp" target="@CharlieDaniels,@codeofvets,@TJHproject" id="9">
+        <attvalues>
+          <attvalue for="0" value="22000" />
+          <attvalue for="1" value="4954" />
+          <attvalue for="2" value="15631" />
+          <attvalue for="3" value="292" />
+          <attvalue for="4" value="2020-04-25T13:08:42Z" />
+        </attvalues>
+      </edge>
+      <edge source="VanHipp" target="@POTUS,@DrMarcSiegel,@VP" id="10">
+        <attvalues>
+          <attvalue for="0" value="22000" />
+          <attvalue for="1" value="4954" />
+          <attvalue for="2" value="15631" />
+          <attvalue for="3" value="168" />
+          <attvalue for="4" value="2020-04-26T00:04:32Z" />
+        </attvalues>
+      </edge>
+      <edge source="JoeBorelliNYC" target="@SIUHOSPITAL" id="11">
+        <attvalues>
+          <attvalue for="0" value="27520" />
+          <attvalue for="1" value="2044" />
+          <attvalue for="2" value="29627" />
+          <attvalue for="3" value="918" />
+          <attvalue for="4" value="2020-03-29T16:44:39Z" />
+        </attvalues>
+      </edge>
+      <edge source="PatFNelson" target="@NYGovCuomo" id="12">
+        <attvalues>
+          <attvalue for="0" value="1683" />
+          <attvalue for="1" value="2179" />
+          <attvalue for="2" value="3647" />
+          <attvalue for="3" value="71" />
+          <attvalue for="4" value="2020-03-29T18:11:53Z" />
+        </attvalues>
+      </edge>
+      <edge source="JoshBreslowWKRN" target="@WKRN" id="13">
+        <attvalues>
+          <attvalue for="0" value="12668" />
+          <attvalue for="1" value="13069" />
+          <attvalue for="2" value="28314" />
+          <attvalue for="3" value="287" />
+          <attvalue for="4" value="2020-03-30T21:10:55Z" />
+        </attvalues>
+      </edge>
+      <edge source="JoshBreslowWKRN" target="@WKRN,@GovBillLee" id="14">
+        <attvalues>
+          <attvalue for="0" value="12842" />
+          <attvalue for="1" value="13235" />
+          <attvalue for="2" value="29356" />
+          <attvalue for="3" value="68" />
+          <attvalue for="4" value="2020-04-15T19:10:01Z" />
+        </attvalues>
+      </edge>
+      <edge source="HandtevyMD" target="@Rick_Pescatore" id="15">
+        <attvalues>
+          <attvalue for="0" value="4067" />
+          <attvalue for="1" value="3500" />
+          <attvalue for="2" value="5948" />
+          <attvalue for="3" value="57" />
+          <attvalue for="4" value="2020-03-29T21:31:27Z" />
+        </attvalues>
+      </edge>
+      <edge source="AmandiOnAir" target="@USAID,@JeremyKonyndyk" id="16">
+        <attvalues>
+          <attvalue for="0" value="67532" />
+          <attvalue for="1" value="440" />
+          <attvalue for="2" value="23579" />
+          <attvalue for="3" value="58" />
+          <attvalue for="4" value="2020-03-29T21:56:47Z" />
+        </attvalues>
+      </edge>
+      <edge source="AmandiOnAir" target="@JacksonHealth" id="17">
+        <attvalues>
+          <attvalue for="0" value="67553" />
+          <attvalue for="1" value="440" />
+          <attvalue for="2" value="23635" />
+          <attvalue for="3" value="370" />
+          <attvalue for="4" value="2020-03-30T23:33:18Z" />
+        </attvalues>
+      </edge>
+      <edge source="AmandiOnAir" target="@BrianKarem,@gregolear,@Playboy,@realDonaldTrump" id="18">
+        <attvalues>
+          <attvalue for="0" value="67594" />
+          <attvalue for="1" value="442" />
+          <attvalue for="2" value="23677" />
+          <attvalue for="3" value="57" />
+          <attvalue for="4" value="2020-04-01T22:15:29Z" />
+        </attvalues>
+      </edge>
+      <edge source="AmandiOnAir" target="@realDonaldTrump" id="19">
+        <attvalues>
+          <attvalue for="0" value="68768" />
+          <attvalue for="1" value="446" />
+          <attvalue for="2" value="24260" />
+          <attvalue for="3" value="52" />
+          <attvalue for="4" value="2020-04-30T01:06:47Z" />
+        </attvalues>
+      </edge>
+      <edge source="AmandiOnAir" target="@realDonaldTrump,@GOP" id="20">
+        <attvalues>
+          <attvalue for="0" value="67630" />
+          <attvalue for="1" value="442" />
+          <attvalue for="2" value="23718" />
+          <attvalue for="3" value="196" />
+          <attvalue for="4" value="2020-04-04T15:03:14Z" />
+        </attvalues>
+      </edge>
+      <edge source="AmandiOnAir" target="@Holland_Knight,@MiamiHerald,@GovRonDeSantis" id="21">
+        <attvalues>
+          <attvalue for="0" value="67980" />
+          <attvalue for="1" value="444" />
+          <attvalue for="2" value="23898" />
+          <attvalue for="3" value="57" />
+          <attvalue for="4" value="2020-04-12T01:06:33Z" />
+        </attvalues>
+      </edge>
+      <edge source="ColSDM" target="@realDonaldTrump" id="22">
+        <attvalues>
+          <attvalue for="0" value="30981" />
+          <attvalue for="1" value="31258" />
+          <attvalue for="2" value="52863" />
+          <attvalue for="3" value="401" />
+          <attvalue for="4" value="2020-04-20T14:24:56Z" />
+        </attvalues>
+      </edge>
+      <edge source="ColSDM" target="@POTUS" id="23">
+        <attvalues>
+          <attvalue for="0" value="29329" />
+          <attvalue for="1" value="29634" />
+          <attvalue for="2" value="51111" />
+          <attvalue for="3" value="148" />
+          <attvalue for="4" value="2020-04-06T17:11:13Z" />
+        </attvalues>
+      </edge>
+      <edge source="ColSDM" target="@BreitbartNews" id="24">
+        <attvalues>
+          <attvalue for="0" value="29452" />
+          <attvalue for="1" value="29712" />
+          <attvalue for="2" value="51201" />
+          <attvalue for="3" value="177" />
+          <attvalue for="4" value="2020-04-07T20:55:16Z" />
+        </attvalues>
+      </edge>
+      <edge source="ColSDM" target="@IngrahamAngle" id="25">
+        <attvalues>
+          <attvalue for="0" value="30558" />
+          <attvalue for="1" value="30784" />
+          <attvalue for="2" value="52418" />
+          <attvalue for="3" value="167" />
+          <attvalue for="4" value="2020-04-17T18:55:16Z" />
+        </attvalues>
+      </edge>
+      <edge source="ColSDM" target="@BilldeBlasio" id="26">
+        <attvalues>
+          <attvalue for="0" value="30678" />
+          <attvalue for="1" value="30936" />
+          <attvalue for="2" value="52542" />
+          <attvalue for="3" value="145" />
+          <attvalue for="4" value="2020-04-18T20:32:01Z" />
+        </attvalues>
+      </edge>
+      <edge source="ColSDM" target="@realDonaldTrump,@SpeakerPelosi" id="27">
+        <attvalues>
+          <attvalue for="0" value="31505" />
+          <attvalue for="1" value="31769" />
+          <attvalue for="2" value="53459" />
+          <attvalue for="3" value="250" />
+          <attvalue for="4" value="2020-04-23T14:57:40Z" />
+        </attvalues>
+      </edge>
+      <edge source="ColSDM" target="@armyfieldband" id="28">
+        <attvalues>
+          <attvalue for="0" value="31498" />
+          <attvalue for="1" value="31769" />
+          <attvalue for="2" value="53462" />
+          <attvalue for="3" value="193" />
+          <attvalue for="4" value="2020-04-23T19:02:48Z" />
+        </attvalues>
+      </edge>
+      <edge source="David_Leavitt" target="@realDonaldTrump" id="29">
+        <attvalues>
+          <attvalue for="0" value="216928" />
+          <attvalue for="1" value="5145" />
+          <attvalue for="2" value="1536011" />
+          <attvalue for="3" value="176" />
+          <attvalue for="4" value="2020-03-29T23:04:32Z" />
+        </attvalues>
+      </edge>
+      <edge source="W7VOA" target="@HHSGov,@Novartis,@Bayer" id="30">
+        <attvalues>
+          <attvalue for="0" value="96849" />
+          <attvalue for="1" value="1995" />
+          <attvalue for="2" value="7134" />
+          <attvalue for="3" value="89" />
+          <attvalue for="4" value="2020-03-29T23:33:18Z" />
+        </attvalues>
+      </edge>
+      <edge source="W7VOA" target="@USPS" id="31">
+        <attvalues>
+          <attvalue for="0" value="97284" />
+          <attvalue for="1" value="1994" />
+          <attvalue for="2" value="7137" />
+          <attvalue for="3" value="124" />
+          <attvalue for="4" value="2020-04-02T13:44:39Z" />
+        </attvalues>
+      </edge>
+      <edge source="DrChoueiri" target="@isbsci" id="32">
+        <attvalues>
+          <attvalue for="0" value="9482" />
+          <attvalue for="1" value="397" />
+          <attvalue for="2" value="17728" />
+          <attvalue for="3" value="57" />
+          <attvalue for="4" value="2020-03-30T00:22:49Z" />
+        </attvalues>
+      </edge>
+      <edge source="DrChoueiri" target="@ragoninstitute,@COVID19nCCC,@harvardmed" id="33">
+        <attvalues>
+          <attvalue for="0" value="10096" />
+          <attvalue for="1" value="399" />
+          <attvalue for="2" value="18144" />
+          <attvalue for="3" value="62" />
+          <attvalue for="4" value="2020-04-16T18:24:02Z" />
+        </attvalues>
+      </edge>
+      <edge source="sparksjls" target="@sparksjls" id="34">
+        <attvalues>
+          <attvalue for="0" value="11098" />
+          <attvalue for="1" value="1076" />
+          <attvalue for="2" value="50095" />
+          <attvalue for="3" value="556" />
+          <attvalue for="4" value="2020-03-30T01:01:03Z" />
+        </attvalues>
+      </edge>
+      <edge source="4USAFreedom" target="@FloridaGOP,@GOP,@GovRonDeSantis" id="35">
+        <attvalues>
+          <attvalue for="0" value="14106" />
+          <attvalue for="1" value="13466" />
+          <attvalue for="2" value="5788" />
+          <attvalue for="3" value="166" />
+          <attvalue for="4" value="2020-03-30T01:07:35Z" />
+        </attvalues>
+      </edge>
+      <edge source="4USAFreedom" target="@LtGovNunez,@WhiteHouse,@PalmBeachGOP,@POTUS,@GOP,@GovRonDeSantis" id="36">
+        <attvalues>
+          <attvalue for="0" value="14355" />
+          <attvalue for="1" value="13796" />
+          <attvalue for="2" value="5963" />
+          <attvalue for="3" value="64" />
+          <attvalue for="4" value="2020-04-01T12:10:38Z" />
+        </attvalues>
+      </edge>
+      <edge source="evankirstel" target="@IrmaRaste,@AidVentil,@eViRaHealth,@RAPID_Event,@SME_MFG" id="37">
+        <attvalues>
+          <attvalue for="0" value="283582" />
+          <attvalue for="1" value="268002" />
+          <attvalue for="2" value="567028" />
+          <attvalue for="3" value="58" />
+          <attvalue for="4" value="2020-03-30T15:44:57Z" />
+        </attvalues>
+      </edge>
+      <edge source="evankirstel" target="@IrmaRaste,@eViRaHealth,@MIT_CSAIL,@Mitefcmb" id="38">
+        <attvalues>
+          <attvalue for="0" value="283623" />
+          <attvalue for="1" value="268056" />
+          <attvalue for="2" value="567056" />
+          <attvalue for="3" value="52" />
+          <attvalue for="4" value="2020-03-31T23:36:06Z" />
+        </attvalues>
+      </edge>
+      <edge source="evankirstel" target="@IrmaRaste,@ScottKirsner,@eViRaHealth,@MIT,@techreview,@adamdanyal" id="39">
+        <attvalues>
+          <attvalue for="0" value="283753" />
+          <attvalue for="1" value="268073" />
+          <attvalue for="2" value="567502" />
+          <attvalue for="3" value="78" />
+          <attvalue for="4" value="2020-04-01T15:56:21Z" />
+        </attvalues>
+      </edge>
+      <edge source="evankirstel" target="@eViRaHealth,@IrmaRaste" id="40">
+        <attvalues>
+          <attvalue for="0" value="284671" />
+          <attvalue for="1" value="267935" />
+          <attvalue for="2" value="569556" />
+          <attvalue for="3" value="50" />
+          <attvalue for="4" value="2020-04-11T15:39:48Z" />
+        </attvalues>
+      </edge>
+      <edge source="evankirstel" target="@IrmaRaste" id="41">
+        <attvalues>
+          <attvalue for="0" value="285110" />
+          <attvalue for="1" value="267958" />
+          <attvalue for="2" value="570193" />
+          <attvalue for="3" value="88" />
+          <attvalue for="4" value="2020-04-16T23:42:34Z" />
+        </attvalues>
+      </edge>
+      <edge source="evankirstel" target="@CStoreNews_" id="42">
+        <attvalues>
+          <attvalue for="0" value="285387" />
+          <attvalue for="1" value="267961" />
+          <attvalue for="2" value="570514" />
+          <attvalue for="3" value="232" />
+          <attvalue for="4" value="2020-04-18T18:34:02Z" />
+        </attvalues>
+      </edge>
+      <edge source="MikevWUSA" target="@WUSA9" id="43">
+        <attvalues>
+          <attvalue for="0" value="9151" />
+          <attvalue for="1" value="3074" />
+          <attvalue for="2" value="1961" />
+          <attvalue for="3" value="904" />
+          <attvalue for="4" value="2020-03-30T18:15:56Z" />
+        </attvalues>
+      </edge>
+      <edge source="MikevWUSA" target="@msnbc" id="44">
+        <attvalues>
+          <attvalue for="0" value="9393" />
+          <attvalue for="1" value="2419" />
+          <attvalue for="2" value="2072" />
+          <attvalue for="3" value="315" />
+          <attvalue for="4" value="2020-04-21T20:32:04Z" />
+        </attvalues>
+      </edge>
+      <edge source="BrianCaskeyNC" target="@NC_Governor" id="45">
+        <attvalues>
+          <attvalue for="0" value="4051" />
+          <attvalue for="1" value="4400" />
+          <attvalue for="2" value="2612" />
+          <attvalue for="3" value="138" />
+          <attvalue for="4" value="2020-03-30T18:31:09Z" />
+        </attvalues>
+      </edge>
+      <edge source="MikeyKayNYC" target="@krystalball" id="46">
+        <attvalues>
+          <attvalue for="0" value="17831" />
+          <attvalue for="1" value="718" />
+          <attvalue for="2" value="43070" />
+          <attvalue for="3" value="213" />
+          <attvalue for="4" value="2020-03-30T18:56:35Z" />
+        </attvalues>
+      </edge>
+      <edge source="JapanMissionUN" target="@antonioguterres,@UN" id="47">
+        <attvalues>
+          <attvalue for="0" value="15128" />
+          <attvalue for="1" value="292" />
+          <attvalue for="2" value="1253" />
+          <attvalue for="3" value="51" />
+          <attvalue for="4" value="2020-03-30T21:11:08Z" />
+        </attvalues>
+      </edge>
+      <edge source="GovSisolak" target="@NVEmergencyMgmt,@DHHSNevada" id="48">
+        <attvalues>
+          <attvalue for="0" value="27517" />
+          <attvalue for="1" value="99" />
+          <attvalue for="2" value="1543" />
+          <attvalue for="3" value="75" />
+          <attvalue for="4" value="2020-03-30T22:19:45Z" />
+        </attvalues>
+      </edge>
+      <edge source="GovSisolak" target="@fema" id="49">
+        <attvalues>
+          <attvalue for="0" value="28830" />
+          <attvalue for="1" value="100" />
+          <attvalue for="2" value="1554" />
+          <attvalue for="3" value="51" />
+          <attvalue for="4" value="2020-04-02T01:26:26Z" />
+        </attvalues>
+      </edge>
+      <edge source="uche_blackstock" target="@Slate,@juliacraven" id="50">
+        <attvalues>
+          <attvalue for="0" value="26221" />
+          <attvalue for="1" value="3827" />
+          <attvalue for="2" value="42765" />
+          <attvalue for="3" value="436" />
+          <attvalue for="4" value="2020-03-31T00:05:33Z" />
+        </attvalues>
+      </edge>
+      <edge source="uche_blackstock" target="@NEJM,@ChomiloMD,@MaliniDeSilva,@JAMA_current,@DrHeardGarris" id="51">
+        <attvalues>
+          <attvalue for="0" value="34524" />
+          <attvalue for="1" value="3905" />
+          <attvalue for="2" value="47099" />
+          <attvalue for="3" value="95" />
+          <attvalue for="4" value="2020-04-30T13:11:09Z" />
+        </attvalues>
+      </edge>
+      <edge source="TraceySRogers1" target="@HillaryClinton,@JoeBiden,@dbongino" id="52">
+        <attvalues>
+          <attvalue for="0" value="32952" />
+          <attvalue for="1" value="28744" />
+          <attvalue for="2" value="66550" />
+          <attvalue for="3" value="84" />
+          <attvalue for="4" value="2020-03-31T00:08:45Z" />
+        </attvalues>
+      </edge>
+      <edge source="ChadLivengood" target="@GovernorBullock,@POTUS,@GovWhitmer" id="53">
+        <attvalues>
+          <attvalue for="0" value="22520" />
+          <attvalue for="1" value="6775" />
+          <attvalue for="2" value="10512" />
+          <attvalue for="3" value="77" />
+          <attvalue for="4" value="2020-03-31T01:41:36Z" />
+        </attvalues>
+      </edge>
+      <edge source="ChadLivengood" target="@nytimes,@GovWhitmer" id="54">
+        <attvalues>
+          <attvalue for="0" value="22648" />
+          <attvalue for="1" value="6778" />
+          <attvalue for="2" value="10575" />
+          <attvalue for="3" value="62" />
+          <attvalue for="4" value="2020-04-04T13:09:02Z" />
+        </attvalues>
+      </edge>
+      <edge source="WCSOOregon" target="@Providence" id="55">
+        <attvalues>
+          <attvalue for="0" value="29553" />
+          <attvalue for="1" value="264" />
+          <attvalue for="2" value="7382" />
+          <attvalue for="3" value="64" />
+          <attvalue for="4" value="2020-03-31T02:11:21Z" />
+        </attvalues>
+      </edge>
+      <edge source="shomaristone" target="@nbcwashington" id="56">
+        <attvalues>
+          <attvalue for="0" value="161802" />
+          <attvalue for="1" value="118623" />
+          <attvalue for="2" value="62493" />
+          <attvalue for="3" value="80" />
+          <attvalue for="4" value="2020-03-31T02:57:38Z" />
+        </attvalues>
+      </edge>
+      <edge source="shomaristone" target="@NBCWashington" id="57">
+        <attvalues>
+          <attvalue for="0" value="164576" />
+          <attvalue for="1" value="119390" />
+          <attvalue for="2" value="65318" />
+          <attvalue for="3" value="52" />
+          <attvalue for="4" value="2020-04-04T08:47:14Z" />
+        </attvalues>
+      </edge>
+      <edge source="shomaristone" target="@miriamskitchen" id="58">
+        <attvalues>
+          <attvalue for="0" value="165487" />
+          <attvalue for="1" value="121841" />
+          <attvalue for="2" value="65889" />
+          <attvalue for="3" value="75" />
+          <attvalue for="4" value="2020-04-09T21:01:45Z" />
+        </attvalues>
+      </edge>
+      <edge source="shomaristone" target="@NBCNews" id="59">
+        <attvalues>
+          <attvalue for="0" value="166242" />
+          <attvalue for="1" value="118344" />
+          <attvalue for="2" value="66352" />
+          <attvalue for="3" value="74" />
+          <attvalue for="4" value="2020-04-18T21:51:42Z" />
+        </attvalues>
+      </edge>
+      <edge source="shomaristone" target="@Washingtonian,@lmullinsdc" id="60">
+        <attvalues>
+          <attvalue for="0" value="166770" />
+          <attvalue for="1" value="119984" />
+          <attvalue for="2" value="66877" />
+          <attvalue for="3" value="91" />
+          <attvalue for="4" value="2020-04-24T00:14:03Z" />
+        </attvalues>
+      </edge>
+      <edge source="NBSaphierMD" target="@NYGovCuomo" id="61">
+        <attvalues>
+          <attvalue for="0" value="36015" />
+          <attvalue for="1" value="194" />
+          <attvalue for="2" value="21760" />
+          <attvalue for="3" value="441" />
+          <attvalue for="4" value="2020-03-31T16:26:04Z" />
+        </attvalues>
+      </edge>
+      <edge source="SarahRahal_" target="@detroitnews" id="62">
+        <attvalues>
+          <attvalue for="0" value="1802" />
+          <attvalue for="1" value="455" />
+          <attvalue for="2" value="2289" />
+          <attvalue for="3" value="104" />
+          <attvalue for="4" value="2020-03-31T19:30:27Z" />
+        </attvalues>
+      </edge>
+      <edge source="GovKemp" target="@GaDPH,@GeorgiaGuard,@BORUSG" id="63">
+        <attvalues>
+          <attvalue for="0" value="33856" />
+          <attvalue for="1" value="117" />
+          <attvalue for="2" value="355" />
+          <attvalue for="3" value="51" />
+          <attvalue for="4" value="2020-03-31T20:21:55Z" />
+        </attvalues>
+      </edge>
+      <edge source="GovKemp" target="@GaDPH,@GeorgiaEMA,@GeorgiaGuard,@GovKemp" id="64">
+        <attvalues>
+          <attvalue for="0" value="34973" />
+          <attvalue for="1" value="117" />
+          <attvalue for="2" value="356" />
+          <attvalue for="3" value="108" />
+          <attvalue for="4" value="2020-04-01T14:10:32Z" />
+        </attvalues>
+      </edge>
+      <edge source="GovKemp" target="@TateReeves,@henrymcmaster,@GovernorKayIvey,@GovBillLee,@GovRonDeSantis" id="65">
+        <attvalues>
+          <attvalue for="0" value="41103" />
+          <attvalue for="1" value="126" />
+          <attvalue for="2" value="364" />
+          <attvalue for="3" value="67" />
+          <attvalue for="4" value="2020-04-18T19:34:59Z" />
+        </attvalues>
+      </edge>
+      <edge source="AndrewMIbrahim" target="@tylerwinkelman,@kejoynt,@ASlavitt,@ashishkjha,@JosephSakran" id="66">
+        <attvalues>
+          <attvalue for="0" value="8548" />
+          <attvalue for="1" value="5538" />
+          <attvalue for="2" value="34436" />
+          <attvalue for="3" value="50" />
+          <attvalue for="4" value="2020-03-31T23:08:17Z" />
+        </attvalues>
+      </edge>
+      <edge source="RealDrGina" target="@IngrahamAngle,@DineshDSouza,@GovMikeHuckabee" id="67">
+        <attvalues>
+          <attvalue for="0" value="201045" />
+          <attvalue for="1" value="42335" />
+          <attvalue for="2" value="53647" />
+          <attvalue for="3" value="167" />
+          <attvalue for="4" value="2020-04-01T02:50:35Z" />
+        </attvalues>
+      </edge>
+      <edge source="RealDrGina" target="@AmandaHead,@AVoiceNews" id="68">
+        <attvalues>
+          <attvalue for="0" value="201141" />
+          <attvalue for="1" value="42332" />
+          <attvalue for="2" value="53660" />
+          <attvalue for="3" value="51" />
+          <attvalue for="4" value="2020-04-01T15:50:22Z" />
+        </attvalues>
+      </edge>
+      <edge source="RealDrGina" target="@realDonaldTrump" id="69">
+        <attvalues>
+          <attvalue for="0" value="202351" />
+          <attvalue for="1" value="42104" />
+          <attvalue for="2" value="53774" />
+          <attvalue for="3" value="96" />
+          <attvalue for="4" value="2020-04-10T12:39:37Z" />
+        </attvalues>
+      </edge>
+      <edge source="ScottWalker" target="@POTUS,@realDonaldTrump,@SpeakerPelosi" id="70">
+        <attvalues>
+          <attvalue for="0" value="281476" />
+          <attvalue for="1" value="285" />
+          <attvalue for="2" value="307" />
+          <attvalue for="3" value="106" />
+          <attvalue for="4" value="2020-04-01T17:16:32Z" />
+        </attvalues>
+      </edge>
+      <edge source="LydaKrewson" target="@STLCityGov" id="71">
+        <attvalues>
+          <attvalue for="0" value="22450" />
+          <attvalue for="1" value="2546" />
+          <attvalue for="2" value="7393" />
+          <attvalue for="3" value="61" />
+          <attvalue for="4" value="2020-04-02T02:13:55Z" />
+        </attvalues>
+      </edge>
+      <edge source="GCobbHunter" target="@RonDeSantisFL" id="72">
+        <attvalues>
+          <attvalue for="0" value="4301" />
+          <attvalue for="1" value="282" />
+          <attvalue for="2" value="70619" />
+          <attvalue for="3" value="106" />
+          <attvalue for="4" value="2020-04-02T11:24:53Z" />
+        </attvalues>
+      </edge>
+      <edge source="jasonbaum" target="@realDonaldTrump" id="73">
+        <attvalues>
+          <attvalue for="0" value="20689" />
+          <attvalue for="1" value="19959" />
+          <attvalue for="2" value="96475" />
+          <attvalue for="3" value="70" />
+          <attvalue for="4" value="2020-04-02T12:13:09Z" />
+        </attvalues>
+      </edge>
+      <edge source="SolisREMDoc" target="@mededgene,@airwayGladiator,@kovacsgj,@srrezaie,@emcrit,@jducanto,@RussBrown3,@TBayEDguy,@JohnCSakles,@ketaminh,@rob_cosentini,@EBMgoneWILD" id="74">
+        <attvalues>
+          <attvalue for="0" value="493" />
+          <attvalue for="1" value="443" />
+          <attvalue for="2" value="3560" />
+          <attvalue for="3" value="93" />
+          <attvalue for="4" value="2020-04-02T17:36:48Z" />
+        </attvalues>
+      </edge>
+      <edge source="NewsGuyGreg" target="@WaltDisneyWorld,@BN9,@MyNews13" id="75">
+        <attvalues>
+          <attvalue for="0" value="5312" />
+          <attvalue for="1" value="4122" />
+          <attvalue for="2" value="19117" />
+          <attvalue for="3" value="430" />
+          <attvalue for="4" value="2020-04-02T22:18:06Z" />
+        </attvalues>
+      </edge>
+      <edge source="CrispinBurke" target="@TheRealCVN71" id="76">
+        <attvalues>
+          <attvalue for="0" value="15688" />
+          <attvalue for="1" value="8611" />
+          <attvalue for="2" value="150053" />
+          <attvalue for="3" value="128" />
+          <attvalue for="4" value="2020-04-03T13:01:32Z" />
+        </attvalues>
+      </edge>
+      <edge source="RepChipRoy" target="@RepArrington,@SteveScalise" id="77">
+        <attvalues>
+          <attvalue for="0" value="30807" />
+          <attvalue for="1" value="26" />
+          <attvalue for="2" value="503" />
+          <attvalue for="3" value="60" />
+          <attvalue for="4" value="2020-04-03T15:36:19Z" />
+        </attvalues>
+      </edge>
+      <edge source="tarajakewaytv" target="@CBSNewYork,@Giants,@Patriots" id="78">
+        <attvalues>
+          <attvalue for="0" value="1718" />
+          <attvalue for="1" value="1020" />
+          <attvalue for="2" value="2156" />
+          <attvalue for="3" value="185" />
+          <attvalue for="4" value="2020-04-03T15:48:00Z" />
+        </attvalues>
+      </edge>
+      <edge source="isiah4congress" target="@isiah4congress" id="79">
+        <attvalues>
+          <attvalue for="0" value="14523" />
+          <attvalue for="1" value="975" />
+          <attvalue for="2" value="3396" />
+          <attvalue for="3" value="128" />
+          <attvalue for="4" value="2020-04-03T16:39:44Z" />
+        </attvalues>
+      </edge>
+      <edge source="mickakers" target="@Raiders" id="80">
+        <attvalues>
+          <attvalue for="0" value="8189" />
+          <attvalue for="1" value="770" />
+          <attvalue for="2" value="8548" />
+          <attvalue for="3" value="130" />
+          <attvalue for="4" value="2020-04-03T17:29:33Z" />
+        </attvalues>
+      </edge>
+      <edge source="JamesComer" target="@CongressmanHice,@SecPompeo" id="81">
+        <attvalues>
+          <attvalue for="0" value="13210" />
+          <attvalue for="1" value="779" />
+          <attvalue for="2" value="9133" />
+          <attvalue for="3" value="106" />
+          <attvalue for="4" value="2020-04-03T17:58:31Z" />
+        </attvalues>
+      </edge>
+      <edge source="NaveedAJamali" target="@Newsweek" id="82">
+        <attvalues>
+          <attvalue for="0" value="57894" />
+          <attvalue for="1" value="2731" />
+          <attvalue for="2" value="38370" />
+          <attvalue for="3" value="185" />
+          <attvalue for="4" value="2020-04-03T20:14:39Z" />
+        </attvalues>
+      </edge>
+      <edge source="NaveedAJamali" target="@DeptVetAffairs" id="83">
+        <attvalues>
+          <attvalue for="0" value="58238" />
+          <attvalue for="1" value="2738" />
+          <attvalue for="2" value="38762" />
+          <attvalue for="3" value="53" />
+          <attvalue for="4" value="2020-04-19T04:05:15Z" />
+        </attvalues>
+      </edge>
+      <edge source="FOX5_Tiana" target="@FOX5Vegas" id="84">
+        <attvalues>
+          <attvalue for="0" value="1416" />
+          <attvalue for="1" value="561" />
+          <attvalue for="2" value="4859" />
+          <attvalue for="3" value="109" />
+          <attvalue for="4" value="2020-04-03T20:30:42Z" />
+        </attvalues>
+      </edge>
+      <edge source="DMAronoff" target="@VUMC_ID" id="85">
+        <attvalues>
+          <attvalue for="0" value="2348" />
+          <attvalue for="1" value="1720" />
+          <attvalue for="2" value="32091" />
+          <attvalue for="3" value="322" />
+          <attvalue for="4" value="2020-04-03T22:01:47Z" />
+        </attvalues>
+      </edge>
+      <edge source="kerry98198" target="@GovNedLamont,@mitchellvii" id="86">
+        <attvalues>
+          <attvalue for="0" value="432" />
+          <attvalue for="1" value="389" />
+          <attvalue for="2" value="23694" />
+          <attvalue for="3" value="105" />
+          <attvalue for="4" value="2020-04-03T23:41:51Z" />
+        </attvalues>
+      </edge>
+      <edge source="kerry98198" target="@GovNedLamont,@marklevinshow,@OBSERVER_RAM" id="87">
+        <attvalues>
+          <attvalue for="0" value="450" />
+          <attvalue for="1" value="397" />
+          <attvalue for="2" value="24200" />
+          <attvalue for="3" value="75" />
+          <attvalue for="4" value="2020-04-07T20:07:29Z" />
+        </attvalues>
+      </edge>
+      <edge source="JJRyanOnAir" target="@LewisCapaldi,@NiallOfficial" id="88">
+        <attvalues>
+          <attvalue for="0" value="21077" />
+          <attvalue for="1" value="1029" />
+          <attvalue for="2" value="6348" />
+          <attvalue for="3" value="63" />
+          <attvalue for="4" value="2020-04-04T00:23:21Z" />
+        </attvalues>
+      </edge>
+      <edge source="hjosephleblanc" target="@Annakhait,@BillGates" id="89">
+        <attvalues>
+          <attvalue for="0" value="751" />
+          <attvalue for="1" value="1016" />
+          <attvalue for="2" value="14458" />
+          <attvalue for="3" value="102" />
+          <attvalue for="4" value="2020-04-04T00:40:10Z" />
+        </attvalues>
+      </edge>
+      <edge source="SophiaGermer" target="@NOLAnews" id="90">
+        <attvalues>
+          <attvalue for="0" value="715" />
+          <attvalue for="1" value="145" />
+          <attvalue for="2" value="473" />
+          <attvalue for="3" value="94" />
+          <attvalue for="4" value="2020-04-04T16:14:47Z" />
+        </attvalues>
+      </edge>
+      <edge source="PACAF" target="@fema,@CDCgov" id="91">
+        <attvalues>
+          <attvalue for="0" value="35448" />
+          <attvalue for="1" value="334" />
+          <attvalue for="2" value="1453" />
+          <attvalue for="3" value="60" />
+          <attvalue for="4" value="2020-04-04T19:43:17Z" />
+        </attvalues>
+      </edge>
+      <edge source="Ryanintheus" target="@ConvivialsNG" id="92">
+        <attvalues>
+          <attvalue for="0" value="199983" />
+          <attvalue for="1" value="172222" />
+          <attvalue for="2" value="23591" />
+          <attvalue for="3" value="66" />
+          <attvalue for="4" value="2020-04-04T21:17:46Z" />
+        </attvalues>
+      </edge>
+      <edge source="MarkPochapin" target="@nyulangone" id="93">
+        <attvalues>
+          <attvalue for="0" value="2966" />
+          <attvalue for="1" value="332" />
+          <attvalue for="2" value="1039" />
+          <attvalue for="3" value="50" />
+          <attvalue for="4" value="2020-04-05T00:23:13Z" />
+        </attvalues>
+      </edge>
+      <edge source="Fightfor15LA" target="@McDonalds" id="94">
+        <attvalues>
+          <attvalue for="0" value="11252" />
+          <attvalue for="1" value="3336" />
+          <attvalue for="2" value="2060" />
+          <attvalue for="3" value="338" />
+          <attvalue for="4" value="2020-04-05T16:46:10Z" />
+        </attvalues>
+      </edge>
+      <edge source="Fightfor15LA" target="@dominos,@Fightfor15LA" id="95">
+        <attvalues>
+          <attvalue for="0" value="11266" />
+          <attvalue for="1" value="3335" />
+          <attvalue for="2" value="2063" />
+          <attvalue for="3" value="81" />
+          <attvalue for="4" value="2020-04-08T01:11:50Z" />
+        </attvalues>
+      </edge>
+      <edge source="the_etheropian" target="@CamaraJones,@the_etheropian,@CDCgov" id="96">
+        <attvalues>
+          <attvalue for="0" value="2203" />
+          <attvalue for="1" value="1566" />
+          <attvalue for="2" value="75597" />
+          <attvalue for="3" value="179" />
+          <attvalue for="4" value="2020-04-05T17:10:49Z" />
+        </attvalues>
+      </edge>
+      <edge source="EmilyRoseFinn" target="@realDonaldTrump" id="97">
+        <attvalues>
+          <attvalue for="0" value="8002" />
+          <attvalue for="1" value="1112" />
+          <attvalue for="2" value="25342" />
+          <attvalue for="3" value="183" />
+          <attvalue for="4" value="2020-04-08T23:24:56Z" />
+        </attvalues>
+      </edge>
+      <edge source="EmilyRoseFinn" target="@Pres,@realDonaldTrump" id="98">
+        <attvalues>
+          <attvalue for="0" value="9949" />
+          <attvalue for="1" value="1171" />
+          <attvalue for="2" value="26063" />
+          <attvalue for="3" value="151" />
+          <attvalue for="4" value="2020-04-29T21:12:09Z" />
+        </attvalues>
+      </edge>
+      <edge source="NidaQadirMD" target="@uclaimchiefs,@NoCoughEng,@HungryDes,@UCLAHealth,@atscommunity,@GiladJaffe" id="99">
+        <attvalues>
+          <attvalue for="0" value="516" />
+          <attvalue for="1" value="442" />
+          <attvalue for="2" value="448" />
+          <attvalue for="3" value="84" />
+          <attvalue for="4" value="2020-04-06T00:12:01Z" />
+        </attvalues>
+      </edge>
+      <edge source="Tennesseine" target="@realdonaldtrump,@gop" id="100">
+        <attvalues>
+          <attvalue for="0" value="31843" />
+          <attvalue for="1" value="7610" />
+          <attvalue for="2" value="97921" />
+          <attvalue for="3" value="53" />
+          <attvalue for="4" value="2020-04-06T00:23:41Z" />
+        </attvalues>
+      </edge>
+      <edge source="Tennesseine" target="@gop" id="101">
+        <attvalues>
+          <attvalue for="0" value="32132" />
+          <attvalue for="1" value="7765" />
+          <attvalue for="2" value="99123" />
+          <attvalue for="3" value="77" />
+          <attvalue for="4" value="2020-04-23T04:12:10Z" />
+        </attvalues>
+      </edge>
+      <edge source="LiveBoston617" target="@The_BMC,@Boston_EMS" id="102">
+        <attvalues>
+          <attvalue for="0" value="6487" />
+          <attvalue for="1" value="834" />
+          <attvalue for="2" value="19918" />
+          <attvalue for="3" value="64" />
+          <attvalue for="4" value="2020-04-06T03:20:56Z" />
+        </attvalues>
+      </edge>
+      <edge source="charlielangton" target="@SpiritOfDet,@WWJ950,@FOX2News" id="103">
+        <attvalues>
+          <attvalue for="0" value="13029" />
+          <attvalue for="1" value="668" />
+          <attvalue for="2" value="376" />
+          <attvalue for="3" value="72" />
+          <attvalue for="4" value="2020-04-06T10:44:57Z" />
+        </attvalues>
+      </edge>
+      <edge source="charlielangton" target="@WWJ950,@FOX2News,@GovWhitmer" id="104">
+        <attvalues>
+          <attvalue for="0" value="13252" />
+          <attvalue for="1" value="669" />
+          <attvalue for="2" value="382" />
+          <attvalue for="3" value="659" />
+          <attvalue for="4" value="2020-04-15T17:09:45Z" />
+        </attvalues>
+      </edge>
+      <edge source="KTVUCAMERAMAN" target="@KTVU" id="105">
+        <attvalues>
+          <attvalue for="0" value="1322" />
+          <attvalue for="1" value="1518" />
+          <attvalue for="2" value="1775" />
+          <attvalue for="3" value="80" />
+          <attvalue for="4" value="2020-04-06T14:09:11Z" />
+        </attvalues>
+      </edge>
+      <edge source="StevenDialFox4" target="@FOX4" id="106">
+        <attvalues>
+          <attvalue for="0" value="7455" />
+          <attvalue for="1" value="2447" />
+          <attvalue for="2" value="30449" />
+          <attvalue for="3" value="66" />
+          <attvalue for="4" value="2020-04-06T16:48:59Z" />
+        </attvalues>
+      </edge>
+      <edge source="StevenDialFox4" target="@FOX4,@JudgeClayJ" id="107">
+        <attvalues>
+          <attvalue for="0" value="7526" />
+          <attvalue for="1" value="2464" />
+          <attvalue for="2" value="31338" />
+          <attvalue for="3" value="182" />
+          <attvalue for="4" value="2020-04-28T20:10:45Z" />
+        </attvalues>
+      </edge>
+      <edge source="CEStephens" target="@LouisianaGov" id="108">
+        <attvalues>
+          <attvalue for="0" value="4265" />
+          <attvalue for="1" value="1638" />
+          <attvalue for="2" value="59774" />
+          <attvalue for="3" value="61" />
+          <attvalue for="4" value="2020-04-06T16:58:19Z" />
+        </attvalues>
+      </edge>
+      <edge source="ChaseCrews7" target="@linemanissues,@Sc0ttymac71,@Bigcoachmays" id="109">
+        <attvalues>
+          <attvalue for="0" value="146" />
+          <attvalue for="1" value="195" />
+          <attvalue for="2" value="236" />
+          <attvalue for="3" value="81" />
+          <attvalue for="4" value="2020-04-06T22:37:52Z" />
+        </attvalues>
+      </edge>
+      <edge source="hcphtx" target="@nrgpark" id="110">
+        <attvalues>
+          <attvalue for="0" value="12721" />
+          <attvalue for="1" value="4131" />
+          <attvalue for="2" value="9097" />
+          <attvalue for="3" value="50" />
+          <attvalue for="4" value="2020-04-07T01:12:50Z" />
+        </attvalues>
+      </edge>
+      <edge source="hcphtx" target="@HoustonHealth" id="111">
+        <attvalues>
+          <attvalue for="0" value="13166" />
+          <attvalue for="1" value="4147" />
+          <attvalue for="2" value="9113" />
+          <attvalue for="3" value="67" />
+          <attvalue for="4" value="2020-04-11T23:40:40Z" />
+        </attvalues>
+      </edge>
+      <edge source="bestnaunieever" target="@POTUS" id="112">
+        <attvalues>
+          <attvalue for="0" value="14569" />
+          <attvalue for="1" value="13531" />
+          <attvalue for="2" value="79936" />
+          <attvalue for="3" value="259" />
+          <attvalue for="4" value="2020-04-07T01:17:34Z" />
+        </attvalues>
+      </edge>
+      <edge source="HaririRobert" target="@DrOz" id="113">
+        <attvalues>
+          <attvalue for="0" value="6510" />
+          <attvalue for="1" value="897" />
+          <attvalue for="2" value="342" />
+          <attvalue for="3" value="64" />
+          <attvalue for="4" value="2020-04-07T01:28:37Z" />
+        </attvalues>
+      </edge>
+      <edge source="HaririRobert" target="@JudgeJeanine,@jpkiekens,@potus,@BernardKerik,@PeterDiamandis" id="114">
+        <attvalues>
+          <attvalue for="0" value="6937" />
+          <attvalue for="1" value="898" />
+          <attvalue for="2" value="375" />
+          <attvalue for="3" value="85" />
+          <attvalue for="4" value="2020-04-19T14:56:43Z" />
+        </attvalues>
+      </edge>
+      <edge source="CharlesMBlow" target="@nytopinion" id="115">
+        <attvalues>
+          <attvalue for="0" value="555965" />
+          <attvalue for="1" value="1589" />
+          <attvalue for="2" value="319" />
+          <attvalue for="3" value="157" />
+          <attvalue for="4" value="2020-04-07T17:05:08Z" />
+        </attvalues>
+      </edge>
+      <edge source="BarbMcQuade" target="@LeahLitman,@TheAtlantic,@UMichLaw" id="116">
+        <attvalues>
+          <attvalue for="0" value="335046" />
+          <attvalue for="1" value="995" />
+          <attvalue for="2" value="16222" />
+          <attvalue for="3" value="169" />
+          <attvalue for="4" value="2020-04-08T11:38:18Z" />
+        </attvalues>
+      </edge>
+      <edge source="NAACP" target="@BET" id="117">
+        <attvalues>
+          <attvalue for="0" value="431832" />
+          <attvalue for="1" value="31525" />
+          <attvalue for="2" value="8783" />
+          <attvalue for="3" value="60" />
+          <attvalue for="4" value="2020-04-08T19:22:36Z" />
+        </attvalues>
+      </edge>
+      <edge source="NAACP" target="@DerrickNAACP,@BET,@EdLGordon,@NAACP" id="118">
+        <attvalues>
+          <attvalue for="0" value="432376" />
+          <attvalue for="1" value="31494" />
+          <attvalue for="2" value="8791" />
+          <attvalue for="3" value="58" />
+          <attvalue for="4" value="2020-04-17T16:45:39Z" />
+        </attvalues>
+      </edge>
+      <edge source="NAACP" target="@AprilDRyan,@NAACP,@BET" id="119">
+        <attvalues>
+          <attvalue for="0" value="432964" />
+          <attvalue for="1" value="31472" />
+          <attvalue for="2" value="8806" />
+          <attvalue for="3" value="69" />
+          <attvalue for="4" value="2020-04-27T19:51:28Z" />
+        </attvalues>
+      </edge>
+      <edge source="SylvesterTurner" target="@HoustonHealth" id="120">
+        <attvalues>
+          <attvalue for="0" value="116177" />
+          <attvalue for="1" value="1705" />
+          <attvalue for="2" value="8269" />
+          <attvalue for="3" value="64" />
+          <attvalue for="4" value="2020-04-30T20:07:47Z" />
+        </attvalues>
+      </edge>
+      <edge source="SylvesterTurner" target="@HPARD" id="121">
+        <attvalues>
+          <attvalue for="0" value="112083" />
+          <attvalue for="1" value="1696" />
+          <attvalue for="2" value="7866" />
+          <attvalue for="3" value="109" />
+          <attvalue for="4" value="2020-04-09T20:09:37Z" />
+        </attvalues>
+      </edge>
+      <edge source="SylvesterTurner" target="@Beyonce" id="122">
+        <attvalues>
+          <attvalue for="0" value="113751" />
+          <attvalue for="1" value="1701" />
+          <attvalue for="2" value="8023" />
+          <attvalue for="3" value="84" />
+          <attvalue for="4" value="2020-04-19T03:33:11Z" />
+        </attvalues>
+      </edge>
+      <edge source="weijia" target="@CDCgov" id="123">
+        <attvalues>
+          <attvalue for="0" value="142281" />
+          <attvalue for="1" value="3482" />
+          <attvalue for="2" value="6210" />
+          <attvalue for="3" value="252" />
+          <attvalue for="4" value="2020-04-09T01:36:30Z" />
+        </attvalues>
+      </edge>
+      <edge source="weijia" target="@whca" id="124">
+        <attvalues>
+          <attvalue for="0" value="142583" />
+          <attvalue for="1" value="3500" />
+          <attvalue for="2" value="6239" />
+          <attvalue for="3" value="102" />
+          <attvalue for="4" value="2020-04-09T18:51:42Z" />
+        </attvalues>
+      </edge>
+      <edge source="weijia" target="@benstracy" id="125">
+        <attvalues>
+          <attvalue for="0" value="142541" />
+          <attvalue for="1" value="3500" />
+          <attvalue for="2" value="6234" />
+          <attvalue for="3" value="72" />
+          <attvalue for="4" value="2020-04-09T20:37:59Z" />
+        </attvalues>
+      </edge>
+      <edge source="weijia" target="@Yamiche" id="126">
+        <attvalues>
+          <attvalue for="0" value="190055" />
+          <attvalue for="1" value="3617" />
+          <attvalue for="2" value="6366" />
+          <attvalue for="3" value="263" />
+          <attvalue for="4" value="2020-04-20T23:07:28Z" />
+        </attvalues>
+      </edge>
+      <edge source="weijia" target="@NYGovCuomo" id="127">
+        <attvalues>
+          <attvalue for="0" value="190021" />
+          <attvalue for="1" value="3617" />
+          <attvalue for="2" value="6366" />
+          <attvalue for="3" value="63" />
+          <attvalue for="4" value="2020-04-21T01:47:33Z" />
+        </attvalues>
+      </edge>
+      <edge source="weijia" target="@OIGatHHS" id="128">
+        <attvalues>
+          <attvalue for="0" value="196910" />
+          <attvalue for="1" value="3651" />
+          <attvalue for="2" value="6397" />
+          <attvalue for="3" value="63" />
+          <attvalue for="4" value="2020-04-22T22:05:41Z" />
+        </attvalues>
+      </edge>
+      <edge source="weijia" target="@Google,@vp" id="129">
+        <attvalues>
+          <attvalue for="0" value="200779" />
+          <attvalue for="1" value="3674" />
+          <attvalue for="2" value="6427" />
+          <attvalue for="3" value="411" />
+          <attvalue for="4" value="2020-04-24T21:59:45Z" />
+        </attvalues>
+      </edge>
+      <edge source="weijia" target="@PressSec" id="130">
+        <attvalues>
+          <attvalue for="0" value="203639" />
+          <attvalue for="1" value="3687" />
+          <attvalue for="2" value="6445" />
+          <attvalue for="3" value="101" />
+          <attvalue for="4" value="2020-04-27T17:27:35Z" />
+        </attvalues>
+      </edge>
+      <edge source="oscarcabot" target="@NBCBayArea,@BrendanNWeber,@abc7kristensze,@NBCian,@sfchronicle,@KTVU,@KPIXtv,@latimes,@mercnews,@LondonBreed,@abc7newsbayarea" id="131">
+        <attvalues>
+          <attvalue for="0" value="28931" />
+          <attvalue for="1" value="5817" />
+          <attvalue for="2" value="1561" />
+          <attvalue for="3" value="157" />
+          <attvalue for="4" value="2020-04-09T15:50:00Z" />
+        </attvalues>
+      </edge>
+      <edge source="GeraldoRivera" target="@realDonaldTrump" id="132">
+        <attvalues>
+          <attvalue for="0" value="343647" />
+          <attvalue for="1" value="911" />
+          <attvalue for="2" value="1342" />
+          <attvalue for="3" value="184" />
+          <attvalue for="4" value="2020-04-21T17:03:49Z" />
+        </attvalues>
+      </edge>
+      <edge source="GeraldoRivera" target="@joshrogin,@realDonaldTrump" id="133">
+        <attvalues>
+          <attvalue for="0" value="342768" />
+          <attvalue for="1" value="909" />
+          <attvalue for="2" value="1325" />
+          <attvalue for="3" value="397" />
+          <attvalue for="4" value="2020-04-15T01:10:06Z" />
+        </attvalues>
+      </edge>
+      <edge source="joshuabickel" target="@GovMikeDeWine" id="134">
+        <attvalues>
+          <attvalue for="0" value="1058" />
+          <attvalue for="1" value="718" />
+          <attvalue for="2" value="566" />
+          <attvalue for="3" value="79" />
+          <attvalue for="4" value="2020-04-09T18:24:11Z" />
+        </attvalues>
+      </edge>
+      <edge source="Jon_RosenthalTX" target="@Jon_RosenthalTX" id="135">
+        <attvalues>
+          <attvalue for="0" value="1703" />
+          <attvalue for="1" value="321" />
+          <attvalue for="2" value="1318" />
+          <attvalue for="3" value="125" />
+          <attvalue for="4" value="2020-04-09T20:45:40Z" />
+        </attvalues>
+      </edge>
+      <edge source="TheWisemanSaid2" target="@SenatorTimScott" id="136">
+        <attvalues>
+          <attvalue for="0" value="19364" />
+          <attvalue for="1" value="19318" />
+          <attvalue for="2" value="2254" />
+          <attvalue for="3" value="119" />
+          <attvalue for="4" value="2020-04-09T20:51:15Z" />
+        </attvalues>
+      </edge>
+      <edge source="TheWisemanSaid2" target="@TeaPainUSA" id="137">
+        <attvalues>
+          <attvalue for="0" value="19354" />
+          <attvalue for="1" value="19311" />
+          <attvalue for="2" value="2394" />
+          <attvalue for="3" value="50" />
+          <attvalue for="4" value="2020-04-29T17:36:56Z" />
+        </attvalues>
+      </edge>
+      <edge source="RonWaxman" target="@TimAeppel" id="138">
+        <attvalues>
+          <attvalue for="0" value="10964" />
+          <attvalue for="1" value="5357" />
+          <attvalue for="2" value="131775" />
+          <attvalue for="3" value="58" />
+          <attvalue for="4" value="2020-04-09T22:39:59Z" />
+        </attvalues>
+      </edge>
+      <edge source="RonWaxman" target="@Acosta,@atrupar" id="139">
+        <attvalues>
+          <attvalue for="0" value="10964" />
+          <attvalue for="1" value="5357" />
+          <attvalue for="2" value="131775" />
+          <attvalue for="3" value="65" />
+          <attvalue for="4" value="2020-04-09T22:53:19Z" />
+        </attvalues>
+      </edge>
+      <edge source="RonWaxman" target="@Acosta" id="140">
+        <attvalues>
+          <attvalue for="0" value="10964" />
+          <attvalue for="1" value="5357" />
+          <attvalue for="2" value="131775" />
+          <attvalue for="3" value="100" />
+          <attvalue for="4" value="2020-04-09T22:54:10Z" />
+        </attvalues>
+      </edge>
+      <edge source="RonWaxman" target="@ddale8" id="141">
+        <attvalues>
+          <attvalue for="0" value="10996" />
+          <attvalue for="1" value="5390" />
+          <attvalue for="2" value="132081" />
+          <attvalue for="3" value="68" />
+          <attvalue for="4" value="2020-04-15T22:24:10Z" />
+        </attvalues>
+      </edge>
+      <edge source="RonWaxman" target="@stevenportnoy,@Yamiche" id="142">
+        <attvalues>
+          <attvalue for="0" value="10992" />
+          <attvalue for="1" value="5385" />
+          <attvalue for="2" value="132073" />
+          <attvalue for="3" value="73" />
+          <attvalue for="4" value="2020-04-15T22:39:11Z" />
+        </attvalues>
+      </edge>
+      <edge source="RonWaxman" target="@fred_guttenberg" id="143">
+        <attvalues>
+          <attvalue for="0" value="10992" />
+          <attvalue for="1" value="5385" />
+          <attvalue for="2" value="132073" />
+          <attvalue for="3" value="433" />
+          <attvalue for="4" value="2020-04-15T22:40:39Z" />
+        </attvalues>
+      </edge>
+      <edge source="RonWaxman" target="@glennkirschner2" id="144">
+        <attvalues>
+          <attvalue for="0" value="11004" />
+          <attvalue for="1" value="5399" />
+          <attvalue for="2" value="132208" />
+          <attvalue for="3" value="107" />
+          <attvalue for="4" value="2020-04-18T22:19:57Z" />
+        </attvalues>
+      </edge>
+      <edge source="obedmanuel" target="@anxious_maria,@dallasnews" id="145">
+        <attvalues>
+          <attvalue for="0" value="4011" />
+          <attvalue for="1" value="1623" />
+          <attvalue for="2" value="19929" />
+          <attvalue for="3" value="64" />
+          <attvalue for="4" value="2020-04-09T23:45:02Z" />
+        </attvalues>
+      </edge>
+      <edge source="la_muchasita" target="@abbybroyles,@wtp__2020,@JimInhofe" id="146">
+        <attvalues>
+          <attvalue for="0" value="6299" />
+          <attvalue for="1" value="6361" />
+          <attvalue for="2" value="4861" />
+          <attvalue for="3" value="54" />
+          <attvalue for="4" value="2020-04-10T04:11:02Z" />
+        </attvalues>
+      </edge>
+      <edge source="abc7chriscristi" target="@abc7" id="147">
+        <attvalues>
+          <attvalue for="0" value="1750" />
+          <attvalue for="1" value="1562" />
+          <attvalue for="2" value="892" />
+          <attvalue for="3" value="83" />
+          <attvalue for="4" value="2020-04-10T06:13:21Z" />
+        </attvalues>
+      </edge>
+      <edge source="abc7chriscristi" target="@ABC7" id="148">
+        <attvalues>
+          <attvalue for="0" value="1801" />
+          <attvalue for="1" value="1578" />
+          <attvalue for="2" value="921" />
+          <attvalue for="3" value="339" />
+          <attvalue for="4" value="2020-04-24T23:41:40Z" />
+        </attvalues>
+      </edge>
+      <edge source="abc7chriscristi" target="@ABC7,@GavinNewsom" id="149">
+        <attvalues>
+          <attvalue for="0" value="2110" />
+          <attvalue for="1" value="1602" />
+          <attvalue for="2" value="938" />
+          <attvalue for="3" value="227" />
+          <attvalue for="4" value="2020-04-30T23:18:32Z" />
+        </attvalues>
+      </edge>
+      <edge source="smlungpathguy" target="@AJCPjournal" id="150">
+        <attvalues>
+          <attvalue for="0" value="14852" />
+          <attvalue for="1" value="7496" />
+          <attvalue for="2" value="101399" />
+          <attvalue for="3" value="76" />
+          <attvalue for="4" value="2020-04-10T21:22:27Z" />
+        </attvalues>
+      </edge>
+      <edge source="BuddJenn" target="@CoreCivic,@ICEgov" id="151">
+        <attvalues>
+          <attvalue for="0" value="18823" />
+          <attvalue for="1" value="2013" />
+          <attvalue for="2" value="42172" />
+          <attvalue for="3" value="143" />
+          <attvalue for="4" value="2020-04-11T04:25:21Z" />
+        </attvalues>
+      </edge>
+      <edge source="BuddJenn" target="@chrislhayes" id="152">
+        <attvalues>
+          <attvalue for="0" value="18860" />
+          <attvalue for="1" value="2027" />
+          <attvalue for="2" value="42824" />
+          <attvalue for="3" value="53" />
+          <attvalue for="4" value="2020-04-15T00:09:42Z" />
+        </attvalues>
+      </edge>
+      <edge source="BuddJenn" target="@ICEgov" id="153">
+        <attvalues>
+          <attvalue for="0" value="18857" />
+          <attvalue for="1" value="2032" />
+          <attvalue for="2" value="42919" />
+          <attvalue for="3" value="97" />
+          <attvalue for="4" value="2020-04-15T01:02:31Z" />
+        </attvalues>
+      </edge>
+      <edge source="BuddJenn" target="@ICEgov,@maddow" id="154">
+        <attvalues>
+          <attvalue for="0" value="18995" />
+          <attvalue for="1" value="2057" />
+          <attvalue for="2" value="44235" />
+          <attvalue for="3" value="55" />
+          <attvalue for="4" value="2020-04-25T01:35:30Z" />
+        </attvalues>
+      </edge>
+      <edge source="BuddJenn" target="@BuddJenn" id="155">
+        <attvalues>
+          <attvalue for="0" value="19054" />
+          <attvalue for="1" value="2063" />
+          <attvalue for="2" value="44506" />
+          <attvalue for="3" value="236" />
+          <attvalue for="4" value="2020-04-26T21:57:29Z" />
+        </attvalues>
+      </edge>
+      <edge source="BuddJenn" target="@TysonFoodsCEO" id="156">
+        <attvalues>
+          <attvalue for="0" value="19072" />
+          <attvalue for="1" value="2063" />
+          <attvalue for="2" value="44883" />
+          <attvalue for="3" value="63" />
+          <attvalue for="4" value="2020-04-30T01:36:39Z" />
+        </attvalues>
+      </edge>
+      <edge source="larryelder" target="@CNN" id="157">
+        <attvalues>
+          <attvalue for="0" value="661187" />
+          <attvalue for="1" value="92" />
+          <attvalue for="2" value="7154" />
+          <attvalue for="3" value="198" />
+          <attvalue for="4" value="2020-04-11T17:57:45Z" />
+        </attvalues>
+      </edge>
+      <edge source="KylenMills" target="@LEX18News" id="158">
+        <attvalues>
+          <attvalue for="0" value="3299" />
+          <attvalue for="1" value="1744" />
+          <attvalue for="2" value="4753" />
+          <attvalue for="3" value="66" />
+          <attvalue for="4" value="2020-04-11T21:38:01Z" />
+        </attvalues>
+      </edge>
+      <edge source="hollandcourtney" target="@AFThunderbirds" id="159">
+        <attvalues>
+          <attvalue for="0" value="51581" />
+          <attvalue for="1" value="1552" />
+          <attvalue for="2" value="18232" />
+          <attvalue for="3" value="122" />
+          <attvalue for="4" value="2020-04-11T22:03:41Z" />
+        </attvalues>
+      </edge>
+      <edge source="ClarkCountyNV" target="@AFThunderbirds" id="160">
+        <attvalues>
+          <attvalue for="0" value="202374" />
+          <attvalue for="1" value="99819" />
+          <attvalue for="2" value="15408" />
+          <attvalue for="3" value="232" />
+          <attvalue for="4" value="2020-04-11T23:01:49Z" />
+        </attvalues>
+      </edge>
+      <edge source="ROCKONOHIO" target="@trish_regan,@LVNancy" id="161">
+        <attvalues>
+          <attvalue for="0" value="59383" />
+          <attvalue for="1" value="49175" />
+          <attvalue for="2" value="261042" />
+          <attvalue for="3" value="411" />
+          <attvalue for="4" value="2020-04-12T01:23:41Z" />
+        </attvalues>
+      </edge>
+      <edge source="StephenQ3340" target="@abc3340,@spann,@GovernorKayIvey" id="162">
+        <attvalues>
+          <attvalue for="0" value="2613" />
+          <attvalue for="1" value="865" />
+          <attvalue for="2" value="2042" />
+          <attvalue for="3" value="88" />
+          <attvalue for="4" value="2020-04-12T20:45:32Z" />
+        </attvalues>
+      </edge>
+      <edge source="MusicReviewer7" target="@60Minutes" id="163">
+        <attvalues>
+          <attvalue for="0" value="849" />
+          <attvalue for="1" value="127" />
+          <attvalue for="2" value="2559" />
+          <attvalue for="3" value="104" />
+          <attvalue for="4" value="2020-04-13T01:22:20Z" />
+        </attvalues>
+      </edge>
+      <edge source="TomCostantino" target="@ScottGrimes,@garyrake,@TheOrville,@jleefilm,@hulu" id="164">
+        <attvalues>
+          <attvalue for="0" value="5504" />
+          <attvalue for="1" value="608" />
+          <attvalue for="2" value="7152" />
+          <attvalue for="3" value="65" />
+          <attvalue for="4" value="2020-04-13T03:57:54Z" />
+        </attvalues>
+      </edge>
+      <edge source="JordanSekulow" target="@realDonaldTrump" id="165">
+        <attvalues>
+          <attvalue for="0" value="110143" />
+          <attvalue for="1" value="10105" />
+          <attvalue for="2" value="113" />
+          <attvalue for="3" value="52" />
+          <attvalue for="4" value="2020-04-13T23:40:15Z" />
+        </attvalues>
+      </edge>
+      <edge source="SWFLMom2020" target="@GovRonDeSantis" id="166">
+        <attvalues>
+          <attvalue for="0" value="12571" />
+          <attvalue for="1" value="6700" />
+          <attvalue for="2" value="6274" />
+          <attvalue for="3" value="99" />
+          <attvalue for="4" value="2020-04-14T01:17:32Z" />
+        </attvalues>
+      </edge>
+      <edge source="SteveScottNEWS" target="@wcbs880" id="167">
+        <attvalues>
+          <attvalue for="0" value="4606" />
+          <attvalue for="1" value="1693" />
+          <attvalue for="2" value="10688" />
+          <attvalue for="3" value="71" />
+          <attvalue for="4" value="2020-04-14T15:42:41Z" />
+        </attvalues>
+      </edge>
+      <edge source="abc7AshleyM" target="@ABC7,@theforum" id="168">
+        <attvalues>
+          <attvalue for="0" value="1738" />
+          <attvalue for="1" value="889" />
+          <attvalue for="2" value="8544" />
+          <attvalue for="3" value="81" />
+          <attvalue for="4" value="2020-04-15T14:21:48Z" />
+        </attvalues>
+      </edge>
+      <edge source="Welch_tx" target="@RepKayGranger" id="169">
+        <attvalues>
+          <attvalue for="0" value="12939" />
+          <attvalue for="1" value="2504" />
+          <attvalue for="2" value="1998" />
+          <attvalue for="3" value="170" />
+          <attvalue for="4" value="2020-04-15T15:34:41Z" />
+        </attvalues>
+      </edge>
+      <edge source="SaraLlanes" target="@ScottGottliebMD,@DrEricDing,@DrDenaGrayson" id="170">
+        <attvalues>
+          <attvalue for="0" value="6875" />
+          <attvalue for="1" value="6694" />
+          <attvalue for="2" value="5766" />
+          <attvalue for="3" value="59" />
+          <attvalue for="4" value="2020-04-16T02:47:43Z" />
+        </attvalues>
+      </edge>
+      <edge source="DanWantsFreedom" target="@nypost" id="171">
+        <attvalues>
+          <attvalue for="0" value="54132" />
+          <attvalue for="1" value="59497" />
+          <attvalue for="2" value="141657" />
+          <attvalue for="3" value="65" />
+          <attvalue for="4" value="2020-04-16T05:25:36Z" />
+        </attvalues>
+      </edge>
+      <edge source="DanWantsFreedom" target="@BreitbartNews,@EpochTimes" id="172">
+        <attvalues>
+          <attvalue for="0" value="54394" />
+          <attvalue for="1" value="59751" />
+          <attvalue for="2" value="142809" />
+          <attvalue for="3" value="190" />
+          <attvalue for="4" value="2020-04-20T23:41:39Z" />
+        </attvalues>
+      </edge>
+      <edge source="iwashyna" target="@mcsweeneys" id="173">
+        <attvalues>
+          <attvalue for="0" value="7497" />
+          <attvalue for="1" value="1491" />
+          <attvalue for="2" value="33891" />
+          <attvalue for="3" value="106" />
+          <attvalue for="4" value="2020-04-16T13:36:18Z" />
+        </attvalues>
+      </edge>
+      <edge source="EmbamexEUA" target="@HLGatell,@lopezobrador_,@SSalud_mx" id="174">
+        <attvalues>
+          <attvalue for="0" value="30642" />
+          <attvalue for="1" value="1108" />
+          <attvalue for="2" value="7585" />
+          <attvalue for="3" value="102" />
+          <attvalue for="4" value="2020-04-16T14:42:51Z" />
+        </attvalues>
+      </edge>
+      <edge source="staceyabrams" target="@GoIUPAT" id="175">
+        <attvalues>
+          <attvalue for="0" value="677436" />
+          <attvalue for="1" value="1675" />
+          <attvalue for="2" value="6012" />
+          <attvalue for="3" value="105" />
+          <attvalue for="4" value="2020-04-16T23:48:10Z" />
+        </attvalues>
+      </edge>
+      <edge source="staceyabrams" target="@sally_field" id="176">
+        <attvalues>
+          <attvalue for="0" value="677880" />
+          <attvalue for="1" value="1675" />
+          <attvalue for="2" value="6015" />
+          <attvalue for="3" value="265" />
+          <attvalue for="4" value="2020-04-17T22:55:33Z" />
+        </attvalues>
+      </edge>
+      <edge source="staceyabrams" target="@JohnKerry,@WorldWarZeroOrg" id="177">
+        <attvalues>
+          <attvalue for="0" value="684194" />
+          <attvalue for="1" value="1676" />
+          <attvalue for="2" value="6029" />
+          <attvalue for="3" value="118" />
+          <attvalue for="4" value="2020-04-24T22:51:14Z" />
+        </attvalues>
+      </edge>
+      <edge source="staceyabrams" target="@benwikler" id="178">
+        <attvalues>
+          <attvalue for="0" value="687414" />
+          <attvalue for="1" value="1678" />
+          <attvalue for="2" value="6033" />
+          <attvalue for="3" value="151" />
+          <attvalue for="4" value="2020-04-29T17:05:28Z" />
+        </attvalues>
+      </edge>
+      <edge source="BigBlueWaveUSA" target="@GovWhitmer" id="179">
+        <attvalues>
+          <attvalue for="0" value="64206" />
+          <attvalue for="1" value="69698" />
+          <attvalue for="2" value="178906" />
+          <attvalue for="3" value="116" />
+          <attvalue for="4" value="2020-04-17T00:13:17Z" />
+        </attvalues>
+      </edge>
+      <edge source="cindievaccaro" target="@realDonaldTrump" id="180">
+        <attvalues>
+          <attvalue for="0" value="21285" />
+          <attvalue for="1" value="22552" />
+          <attvalue for="2" value="84793" />
+          <attvalue for="3" value="79" />
+          <attvalue for="4" value="2020-04-17T00:56:59Z" />
+        </attvalues>
+      </edge>
+      <edge source="jukka_salovaara" target="@FinlandUN,@UNFPA,@UN_Women,@VilleSkinnari" id="181">
+        <attvalues>
+          <attvalue for="0" value="1399" />
+          <attvalue for="1" value="199" />
+          <attvalue for="2" value="1009" />
+          <attvalue for="3" value="58" />
+          <attvalue for="4" value="2020-04-17T17:12:00Z" />
+        </attvalues>
+      </edge>
+      <edge source="codeofvets" target="@CharlieDaniels,@codeofvets,@TJHproject" id="182">
+        <attvalues>
+          <attvalue for="0" value="234157" />
+          <attvalue for="1" value="178182" />
+          <attvalue for="2" value="96797" />
+          <attvalue for="3" value="105" />
+          <attvalue for="4" value="2020-04-17T19:32:52Z" />
+        </attvalues>
+      </edge>
+      <edge source="codeofvets" target="@USArmy" id="183">
+        <attvalues>
+          <attvalue for="0" value="235642" />
+          <attvalue for="1" value="178805" />
+          <attvalue for="2" value="96833" />
+          <attvalue for="3" value="104" />
+          <attvalue for="4" value="2020-04-20T14:46:31Z" />
+        </attvalues>
+      </edge>
+      <edge source="AngelinaWTSP" target="@HealthyFla,@10TampaBay" id="184">
+        <attvalues>
+          <attvalue for="0" value="1827" />
+          <attvalue for="1" value="426" />
+          <attvalue for="2" value="9212" />
+          <attvalue for="3" value="122" />
+          <attvalue for="4" value="2020-04-17T21:52:34Z" />
+        </attvalues>
+      </edge>
+      <edge source="Joeycules" target="@TPRNews" id="185">
+        <attvalues>
+          <attvalue for="0" value="4638" />
+          <attvalue for="1" value="3151" />
+          <attvalue for="2" value="1896" />
+          <attvalue for="3" value="53" />
+          <attvalue for="4" value="2020-04-18T01:51:23Z" />
+        </attvalues>
+      </edge>
+      <edge source="CGothnerKCCI" target="@TysonFoods,@KCCINews" id="186">
+        <attvalues>
+          <attvalue for="0" value="1279" />
+          <attvalue for="1" value="1029" />
+          <attvalue for="2" value="3254" />
+          <attvalue for="3" value="79" />
+          <attvalue for="4" value="2020-04-18T03:00:49Z" />
+        </attvalues>
+      </edge>
+      <edge source="C_R_Mendoza" target="@UCSF,@kron4news" id="187">
+        <attvalues>
+          <attvalue for="0" value="404" />
+          <attvalue for="1" value="1449" />
+          <attvalue for="2" value="1770" />
+          <attvalue for="3" value="101" />
+          <attvalue for="4" value="2020-04-18T03:40:08Z" />
+        </attvalues>
+      </edge>
+      <edge source="BridgetKF30" target="@POTUS,@GOP" id="188">
+        <attvalues>
+          <attvalue for="0" value="45792" />
+          <attvalue for="1" value="41613" />
+          <attvalue for="2" value="91597" />
+          <attvalue for="3" value="186" />
+          <attvalue for="4" value="2020-04-18T12:52:14Z" />
+        </attvalues>
+      </edge>
+      <edge source="UN_Spokesperson" target="@UN_Photo,@UN" id="189">
+        <attvalues>
+          <attvalue for="0" value="647708" />
+          <attvalue for="1" value="1082" />
+          <attvalue for="2" value="317" />
+          <attvalue for="3" value="189" />
+          <attvalue for="4" value="2020-04-18T16:41:40Z" />
+        </attvalues>
+      </edge>
+      <edge source="GovernorKayIvey" target="@tatereeves,@henrymcmaster,@GovKemp,@GovBillLee,@GovRonDeSantis" id="190">
+        <attvalues>
+          <attvalue for="0" value="53993" />
+          <attvalue for="1" value="1176" />
+          <attvalue for="2" value="2123" />
+          <attvalue for="3" value="56" />
+          <attvalue for="4" value="2020-04-18T19:03:29Z" />
+        </attvalues>
+      </edge>
+      <edge source="MiamiSup" target="@MDCPS" id="191">
+        <attvalues>
+          <attvalue for="0" value="64990" />
+          <attvalue for="1" value="1029" />
+          <attvalue for="2" value="38360" />
+          <attvalue for="3" value="582" />
+          <attvalue for="4" value="2020-04-18T20:44:01Z" />
+        </attvalues>
+      </edge>
+      <edge source="MiamiSup" target="@chefjoseandres,@ananavarro" id="192">
+        <attvalues>
+          <attvalue for="0" value="65245" />
+          <attvalue for="1" value="1028" />
+          <attvalue for="2" value="38519" />
+          <attvalue for="3" value="56" />
+          <attvalue for="4" value="2020-04-24T02:13:02Z" />
+        </attvalues>
+      </edge>
+      <edge source="Adam_Waltz" target="@abc15" id="193">
+        <attvalues>
+          <attvalue for="0" value="895" />
+          <attvalue for="1" value="1282" />
+          <attvalue for="2" value="7576" />
+          <attvalue for="3" value="78" />
+          <attvalue for="4" value="2020-04-19T19:09:16Z" />
+        </attvalues>
+      </edge>
+      <edge source="janschakowsky" target="@CMSGov" id="194">
+        <attvalues>
+          <attvalue for="0" value="47462" />
+          <attvalue for="1" value="1425" />
+          <attvalue for="2" value="1703" />
+          <attvalue for="3" value="235" />
+          <attvalue for="4" value="2020-04-20T03:34:17Z" />
+        </attvalues>
+      </edge>
+      <edge source="janschakowsky" target="@SenWarren" id="195">
+        <attvalues>
+          <attvalue for="0" value="47642" />
+          <attvalue for="1" value="1425" />
+          <attvalue for="2" value="1738" />
+          <attvalue for="3" value="58" />
+          <attvalue for="4" value="2020-04-30T18:39:58Z" />
+        </attvalues>
+      </edge>
+      <edge source="LindaHale8006" target="@_EricCarr" id="196">
+        <attvalues>
+          <attvalue for="0" value="43204" />
+          <attvalue for="1" value="47304" />
+          <attvalue for="2" value="62193" />
+          <attvalue for="3" value="73" />
+          <attvalue for="4" value="2020-04-20T17:56:14Z" />
+        </attvalues>
+      </edge>
+      <edge source="MDNG" target="@175thWing" id="197">
+        <attvalues>
+          <attvalue for="0" value="9675" />
+          <attvalue for="1" value="90" />
+          <attvalue for="2" value="251" />
+          <attvalue for="3" value="210" />
+          <attvalue for="4" value="2020-04-20T18:56:29Z" />
+        </attvalues>
+      </edge>
+      <edge source="DRoseTV" target="@jlkowalik,@WISN12News" id="198">
+        <attvalues>
+          <attvalue for="0" value="8493" />
+          <attvalue for="1" value="7203" />
+          <attvalue for="2" value="17726" />
+          <attvalue for="3" value="655" />
+          <attvalue for="4" value="2020-04-20T20:53:16Z" />
+        </attvalues>
+      </edge>
+      <edge source="ebonywarriorLLC" target="@ArdaWigsCanada,@EsportsGears,@GearsofWar,@Microsoft,@WetaWorkshop" id="199">
+        <attvalues>
+          <attvalue for="0" value="1458" />
+          <attvalue for="1" value="237" />
+          <attvalue for="2" value="153" />
+          <attvalue for="3" value="75" />
+          <attvalue for="4" value="2020-04-20T23:35:45Z" />
+        </attvalues>
+      </edge>
+      <edge source="ebonywarriorLLC" target="@ArdaWigsCanada,@EsportsGears,@Xbox,@GearsofWar,@Microsoft" id="200">
+        <attvalues>
+          <attvalue for="0" value="1521" />
+          <attvalue for="1" value="237" />
+          <attvalue for="2" value="154" />
+          <attvalue for="3" value="65" />
+          <attvalue for="4" value="2020-04-26T15:53:04Z" />
+        </attvalues>
+      </edge>
+      <edge source="MexOnu" target="@UN" id="201">
+        <attvalues>
+          <attvalue for="0" value="13791" />
+          <attvalue for="1" value="1290" />
+          <attvalue for="2" value="5137" />
+          <attvalue for="3" value="646" />
+          <attvalue for="4" value="2020-04-21T01:26:20Z" />
+        </attvalues>
+      </edge>
+      <edge source="Jan_Ransom" target="@HudsonPointe_HC" id="202">
+        <attvalues>
+          <attvalue for="0" value="5269" />
+          <attvalue for="1" value="1018" />
+          <attvalue for="2" value="2655" />
+          <attvalue for="3" value="349" />
+          <attvalue for="4" value="2020-04-21T10:51:53Z" />
+        </attvalues>
+      </edge>
+      <edge source="disruptionary" target="@disruptionary,@BernieSanders" id="203">
+        <attvalues>
+          <attvalue for="0" value="11757" />
+          <attvalue for="1" value="1221" />
+          <attvalue for="2" value="1885" />
+          <attvalue for="3" value="66" />
+          <attvalue for="4" value="2020-04-21T18:56:27Z" />
+        </attvalues>
+      </edge>
+      <edge source="RepGosar" target="@realdonaldtrump" id="204">
+        <attvalues>
+          <attvalue for="0" value="111392" />
+          <attvalue for="1" value="4464" />
+          <attvalue for="2" value="7872" />
+          <attvalue for="3" value="84" />
+          <attvalue for="4" value="2020-04-21T20:52:52Z" />
+        </attvalues>
+      </edge>
+      <edge source="aziaticblack" target="@aziaticblack,@MoneyLynch" id="205">
+        <attvalues>
+          <attvalue for="0" value="1609" />
+          <attvalue for="1" value="875" />
+          <attvalue for="2" value="17185" />
+          <attvalue for="3" value="165" />
+          <attvalue for="4" value="2020-04-21T23:28:46Z" />
+        </attvalues>
+      </edge>
+      <edge source="drosssports" target="@AndrewYang" id="206">
+        <attvalues>
+          <attvalue for="0" value="6436" />
+          <attvalue for="1" value="495" />
+          <attvalue for="2" value="38161" />
+          <attvalue for="3" value="66" />
+          <attvalue for="4" value="2020-04-22T17:59:56Z" />
+        </attvalues>
+      </edge>
+      <edge source="GKMC18" target="@SunriseMvmtChi,@InSocialjustice,@IIYCfamily,@israhirsi" id="207">
+        <attvalues>
+          <attvalue for="0" value="9665" />
+          <attvalue for="1" value="3947" />
+          <attvalue for="2" value="51859" />
+          <attvalue for="3" value="69" />
+          <attvalue for="4" value="2020-04-22T18:41:14Z" />
+        </attvalues>
+      </edge>
+      <edge source="KatieDaviscourt" target="@GovInslee" id="208">
+        <attvalues>
+          <attvalue for="0" value="9408" />
+          <attvalue for="1" value="3884" />
+          <attvalue for="2" value="13328" />
+          <attvalue for="3" value="76" />
+          <attvalue for="4" value="2020-04-29T22:40:44Z" />
+        </attvalues>
+      </edge>
+      <edge source="KatieDaviscourt" target="@BillGates,@gatesfoundation,@GovInslee" id="209">
+        <attvalues>
+          <attvalue for="0" value="9407" />
+          <attvalue for="1" value="3884" />
+          <attvalue for="2" value="13328" />
+          <attvalue for="3" value="147" />
+          <attvalue for="4" value="2020-04-30T03:56:02Z" />
+        </attvalues>
+      </edge>
+      <edge source="KatieDaviscourt" target="@gatesfoundation,@GovInslee" id="210">
+        <attvalues>
+          <attvalue for="0" value="9476" />
+          <attvalue for="1" value="3926" />
+          <attvalue for="2" value="13379" />
+          <attvalue for="3" value="107" />
+          <attvalue for="4" value="2020-04-30T20:57:29Z" />
+        </attvalues>
+      </edge>
+      <edge source="DrRichardLeBeau" target="@BeyGood,@Beyonce,@UCLA" id="211">
+        <attvalues>
+          <attvalue for="0" value="294" />
+          <attvalue for="1" value="323" />
+          <attvalue for="2" value="245" />
+          <attvalue for="3" value="61" />
+          <attvalue for="4" value="2020-04-23T15:08:50Z" />
+        </attvalues>
+      </edge>
+      <edge source="LtGovDanForest" target="@LtGovDanForest" id="212">
+        <attvalues>
+          <attvalue for="0" value="8448" />
+          <attvalue for="1" value="948" />
+          <attvalue for="2" value="1857" />
+          <attvalue for="3" value="57" />
+          <attvalue for="4" value="2020-04-23T21:51:48Z" />
+        </attvalues>
+      </edge>
+      <edge source="mayorcantrell" target="@xula1925,@hanes" id="213">
+        <attvalues>
+          <attvalue for="0" value="21830" />
+          <attvalue for="1" value="341" />
+          <attvalue for="2" value="4625" />
+          <attvalue for="3" value="84" />
+          <attvalue for="4" value="2020-04-24T13:44:00Z" />
+        </attvalues>
+      </edge>
+      <edge source="JasminSanchezNY" target="@LESMutualAid" id="214">
+        <attvalues>
+          <attvalue for="0" value="638" />
+          <attvalue for="1" value="800" />
+          <attvalue for="2" value="567" />
+          <attvalue for="3" value="106" />
+          <attvalue for="4" value="2020-04-24T16:28:49Z" />
+        </attvalues>
+      </edge>
+      <edge source="xMugenYoruichix" target="@ogmusicnatho" id="215">
+        <attvalues>
+          <attvalue for="0" value="5471" />
+          <attvalue for="1" value="2687" />
+          <attvalue for="2" value="65953" />
+          <attvalue for="3" value="53" />
+          <attvalue for="4" value="2020-04-24T18:31:49Z" />
+        </attvalues>
+      </edge>
+      <edge source="c_hansen84" target="@realDonaldTrump" id="216">
+        <attvalues>
+          <attvalue for="0" value="2957" />
+          <attvalue for="1" value="2505" />
+          <attvalue for="2" value="45209" />
+          <attvalue for="3" value="143" />
+          <attvalue for="4" value="2020-04-24T23:10:23Z" />
+        </attvalues>
+      </edge>
+      <edge source="c_hansen84" target="@NikkiHaley,@SenatorDurbin" id="217">
+        <attvalues>
+          <attvalue for="0" value="2981" />
+          <attvalue for="1" value="2509" />
+          <attvalue for="2" value="45346" />
+          <attvalue for="3" value="55" />
+          <attvalue for="4" value="2020-04-26T02:40:02Z" />
+        </attvalues>
+      </edge>
+      <edge source="WajSKhan" target="@BBhuttoZardari" id="218">
+        <attvalues>
+          <attvalue for="0" value="145676" />
+          <attvalue for="1" value="613" />
+          <attvalue for="2" value="16169" />
+          <attvalue for="3" value="61" />
+          <attvalue for="4" value="2020-04-25T16:19:53Z" />
+        </attvalues>
+      </edge>
+      <edge source="risca1967" target="@OBEYGIANT,@GovRaimondo" id="219">
+        <attvalues>
+          <attvalue for="0" value="2008" />
+          <attvalue for="1" value="286" />
+          <attvalue for="2" value="854" />
+          <attvalue for="3" value="92" />
+          <attvalue for="4" value="2020-04-25T17:51:44Z" />
+        </attvalues>
+      </edge>
+      <edge source="jonfranks" target="@realDonaldTrump" id="220">
+        <attvalues>
+          <attvalue for="0" value="23032" />
+          <attvalue for="1" value="2461" />
+          <attvalue for="2" value="22123" />
+          <attvalue for="3" value="132" />
+          <attvalue for="4" value="2020-04-25T21:35:21Z" />
+        </attvalues>
+      </edge>
+      <edge source="anntirrell" target="@markos,@SpiroAgnewGhost" id="221">
+        <attvalues>
+          <attvalue for="0" value="1142" />
+          <attvalue for="1" value="904" />
+          <attvalue for="2" value="35093" />
+          <attvalue for="3" value="163" />
+          <attvalue for="4" value="2020-04-26T00:24:20Z" />
+        </attvalues>
+      </edge>
+      <edge source="DJones1067" target="@realDonaldTrump" id="222">
+        <attvalues>
+          <attvalue for="0" value="5491" />
+          <attvalue for="1" value="4766" />
+          <attvalue for="2" value="24183" />
+          <attvalue for="3" value="77" />
+          <attvalue for="4" value="2020-04-27T02:55:33Z" />
+        </attvalues>
+      </edge>
+      <edge source="KaplanABC11" target="@ABC11_WTVD,@TheRealReopenNC,@ncdhhs,@KaplanABC11" id="223">
+        <attvalues>
+          <attvalue for="0" value="2772" />
+          <attvalue for="1" value="952" />
+          <attvalue for="2" value="6082" />
+          <attvalue for="3" value="63" />
+          <attvalue for="4" value="2020-04-27T15:28:32Z" />
+        </attvalues>
+      </edge>
+      <edge source="PedsMamaDoc" target="@DrvanTilburg,@DrKatrin_Rabiei,@KTamirisaMD,@kari_jerge,@DrHowardLiu,@Docbasia,@arghavan_salles,@alisadoc1,@AgnesSolberg,@meggerber,@RyanMarino,@mass_marion" id="224">
+        <attvalues>
+          <attvalue for="0" value="4604" />
+          <attvalue for="1" value="2787" />
+          <attvalue for="2" value="34684" />
+          <attvalue for="3" value="63" />
+          <attvalue for="4" value="2020-04-27T23:55:34Z" />
+        </attvalues>
+      </edge>
+      <edge source="RonenRubinstein" target="@FOXTV" id="225">
+        <attvalues>
+          <attvalue for="0" value="15729" />
+          <attvalue for="1" value="30" />
+          <attvalue for="2" value="11411" />
+          <attvalue for="3" value="78" />
+          <attvalue for="4" value="2020-04-28T03:01:26Z" />
+        </attvalues>
+      </edge>
+      <edge source="HabenGirma" target="@NewYorker" id="226">
+        <attvalues>
+          <attvalue for="0" value="16394" />
+          <attvalue for="1" value="2822" />
+          <attvalue for="2" value="5218" />
+          <attvalue for="3" value="120" />
+          <attvalue for="4" value="2020-04-28T15:15:04Z" />
+        </attvalues>
+      </edge>
+      <edge source="ScottBeale" target="@AFThunderbirds,@BlueAngels" id="227">
+        <attvalues>
+          <attvalue for="0" value="10825" />
+          <attvalue for="1" value="1436" />
+          <attvalue for="2" value="13366" />
+          <attvalue for="3" value="62" />
+          <attvalue for="4" value="2020-04-28T16:44:32Z" />
+        </attvalues>
+      </edge>
+      <edge source="RemarkHoldings" target="@CBSNews" id="228">
+        <attvalues>
+          <attvalue for="0" value="26127" />
+          <attvalue for="1" value="298" />
+          <attvalue for="2" value="90" />
+          <attvalue for="3" value="77" />
+          <attvalue for="4" value="2020-04-28T19:54:37Z" />
+        </attvalues>
+      </edge>
+      <edge source="FutureDocs" target="@drjessigold,@MSNBC,@WUSTLmed" id="229">
+        <attvalues>
+          <attvalue for="0" value="33702" />
+          <attvalue for="1" value="5740" />
+          <attvalue for="2" value="22904" />
+          <attvalue for="3" value="50" />
+          <attvalue for="4" value="2020-04-29T00:01:36Z" />
+        </attvalues>
+      </edge>
+      <edge source="AyannaPressley" target="@OfficialFBOP" id="230">
+        <attvalues>
+          <attvalue for="0" value="619348" />
+          <attvalue for="1" value="16004" />
+          <attvalue for="2" value="18316" />
+          <attvalue for="3" value="101" />
+          <attvalue for="4" value="2020-04-29T16:35:06Z" />
+        </attvalues>
+      </edge>
+      <edge source="abc7sid" target="@ABC7" id="231">
+        <attvalues>
+          <attvalue for="0" value="3312" />
+          <attvalue for="1" value="561" />
+          <attvalue for="2" value="155" />
+          <attvalue for="3" value="87" />
+          <attvalue for="4" value="2020-04-29T21:34:26Z" />
+        </attvalues>
+      </edge>
+      <edge source="GeoffMiami" target="@TheDemocrats" id="232">
+        <attvalues>
+          <attvalue for="0" value="20662" />
+          <attvalue for="1" value="10134" />
+          <attvalue for="2" value="276035" />
+          <attvalue for="3" value="145" />
+          <attvalue for="4" value="2020-04-29T22:43:42Z" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

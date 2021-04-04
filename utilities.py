@@ -24,8 +24,8 @@ def get_network(df, from_hashtag="", from_country=""):
     edgelistColumns = ["followers_count", "friends_count", "favourites_count", "retweet_count", "created_at", "text"]
 
     if("toxicity" in list(filteredDf.columns)):
-        filteredColumns += "toxicity"
-        edgelistColumns += "toxicity"
+        filteredColumns += ["toxicity"]
+        edgelistColumns += ["toxicity"]
 
     edges_df = filteredDf[filteredColumns]
 

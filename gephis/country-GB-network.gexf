@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2021-03-26">
+  <meta lastmodifieddate="2021-04-04">
     <creator>NetworkX 2.5</creator>
   </meta>
   <graph defaultedgetype="directed" mode="static" name="">
@@ -10,705 +10,769 @@
       <attribute id="2" title="favourites_count" type="long" />
       <attribute id="3" title="retweet_count" type="long" />
       <attribute id="4" title="created_at" type="string" />
+      <attribute id="5" title="text" type="string" />
     </attributes>
     <nodes>
-      <node id="joannaccherry" label="joannaccherry" />
-      <node id="@theSNP,@Dr_PhilippaW" label="@theSNP,@Dr_PhilippaW" />
-      <node id="IainJohnston01" label="IainJohnston01" />
+      <node id="@joannaccherry" label="@joannaccherry" />
+      <node id="@Dr_PhilippaW,@theSNP" label="@Dr_PhilippaW,@theSNP" />
+      <node id="@IainJohnston01" label="@IainJohnston01" />
       <node id="@UKgovcomms" label="@UKgovcomms" />
-      <node id="allontheboard" label="allontheboard" />
       <node id="@allontheboard" label="@allontheboard" />
-      <node id="jesswade" label="jesswade" />
-      <node id="@wikipedia,@NIH,@KizzyPhD" label="@wikipedia,@NIH,@KizzyPhD" />
-      <node id="STRUANSTEVENSON" label="STRUANSTEVENSON" />
+      <node id="@jesswade" label="@jesswade" />
+      <node id="@KizzyPhD,@NIH,@wikipedia" label="@KizzyPhD,@NIH,@wikipedia" />
+      <node id="@STRUANSTEVENSON" label="@STRUANSTEVENSON" />
       <node id="@upi" label="@upi" />
-      <node id="KelechiAFC" label="KelechiAFC" />
-      <node id="@joeboyofficial,@mreazi,@deejayneptune,@AyodejiOsowobi" label="@joeboyofficial,@mreazi,@deejayneptune,@AyodejiOsowobi" />
-      <node id="WearablesExpert" label="WearablesExpert" />
+      <node id="@KelechiAFC" label="@KelechiAFC" />
+      <node id="@joeboyofficial,@mreazi,@AyodejiOsowobi,@deejayneptune" label="@joeboyofficial,@mreazi,@AyodejiOsowobi,@deejayneptune" />
+      <node id="@WearablesExpert" label="@WearablesExpert" />
       <node id="@samharveyrural" label="@samharveyrural" />
       <node id="@theSNP" label="@theSNP" />
-      <node id="ms_kitka" label="ms_kitka" />
+      <node id="@ms_kitka" label="@ms_kitka" />
       <node id="@BBCNews" label="@BBCNews" />
-      <node id="HackneyAbbott" label="HackneyAbbott" />
+      <node id="@HackneyAbbott" label="@HackneyAbbott" />
       <node id="@C4Dispatches" label="@C4Dispatches" />
-      <node id="doctorjudieg" label="doctorjudieg" />
+      <node id="@doctorjudieg" label="@doctorjudieg" />
       <node id="@doctor_oxford,@MattHancock" label="@doctor_oxford,@MattHancock" />
       <node id="@Douglas4Moray,@NicolaSturgeon" label="@Douglas4Moray,@NicolaSturgeon" />
-      <node id="DAHAlliance" label="DAHAlliance" />
-      <node id="@CIHhousing,@natfednews,@Alison_Inman" label="@CIHhousing,@natfednews,@Alison_Inman" />
-      <node id="peterkyle" label="peterkyle" />
+      <node id="@DAHAlliance" label="@DAHAlliance" />
+      <node id="@Alison_Inman,@CIHhousing,@natfednews" label="@Alison_Inman,@CIHhousing,@natfednews" />
+      <node id="@peterkyle" label="@peterkyle" />
       <node id="@BorisJohnson" label="@BorisJohnson" />
-      <node id="David39133380" label="David39133380" />
+      <node id="@David39133380" label="@David39133380" />
       <node id="@KateBurley" label="@KateBurley" />
       <node id="@NadiaWhittomeMP" label="@NadiaWhittomeMP" />
-      <node id="e_sapey" label="e_sapey" />
-      <node id="@kyliebelchamber,@uhbtrust,@unibirm_MDS,@lesadmick,@BWCHBoss" label="@kyliebelchamber,@uhbtrust,@unibirm_MDS,@lesadmick,@BWCHBoss" />
-      <node id="rodbishop15" label="rodbishop15" />
-      <node id="@BBCNews,@SkyNews,@piersmorgan,@guardian" label="@BBCNews,@SkyNews,@piersmorgan,@guardian" />
-      <node id="DrAhmedKazmi" label="DrAhmedKazmi" />
-      <node id="@NHSMillion,@NHSuk,@rcgp" label="@NHSMillion,@NHSuk,@rcgp" />
-      <node id="NorthLivAcademy" label="NorthLivAcademy" />
+      <node id="@e_sapey" label="@e_sapey" />
+      <node id="@lesadmick,@kyliebelchamber,@BWCHBoss,@unibirm_MDS,@uhbtrust" label="@lesadmick,@kyliebelchamber,@BWCHBoss,@unibirm_MDS,@uhbtrust" />
+      <node id="@rodbishop15" label="@rodbishop15" />
+      <node id="@SkyNews,@piersmorgan,@guardian,@BBCNews" label="@SkyNews,@piersmorgan,@guardian,@BBCNews" />
+      <node id="@DrAhmedKazmi" label="@DrAhmedKazmi" />
+      <node id="@rcgp,@NHSuk,@NHSMillion" label="@rcgp,@NHSuk,@NHSMillion" />
+      <node id="@NorthLivAcademy" label="@NorthLivAcademy" />
       <node id="@NHSuk" label="@NHSuk" />
-      <node id="NickTaylorLLB" label="NickTaylorLLB" />
-      <node id="@latimeshealth,@Dr_Dan_1,@latimes,@TheVeganSociety,@PeterEgan6" label="@latimeshealth,@Dr_Dan_1,@latimes,@TheVeganSociety,@PeterEgan6" />
-      <node id="Hawkins2Mac" label="Hawkins2Mac" />
+      <node id="@NickTaylorLLB" label="@NickTaylorLLB" />
+      <node id="@latimes,@TheVeganSociety,@Dr_Dan_1,@PeterEgan6,@latimeshealth" label="@latimes,@TheVeganSociety,@Dr_Dan_1,@PeterEgan6,@latimeshealth" />
+      <node id="@Hawkins2Mac" label="@Hawkins2Mac" />
       <node id="@Keir_Starmer" label="@Keir_Starmer" />
-      <node id="Ianblackford_MP" label="Ianblackford_MP" />
-      <node id="AngelaRayner" label="AngelaRayner" />
-      <node id="bearwitness2019" label="bearwitness2019" />
+      <node id="@Ianblackford_MP" label="@Ianblackford_MP" />
+      <node id="@AngelaRayner" label="@AngelaRayner" />
+      <node id="@bearwitness2019" label="@bearwitness2019" />
       <node id="@Channel4" label="@Channel4" />
-      <node id="RichardKSense" label="RichardKSense" />
+      <node id="@RichardKSense" label="@RichardKSense" />
       <node id="@BBCPanorama" label="@BBCPanorama" />
-      <node id="CllrMajid" label="CllrMajid" />
+      <node id="@CllrMajid" label="@CllrMajid" />
       <node id="@UKLabour,@shabnum_sadiq" label="@UKLabour,@shabnum_sadiq" />
       <node id="@BorisJohnson,@carriesymonds" label="@BorisJohnson,@carriesymonds" />
-      <node id="AnothervoiceWB" label="AnothervoiceWB" />
+      <node id="@AnothervoiceWB" label="@AnothervoiceWB" />
       <node id="@ChrisGPackham" label="@ChrisGPackham" />
-      <node id="saralivadeas" label="saralivadeas" />
+      <node id="@saralivadeas" label="@saralivadeas" />
       <node id="@PHE_uk,@CareQualityComm" label="@PHE_uk,@CareQualityComm" />
-      <node id="ron_dickinson" label="ron_dickinson" />
+      <node id="@ron_dickinson" label="@ron_dickinson" />
       <node id="@BBCScotlandNews,@NicolaSturgeon" label="@BBCScotlandNews,@NicolaSturgeon" />
-      <node id="Sharonwifey" label="Sharonwifey" />
+      <node id="@Sharonwifey" label="@Sharonwifey" />
       <node id="@BBCScotlandNews,@scotgov" label="@BBCScotlandNews,@scotgov" />
-      <node id="yhwhuniversity" label="yhwhuniversity" />
       <node id="@yhwhuniversity" label="@yhwhuniversity" />
-      <node id="Tubemole1" label="Tubemole1" />
-      <node id="@TheLTDA,@UberUK" label="@TheLTDA,@UberUK" />
+      <node id="@Tubemole1" label="@Tubemole1" />
+      <node id="@UberUK,@TheLTDA" label="@UberUK,@TheLTDA" />
       <node id="@TheBMA" label="@TheBMA" />
       <node id="@PHE_uk,@MattHancock" label="@PHE_uk,@MattHancock" />
-      <node id="sharonpentay" label="sharonpentay" />
-      <node id="@10DowningStreet,@Conservatives,@BorisJohnson" label="@10DowningStreet,@Conservatives,@BorisJohnson" />
-      <node id="Ross1Kelly" label="Ross1Kelly" />
-      <node id="@susannareid100,@GMB,@piersmorgan" label="@susannareid100,@GMB,@piersmorgan" />
-      <node id="0824scon" label="0824scon" />
+      <node id="@sharonpentay" label="@sharonpentay" />
+      <node id="@BorisJohnson,@10DowningStreet,@Conservatives" label="@BorisJohnson,@10DowningStreet,@Conservatives" />
+      <node id="@Ross1Kelly" label="@Ross1Kelly" />
+      <node id="@piersmorgan,@susannareid100,@GMB" label="@piersmorgan,@susannareid100,@GMB" />
+      <node id="@0824scon" label="@0824scon" />
       <node id="@DogsTrust" label="@DogsTrust" />
       <node id="@MattHancock" label="@MattHancock" />
-      <node id="TrueIslamScot" label="TrueIslamScot" />
-      <node id="@heraldscotland,@BBCScotlandNews,@BBCBreaking,@GlasgowLiving,@MetroScotland,@SadrMKAUK" label="@heraldscotland,@BBCScotlandNews,@BBCBreaking,@GlasgowLiving,@MetroScotland,@SadrMKAUK" />
-      <node id="SaminaYArif" label="SaminaYArif" />
-      <node id="@pressahmadiyya,@aqarif,@AtfalUK,@UKMuslimYouth,@HamoodaArif,@farihahammad" label="@pressahmadiyya,@aqarif,@AtfalUK,@UKMuslimYouth,@HamoodaArif,@farihahammad" />
-      <node id="ASPolice" label="ASPolice" />
-      <node id="Cakeydoll" label="Cakeydoll" />
+      <node id="@TrueIslamScot" label="@TrueIslamScot" />
+      <node id="@SadrMKAUK,@GlasgowLiving,@BBCBreaking,@heraldscotland,@MetroScotland,@BBCScotlandNews" label="@SadrMKAUK,@GlasgowLiving,@BBCBreaking,@heraldscotland,@MetroScotland,@BBCScotlandNews" />
+      <node id="@SaminaYArif" label="@SaminaYArif" />
+      <node id="@farihahammad,@pressahmadiyya,@AtfalUK,@aqarif,@UKMuslimYouth,@HamoodaArif" label="@farihahammad,@pressahmadiyya,@AtfalUK,@aqarif,@UKMuslimYouth,@HamoodaArif" />
+      <node id="@ASPolice" label="@ASPolice" />
+      <node id="@Cakeydoll" label="@Cakeydoll" />
       <node id="@piersmorgan" label="@piersmorgan" />
       <node id="@tony4rochdale" label="@tony4rochdale" />
-      <node id="16MillionRising" label="16MillionRising" />
-      <node id="GerryGreek" label="GerryGreek" />
-      <node id="@realDonaldTrump,@piersmorgan" label="@realDonaldTrump,@piersmorgan" />
-      <node id="Tilt_Brum" label="Tilt_Brum" />
+      <node id="@16MillionRising" label="@16MillionRising" />
+      <node id="@GerryGreek" label="@GerryGreek" />
+      <node id="@piersmorgan,@realDonaldTrump" label="@piersmorgan,@realDonaldTrump" />
+      <node id="@Tilt_Brum" label="@Tilt_Brum" />
       <node id="@bhamcitycouncil" label="@bhamcitycouncil" />
       <node id="@IrishTimes" label="@IrishTimes" />
-      <node id="natalieben" label="natalieben" />
+      <node id="@natalieben" label="@natalieben" />
       <node id="@LeftFootFwd" label="@LeftFootFwd" />
-      <node id="@JamieACooke,@ronniecowan" label="@JamieACooke,@ronniecowan" />
-      <node id="CrostonBluesEFC" label="CrostonBluesEFC" />
+      <node id="@ronniecowan,@JamieACooke" label="@ronniecowan,@JamieACooke" />
+      <node id="@CrostonBluesEFC" label="@CrostonBluesEFC" />
       <node id="@Everton" label="@Everton" />
-      <node id="@devisridhar,@EdinburghUni" label="@devisridhar,@EdinburghUni" />
-      <node id="WoodgateAir" label="WoodgateAir" />
-      <node id="@planefinder,@belfastairport,@NHSuk,@Cargolux_Intl" label="@planefinder,@belfastairport,@NHSuk,@Cargolux_Intl" />
-      <node id="NickDixonITV" label="NickDixonITV" />
+      <node id="@EdinburghUni,@devisridhar" label="@EdinburghUni,@devisridhar" />
+      <node id="@WoodgateAir" label="@WoodgateAir" />
+      <node id="@NHSuk,@planefinder,@belfastairport,@Cargolux_Intl" label="@NHSuk,@planefinder,@belfastairport,@Cargolux_Intl" />
+      <node id="@NickDixonITV" label="@NickDixonITV" />
       <node id="@GMB" label="@GMB" />
-      <node id="Jeanelleuk" label="Jeanelleuk" />
+      <node id="@Jeanelleuk" label="@Jeanelleuk" />
       <node id="@ADPHUK,@LGAWellbeing,@BBCNews" label="@ADPHUK,@LGAWellbeing,@BBCNews" />
-      <node id="frlydensmith" label="frlydensmith" />
+      <node id="@frlydensmith" label="@frlydensmith" />
       <node id="@FansMuseum" label="@FansMuseum" />
-      <node id="BritIndianVoice" label="BritIndianVoice" />
-      <node id="@hfbritain,@Keir_Starmer,@SeemaMalhotra1,@hindu_counciluk,@naomi2009,@VirendraSharma,@BarryGardiner,@ClaudiaWebbe" label="@hfbritain,@Keir_Starmer,@SeemaMalhotra1,@hindu_counciluk,@naomi2009,@VirendraSharma,@BarryGardiner,@ClaudiaWebbe" />
-      <node id="OweniteAdam" label="OweniteAdam" />
+      <node id="@BritIndianVoice" label="@BritIndianVoice" />
+      <node id="@Keir_Starmer,@VirendraSharma,@hfbritain,@SeemaMalhotra1,@naomi2009,@BarryGardiner,@hindu_counciluk,@ClaudiaWebbe" label="@Keir_Starmer,@VirendraSharma,@hfbritain,@SeemaMalhotra1,@naomi2009,@BarryGardiner,@hindu_counciluk,@ClaudiaWebbe" />
+      <node id="@OweniteAdam" label="@OweniteAdam" />
       <node id="@Leic_hospital" label="@Leic_hospital" />
-      <node id="Mancman10" label="Mancman10" />
+      <node id="@Mancman10" label="@Mancman10" />
       <node id="@NursingNotesUK" label="@NursingNotesUK" />
-      <node id="AntiRacismDay" label="AntiRacismDay" />
-      <node id="@HackneyAbbott,@jeremycorbyn,@BellRibeiroAddy,@KateOsamor" label="@HackneyAbbott,@jeremycorbyn,@BellRibeiroAddy,@KateOsamor" />
+      <node id="@AntiRacismDay" label="@AntiRacismDay" />
+      <node id="@jeremycorbyn,@KateOsamor,@HackneyAbbott,@BellRibeiroAddy" label="@jeremycorbyn,@KateOsamor,@HackneyAbbott,@BellRibeiroAddy" />
       <node id="@DVATW" label="@DVATW" />
-      <node id="AneurinBevanUHB" label="AneurinBevanUHB" />
+      <node id="@AneurinBevanUHB" label="@AneurinBevanUHB" />
       <node id="@GrangeCritCare" label="@GrangeCritCare" />
-      <node id="AmandaFBelfast" label="AmandaFBelfast" />
+      <node id="@AmandaFBelfast" label="@AmandaFBelfast" />
       <node id="@healthdpt" label="@healthdpt" />
     </nodes>
     <edges>
-      <edge source="joannaccherry" target="@theSNP,@Dr_PhilippaW" id="0">
+      <edge source="@joannaccherry" target="@Dr_PhilippaW,@theSNP" id="0">
         <attvalues>
           <attvalue for="0" value="90821" />
           <attvalue for="1" value="2366" />
           <attvalue for="2" value="36147" />
           <attvalue for="3" value="433" />
           <attvalue for="4" value="2020-03-29T08:19:49Z" />
+          <attvalue for="5" value="Two very important interventions from @Dr_PhilippaW in Sunday papers on behalf of @theSNP. Here demanding transparency from UK Govt on failure to take part in #EU ventilator procurement efforts #coronavirus &#10;https://t.co/riwbcbDCeZ" />
         </attvalues>
       </edge>
-      <edge source="joannaccherry" target="@theSNP" id="1">
+      <edge source="@joannaccherry" target="@theSNP" id="1">
         <attvalues>
           <attvalue for="0" value="90906" />
           <attvalue for="1" value="2369" />
           <attvalue for="2" value="36183" />
           <attvalue for="3" value="136" />
           <attvalue for="4" value="2020-03-30T16:15:21Z" />
+          <attvalue for="5" value="Rumours that UK Govt about to make announcement of more help for citizens stranded abroad. It’s long overdue. I have constituents stuck all over the world. @theSNP MPs have been demanding action on this. We need repatriation flights like the Germans #Covid_19" />
         </attvalues>
       </edge>
-      <edge source="joannaccherry" target="@Douglas4Moray,@NicolaSturgeon" id="2">
+      <edge source="@joannaccherry" target="@Douglas4Moray,@NicolaSturgeon" id="2">
         <attvalues>
           <attvalue for="0" value="90912" />
           <attvalue for="1" value="2374" />
           <attvalue for="2" value="36189" />
           <attvalue for="3" value="627" />
           <attvalue for="4" value="2020-03-31T07:35:16Z" />
+          <attvalue for="5" value="Disappointed but not surprised to hear @Douglas4Moray slither out of questions over ventilator procurement &amp;amp; ignore the failure of FCO to assist UK citizens abroad on #bbcgms while criticising @NicolaSturgeon for protecting construction workers. #coronavirus" />
         </attvalues>
       </edge>
-      <edge source="joannaccherry" target="@IrishTimes" id="3">
+      <edge source="@joannaccherry" target="@IrishTimes" id="3">
         <attvalues>
           <attvalue for="0" value="91771" />
           <attvalue for="1" value="2425" />
           <attvalue for="2" value="36598" />
           <attvalue for="3" value="156" />
           <attvalue for="4" value="2020-04-20T21:13:41Z" />
+          <attvalue for="5" value="The view from @IrishTimes is spot on - Years of austerity and #Brexit have made it more difficult for the UK to fight #COVID19 https://t.co/3jyK8bd1Yh" />
         </attvalues>
       </edge>
-      <edge source="joannaccherry" target="@JamieACooke,@ronniecowan" id="4">
+      <edge source="@joannaccherry" target="@ronniecowan,@JamieACooke" id="4">
         <attvalues>
           <attvalue for="0" value="91811" />
           <attvalue for="1" value="2427" />
           <attvalue for="2" value="36628" />
           <attvalue for="3" value="188" />
           <attvalue for="4" value="2020-04-22T07:04:35Z" />
+          <attvalue for="5" value="Today I’ve joined a group of over 100 MPs calling on U.K. Govt to make a #UniversalBasicIncome part of the #COVID19 #RecoveryPlan with thanks to those such as @JamieACooke &amp;amp; @ronniecowan who have long championed this idea whose time has come https://t.co/JIhFIvO4uT https://t.co/730FNQoF3X" />
         </attvalues>
       </edge>
-      <edge source="joannaccherry" target="@devisridhar,@EdinburghUni" id="5">
+      <edge source="@joannaccherry" target="@EdinburghUni,@devisridhar" id="5">
         <attvalues>
           <attvalue for="0" value="91842" />
           <attvalue for="1" value="2430" />
           <attvalue for="2" value="36655" />
           <attvalue for="3" value="58" />
           <attvalue for="4" value="2020-04-22T12:41:55Z" />
+          <attvalue for="5" value="Thought provoking piece frm @devisridhar Professor of global public health at @EdinburghUni. It shows how “following” the science is not a complete answer for political decision makers. Scientists differ in their advice. Politicians still have agency #COVID19 https://t.co/1rJXWro4pT" />
         </attvalues>
       </edge>
-      <edge source="IainJohnston01" target="@UKgovcomms" id="6">
+      <edge source="@IainJohnston01" target="@UKgovcomms" id="6">
         <attvalues>
           <attvalue for="0" value="466" />
           <attvalue for="1" value="391" />
           <attvalue for="2" value="2961" />
           <attvalue for="3" value="57" />
           <attvalue for="4" value="2020-03-29T16:17:47Z" />
+          <attvalue for="5" value="It’s genuinely confusing to listen to a UK Gov minister repeatedly talking about ‘the whole country’ &amp;amp; then says measures in place from ‘Cornwall to Cumbria’. If it’s a press conference for England it should be stated as such. If it’s for whole of UK, ditto. #COVID19 @UKgovcomms" />
         </attvalues>
       </edge>
-      <edge source="allontheboard" target="@allontheboard" id="7">
+      <edge source="@allontheboard" target="@allontheboard" id="7">
         <attvalues>
           <attvalue for="0" value="60490" />
           <attvalue for="1" value="32" />
           <attvalue for="2" value="22424" />
           <attvalue for="3" value="72" />
           <attvalue for="4" value="2020-04-27T19:51:01Z" />
+          <attvalue for="5" value="It’s International Workers’ Memorial Day on Tuesday the 28th April and there will be a one minute silence at 11am to pay tribute to all of the key workers who have lost their lives. @allontheboard &#10;&#10;#IWMD20 #NeverForgotten #keyworkers #COVID19 #coronavirus #OneMinuteSilence https://t.co/qvdP92L6Bk" />
         </attvalues>
       </edge>
-      <edge source="jesswade" target="@wikipedia,@NIH,@KizzyPhD" id="8">
+      <edge source="@jesswade" target="@KizzyPhD,@NIH,@wikipedia" id="8">
         <attvalues>
           <attvalue for="0" value="39855" />
           <attvalue for="1" value="3928" />
           <attvalue for="2" value="92285" />
           <attvalue for="3" value="82" />
           <attvalue for="4" value="2020-03-30T11:23:32Z" />
+          <attvalue for="5" value="🦠🔬Meet Dr Kizzmekia S. Corbett (@KizzyPhD), incredible immunologist @NIH. Corbett studied the SARS + MERS spike protein +is using her expertise to create a mRNA based #coronavirus 💉. Phase 1 clinical trials are underway. New @wikipedia page:https://t.co/HCPCEjAlSJ #WomenInSTEM https://t.co/HOTYzzELGi" />
         </attvalues>
       </edge>
-      <edge source="STRUANSTEVENSON" target="@upi" id="9">
+      <edge source="@STRUANSTEVENSON" target="@upi" id="9">
         <attvalues>
           <attvalue for="0" value="5918" />
           <attvalue for="1" value="350" />
           <attvalue for="2" value="6276" />
           <attvalue for="3" value="127" />
           <attvalue for="4" value="2020-03-30T14:29:53Z" />
+          <attvalue for="5" value="Stupidity, incompetence add to #coronavirus danger in #Iran &#10;opposition #MEK have estimated the true death toll from the disease at 14,000 across 232 cities and all 31 provinces &#10;#COVID19 #IranCoVidTruth &#10;https://t.co/XJKSWKPmPP via @upi" />
         </attvalues>
       </edge>
-      <edge source="KelechiAFC" target="@joeboyofficial,@mreazi,@deejayneptune,@AyodejiOsowobi" id="10">
+      <edge source="@KelechiAFC" target="@joeboyofficial,@mreazi,@AyodejiOsowobi,@deejayneptune" id="10">
         <attvalues>
           <attvalue for="0" value="46512" />
           <attvalue for="1" value="636" />
           <attvalue for="2" value="35861" />
           <attvalue for="3" value="88" />
           <attvalue for="4" value="2020-03-30T15:55:51Z" />
+          <attvalue for="5" value="My reaction after my friend who was undergoing treatment for COVID-19 called to say she has been discharged 🙏&#10;&#10;So happy for you @AyodejiOsowobi. Thank God&#10;&#10;Stay safe guys 🙏&#10;&#10;Song: Nobody by @deejayneptune ft @joeboyofficial @mreazi 🙏&#10;&#10;#covid_19 #corona #nobody #happy #nigeria https://t.co/hBRdBjAkKb" />
         </attvalues>
       </edge>
-      <edge source="WearablesExpert" target="@samharveyrural" id="11">
+      <edge source="@WearablesExpert" target="@samharveyrural" id="11">
         <attvalues>
           <attvalue for="0" value="20764" />
           <attvalue for="1" value="20312" />
           <attvalue for="2" value="16712" />
           <attvalue for="3" value="154" />
           <attvalue for="4" value="2020-03-30T16:07:46Z" />
+          <attvalue for="5" value="Medical team arrived London from China on Friday #TogetherWeCan #Covid_19 #Covid19 via @samharveyrural https://t.co/SuRSqAL6oe" />
         </attvalues>
       </edge>
-      <edge source="ms_kitka" target="@BBCNews" id="12">
+      <edge source="@ms_kitka" target="@BBCNews" id="12">
         <attvalues>
           <attvalue for="0" value="2760" />
           <attvalue for="1" value="574" />
           <attvalue for="2" value="46491" />
           <attvalue for="3" value="207" />
           <attvalue for="4" value="2020-03-30T18:49:03Z" />
+          <attvalue for="5" value="#BBCNewsCoronavirus has become a nauseating damage limitation exercise for Johnson &amp;amp; Co’s utter mishandling of the #Covid_19 crisis. Non stop &amp;amp; unchallenged Tory propaganda when THIS is the reality...&#10;@BBCNews https://t.co/uvVn8zl5we" />
         </attvalues>
       </edge>
-      <edge source="HackneyAbbott" target="@C4Dispatches" id="13">
+      <edge source="@HackneyAbbott" target="@C4Dispatches" id="13">
         <attvalues>
           <attvalue for="0" value="311725" />
           <attvalue for="1" value="871" />
           <attvalue for="2" value="10735" />
           <attvalue for="3" value="1348" />
           <attvalue for="4" value="2020-03-30T20:00:18Z" />
+          <attvalue for="5" value="Sad quote from doctor on @C4Dispatches “All this talk about heroes. You don’t need heroes if a situation has been prepared for. You only need heroes if there has been no preparation...” #coronavirus" />
         </attvalues>
       </edge>
-      <edge source="HackneyAbbott" target="@NadiaWhittomeMP" id="14">
+      <edge source="@HackneyAbbott" target="@NadiaWhittomeMP" id="14">
         <attvalues>
           <attvalue for="0" value="311744" />
           <attvalue for="1" value="871" />
           <attvalue for="2" value="10719" />
           <attvalue for="3" value="52" />
           <attvalue for="4" value="2020-04-01T12:02:33Z" />
+          <attvalue for="5" value="My MP colleague @NadiaWhittomeMP talking about going back to her former profession as a care worker and how terrified her fellow care workers and the residents are #coronavirus https://t.co/hCEbsx2s2Z" />
         </attvalues>
       </edge>
-      <edge source="HackneyAbbott" target="@TheBMA" id="15">
+      <edge source="@HackneyAbbott" target="@TheBMA" id="15">
         <attvalues>
           <attvalue for="0" value="313883" />
           <attvalue for="1" value="875" />
           <attvalue for="2" value="10790" />
           <attvalue for="3" value="344" />
           <attvalue for="4" value="2020-04-12T21:47:09Z" />
+          <attvalue for="5" value="Very glad to support this letter. So many Black and Asian doctors have died trying to save lives from #coronavirus. @TheBMA right to call for an investigation #CoronavirusPandemic https://t.co/vIy4LDIJD9" />
         </attvalues>
       </edge>
-      <edge source="HackneyAbbott" target="@piersmorgan" id="16">
+      <edge source="@HackneyAbbott" target="@piersmorgan" id="16">
         <attvalues>
           <attvalue for="0" value="318676" />
           <attvalue for="1" value="873" />
           <attvalue for="2" value="10882" />
           <attvalue for="3" value="1607" />
           <attvalue for="4" value="2020-04-18T09:07:06Z" />
+          <attvalue for="5" value="Would never normally retweet @piersmorgan But on the PPE issue he is one hundred per cent correct #coronavirus https://t.co/Sx2OKpjUrP" />
         </attvalues>
       </edge>
-      <edge source="doctorjudieg" target="@doctor_oxford,@MattHancock" id="17">
+      <edge source="@doctorjudieg" target="@doctor_oxford,@MattHancock" id="17">
         <attvalues>
           <attvalue for="0" value="2925" />
           <attvalue for="1" value="5001" />
           <attvalue for="2" value="92861" />
           <attvalue for="3" value="442" />
           <attvalue for="4" value="2020-03-30T20:08:34Z" />
+          <attvalue for="5" value="The wife of a doctor who lives in our street has just put out a plea for anyone who might have spare useable scrubs - they’re desperate for them at our leading edge university teaching hospital on the #Covid_19 wards @MattHancock @doctor_oxford wtaf!" />
         </attvalues>
       </edge>
-      <edge source="DAHAlliance" target="@CIHhousing,@natfednews,@Alison_Inman" id="18">
+      <edge source="@DAHAlliance" target="@Alison_Inman,@CIHhousing,@natfednews" id="18">
         <attvalues>
           <attvalue for="0" value="3266" />
           <attvalue for="1" value="782" />
           <attvalue for="2" value="8800" />
           <attvalue for="3" value="80" />
           <attvalue for="4" value="2020-03-31T17:03:57Z" />
+          <attvalue for="5" value="The amazing DAHA team have done a fantastic job at putting together our 1st version of guidance for #ukhousing #COVID19. We really want to hear from #ukhousing to hear what you are doing so we can add to this. Thanks @CIHhousing @natfednews @Alison_Inman https://t.co/fvHBGeN9YH" />
         </attvalues>
       </edge>
-      <edge source="peterkyle" target="@BorisJohnson" id="19">
+      <edge source="@peterkyle" target="@BorisJohnson" id="19">
         <attvalues>
           <attvalue for="0" value="32411" />
           <attvalue for="1" value="919" />
           <attvalue for="2" value="14612" />
           <attvalue for="3" value="169" />
           <attvalue for="4" value="2020-03-31T21:17:41Z" />
+          <attvalue for="5" value="My letter to @BorisJohnson.&#10;&#10;There‘s only one way to keep care home residents safe: test workers and ensure #COVID19 never enters a home in the first place.&#10;&#10;Right now some homes are petri-dishes for contagion within and between homes.&#10;&#10;Staff are angels and heroes, but need help https://t.co/yiEJqxQcMl" />
         </attvalues>
       </edge>
-      <edge source="peterkyle" target="@MattHancock" id="20">
+      <edge source="@peterkyle" target="@MattHancock" id="20">
         <attvalues>
           <attvalue for="0" value="33230" />
           <attvalue for="1" value="934" />
           <attvalue for="2" value="15250" />
           <attvalue for="3" value="622" />
           <attvalue for="4" value="2020-04-16T08:02:03Z" />
+          <attvalue for="5" value="For those of us who’ve tried to constructively engage with government for months on #COVID19, that @MattHancock interview was deeply concerning, for these reasons:" />
         </attvalues>
       </edge>
-      <edge source="David39133380" target="@KateBurley" id="21">
+      <edge source="@David39133380" target="@KateBurley" id="21">
         <attvalues>
           <attvalue for="0" value="8370" />
           <attvalue for="1" value="9143" />
           <attvalue for="2" value="3425" />
           <attvalue for="3" value="61" />
           <attvalue for="4" value="2020-04-01T06:30:01Z" />
+          <attvalue for="5" value="Kay Burley, Sky Interviewer, Thankyou. Actually making ministers answer your questions and interrupting their prepared speel repeatedly until they do.&#10;Keep it up!&#10;The public want answers not monologues.Please take note of this sycophantic BBC.&#10;@KateBurley &#10;#coronavirus &#10;#BBC" />
         </attvalues>
       </edge>
-      <edge source="e_sapey" target="@kyliebelchamber,@uhbtrust,@unibirm_MDS,@lesadmick,@BWCHBoss" id="22">
+      <edge source="@e_sapey" target="@lesadmick,@kyliebelchamber,@BWCHBoss,@unibirm_MDS,@uhbtrust" id="22">
         <attvalues>
           <attvalue for="0" value="1229" />
           <attvalue for="1" value="698" />
           <attvalue for="2" value="1250" />
           <attvalue for="3" value="54" />
           <attvalue for="4" value="2020-04-02T11:13:02Z" />
+          <attvalue for="5" value="2.  And here is one with all the science, but in plain English.  @uhbtrust @BWCHBoss @unibirm_MDS @kyliebelchamber @lesadmick  #COVID19. We hope this helps but please tell us.  Stay safe and follow guidance.  #NHSstaff https://t.co/LcnkskmQNU" />
         </attvalues>
       </edge>
-      <edge source="rodbishop15" target="@BBCNews,@SkyNews,@piersmorgan,@guardian" id="23">
+      <edge source="@rodbishop15" target="@SkyNews,@piersmorgan,@guardian,@BBCNews" id="23">
         <attvalues>
           <attvalue for="0" value="29949" />
           <attvalue for="1" value="10600" />
           <attvalue for="2" value="77337" />
           <attvalue for="3" value="80" />
           <attvalue for="4" value="2020-04-02T18:22:13Z" />
+          <attvalue for="5" value="Anyone criticising the Government of being slow to react to #coronavirus should turn their anger towards the WHO which had all the information possible &amp;amp; fannied around for 2 months before deciding it was a pandemic. @BBCNews @SkyNews @piersmorgan @guardian https://t.co/znVT7BwUVI" />
         </attvalues>
       </edge>
-      <edge source="DrAhmedKazmi" target="@NHSMillion,@NHSuk,@rcgp" id="24">
+      <edge source="@DrAhmedKazmi" target="@rcgp,@NHSuk,@NHSMillion" id="24">
         <attvalues>
           <attvalue for="0" value="1839" />
           <attvalue for="1" value="776" />
           <attvalue for="2" value="4396" />
           <attvalue for="3" value="54" />
           <attvalue for="4" value="2020-04-03T10:44:32Z" />
+          <attvalue for="5" value="First 4 UK doctors to die whilst treating covid... all Muslim... all men of colour... 🇸🇩 🇵🇰🇳🇬🇬🇧 thank you for your service  🙏🏽 . To these wonderful humans and their families- I see you. I thank you. Rest In Peace. #COVID19 #NHSheroes @NHSuk @NHSMillion @rcgp #CoronavirusPandemic" />
         </attvalues>
       </edge>
-      <edge source="NorthLivAcademy" target="@NHSuk" id="25">
+      <edge source="@NorthLivAcademy" target="@NHSuk" id="25">
         <attvalues>
           <attvalue for="0" value="3296" />
           <attvalue for="1" value="2190" />
           <attvalue for="2" value="3549" />
           <attvalue for="3" value="54" />
           <attvalue for="4" value="2020-04-03T14:24:03Z" />
+          <attvalue for="5" value="We have cleared out our Science &amp;amp; Technology departments of 130+ safety goggles, 1900 rubber gloves and assorted other pieces of equipment requested by Liverpool @NHSuk Broadgreen Hospital #coronavirus #SupportTheNHS https://t.co/qiATfNvMb4" />
         </attvalues>
       </edge>
-      <edge source="NickTaylorLLB" target="@latimeshealth,@Dr_Dan_1,@latimes,@TheVeganSociety,@PeterEgan6" id="26">
+      <edge source="@NickTaylorLLB" target="@latimes,@TheVeganSociety,@Dr_Dan_1,@PeterEgan6,@latimeshealth" id="26">
         <attvalues>
           <attvalue for="0" value="15736" />
           <attvalue for="1" value="14533" />
           <attvalue for="2" value="28236" />
           <attvalue for="3" value="74" />
           <attvalue for="4" value="2020-04-03T15:41:53Z" />
+          <attvalue for="5" value="#COVID19 shows that what we're doing to animals is killing us, too  .Time for people to wake up and realise now . No excuses..   @PeterEgan6 @Dr_Dan_1 @TheVeganSociety @latimeshealth @latimes  #vegan https://t.co/Swp5xtBjB4" />
         </attvalues>
       </edge>
-      <edge source="Hawkins2Mac" target="@Keir_Starmer" id="27">
+      <edge source="@Hawkins2Mac" target="@Keir_Starmer" id="27">
         <attvalues>
           <attvalue for="0" value="4443" />
           <attvalue for="1" value="4952" />
           <attvalue for="2" value="104701" />
           <attvalue for="3" value="58" />
           <attvalue for="4" value="2020-04-04T10:15:15Z" />
+          <attvalue for="5" value="Congratulations @Keir_Starmer on becoming labour leader. I hope you will pursue The plight of #50sWomen as promised to me.  These Women were suffering severe hardships before #Covid_19 Now they’re in position of being totally disregarded £0 income 0 dignity = Worthless? #BackTo60 https://t.co/W3azPHPb0X" />
         </attvalues>
       </edge>
-      <edge source="Ianblackford_MP" target="@BorisJohnson" id="28">
+      <edge source="@Ianblackford_MP" target="@BorisJohnson" id="28">
         <attvalues>
           <attvalue for="0" value="76271" />
           <attvalue for="1" value="368" />
           <attvalue for="2" value="7204" />
           <attvalue for="3" value="132" />
           <attvalue for="4" value="2020-04-05T20:36:37Z" />
+          <attvalue for="5" value="I am sorry to read the news that @BorisJohnson is in hospital for tests. Thoughts very much with him and every best wish that he will soon be home and recovering from #Covid_19 These are testing times for all of us. Please everyone #StayAtHome and help   #SaveLives" />
         </attvalues>
       </edge>
-      <edge source="AngelaRayner" target="@BorisJohnson" id="29">
+      <edge source="@AngelaRayner" target="@BorisJohnson" id="29">
         <attvalues>
           <attvalue for="0" value="201925" />
           <attvalue for="1" value="4559" />
           <attvalue for="2" value="22874" />
           <attvalue for="3" value="142" />
           <attvalue for="4" value="2020-04-05T21:07:19Z" />
+          <attvalue for="5" value="Sorry to hear that the PM @BorisJohnson has been admitted to hospital this evening. I wish him a speedy recovery from this wretched #coronavirus" />
         </attvalues>
       </edge>
-      <edge source="AngelaRayner" target="@BorisJohnson,@carriesymonds" id="30">
+      <edge source="@AngelaRayner" target="@BorisJohnson,@carriesymonds" id="30">
         <attvalues>
           <attvalue for="0" value="203243" />
           <attvalue for="1" value="4559" />
           <attvalue for="2" value="22896" />
           <attvalue for="3" value="85" />
           <attvalue for="4" value="2020-04-06T19:16:44Z" />
+          <attvalue for="5" value="Sending my best wishes at this worrying time to the PM @BorisJohnson and @carriesymonds and hoping that his condition stabilises in his battle with #Coronavirus https://t.co/bGOU1p1TKE" />
         </attvalues>
       </edge>
-      <edge source="AngelaRayner" target="@tony4rochdale" id="31">
+      <edge source="@AngelaRayner" target="@tony4rochdale" id="31">
         <attvalues>
           <attvalue for="0" value="209653" />
           <attvalue for="1" value="4552" />
           <attvalue for="2" value="22998" />
           <attvalue for="3" value="72" />
           <attvalue for="4" value="2020-04-18T20:12:06Z" />
+          <attvalue for="5" value="Sending all my best wishes to great friend @tony4rochdale who is still poorly and all those fighting this wretched #coronavirus https://t.co/pgoZC3u0Cj" />
         </attvalues>
       </edge>
-      <edge source="bearwitness2019" target="@Channel4" id="32">
+      <edge source="@bearwitness2019" target="@Channel4" id="32">
         <attvalues>
           <attvalue for="0" value="160" />
           <attvalue for="1" value="34" />
           <attvalue for="2" value="164" />
           <attvalue for="3" value="78" />
           <attvalue for="4" value="2020-04-06T06:56:32Z" />
+          <attvalue for="5" value="A tragic scene from Crackley Woods this morning where an Hs2 bailiff not only assaults a non violent protester but also put her life at risk by not observing the 2meters recommendation #Hs2rebellion #StopHS2 #ExtinctionRebellion #NHSnotHS2 @Channel4 #coronavirus #ActNow https://t.co/aiqkb2MarL" />
         </attvalues>
       </edge>
-      <edge source="RichardKSense" target="@BBCPanorama" id="33">
+      <edge source="@RichardKSense" target="@BBCPanorama" id="33">
         <attvalues>
           <attvalue for="0" value="7610" />
           <attvalue for="1" value="3972" />
           <attvalue for="2" value="28059" />
           <attvalue for="3" value="72" />
           <attvalue for="4" value="2020-04-06T16:34:39Z" />
+          <attvalue for="5" value="Please tune into @BBCPanorama at 7.30pm tonight which focuses on the impact of Coronavirus on those most at risk, particularly disabled children, adults and their families. This hasn’t had the attention it deserves so please do watch tonight.#Disability #Covid_19" />
         </attvalues>
       </edge>
-      <edge source="CllrMajid" target="@UKLabour,@shabnum_sadiq" id="34">
+      <edge source="@CllrMajid" target="@UKLabour,@shabnum_sadiq" id="34">
         <attvalues>
           <attvalue for="0" value="6544" />
           <attvalue for="1" value="3323" />
           <attvalue for="2" value="36536" />
           <attvalue for="3" value="74" />
           <attvalue for="4" value="2020-04-06T17:49:35Z" />
+          <attvalue for="5" value="Really saddened to learn of the passing away of @UKLabour Cllr colleague in Slough Cllr @shabnum_sadiq after contracting #COVID19 😢&#10;&#10;إِنَّا لِلّهِ وَإِنَّـا إِلَيْهِ رَاجِعونَ&#10;&#10;May Allah SWT grant her the highest place in paradise and give her family patience. Ameen https://t.co/dM8UfQ9F10" />
         </attvalues>
       </edge>
-      <edge source="AnothervoiceWB" target="@ChrisGPackham" id="35">
+      <edge source="@AnothervoiceWB" target="@ChrisGPackham" id="35">
         <attvalues>
           <attvalue for="0" value="901" />
           <attvalue for="1" value="726" />
           <attvalue for="2" value="8598" />
           <attvalue for="3" value="742" />
           <attvalue for="4" value="2020-04-06T20:12:28Z" />
+          <attvalue for="5" value="A Crackley Grandmaster Oak falls. It took 200 years to grow &amp;amp; two minutes to fell. One of 1000’s that continue to be taken from us in the name of #HS2 &#10;Why is this even happening during #COVID19?&#10;Please stop this #environmental vandalism now #StopHS2 @ChrisGPackham https://t.co/Hli4QTsYI0" />
         </attvalues>
       </edge>
-      <edge source="saralivadeas" target="@PHE_uk,@CareQualityComm" id="36">
+      <edge source="@saralivadeas" target="@PHE_uk,@CareQualityComm" id="36">
         <attvalues>
           <attvalue for="0" value="16894" />
           <attvalue for="1" value="12525" />
           <attvalue for="2" value="31279" />
           <attvalue for="3" value="60" />
           <attvalue for="4" value="2020-04-07T06:57:32Z" />
+          <attvalue for="5" value="Guidance to care homes on coronavirus appears to have been written by someone who has never set foot in a care home. People deserve better than this #Covid_19 @PHE_uk @CareQualityComm&#10;https://t.co/09yPpxNSy8" />
         </attvalues>
       </edge>
-      <edge source="saralivadeas" target="@PHE_uk,@MattHancock" id="37">
+      <edge source="@saralivadeas" target="@PHE_uk,@MattHancock" id="37">
         <attvalues>
           <attvalue for="0" value="17414" />
           <attvalue for="1" value="12771" />
           <attvalue for="2" value="31752" />
           <attvalue for="3" value="198" />
           <attvalue for="4" value="2020-04-13T08:17:56Z" />
+          <attvalue for="5" value="Hands up if you think isolating someone with dementia in their bedroom for 14 days with the door shut is a good idea? &#10;&#10;No? I didn't think so&#10;&#10;We need #TestingForCovid19 in care homes now @MattHancock @PHE_uk #coronavirus" />
         </attvalues>
       </edge>
-      <edge source="ron_dickinson" target="@BBCScotlandNews,@NicolaSturgeon" id="38">
+      <edge source="@ron_dickinson" target="@BBCScotlandNews,@NicolaSturgeon" id="38">
         <attvalues>
           <attvalue for="0" value="2315" />
           <attvalue for="1" value="2704" />
           <attvalue for="2" value="1016" />
           <attvalue for="3" value="62" />
           <attvalue for="4" value="2020-04-08T17:47:09Z" />
+          <attvalue for="5" value="More skewed reporting tonight by @BBCScotlandNews / #MisReportingScotland&#10;Implication @NicolaSturgeon / #ScotGov under-reporting all #coronavirus deaths&#10;&#10;Just as Nicola explained at length in today's press briefing but they didn't use her explanation&#10;&#10;All the spin that fits" />
         </attvalues>
       </edge>
-      <edge source="Sharonwifey" target="@BBCScotlandNews,@scotgov" id="39">
+      <edge source="@Sharonwifey" target="@BBCScotlandNews,@scotgov" id="39">
         <attvalues>
           <attvalue for="0" value="4804" />
           <attvalue for="1" value="5217" />
           <attvalue for="2" value="55067" />
           <attvalue for="3" value="63" />
           <attvalue for="4" value="2020-04-08T23:39:44Z" />
+          <attvalue for="5" value="If you want to know the truth about #COVID19 in Scotland  you’d be better watching the comprehensive live daily @scotgov update with full Q&amp;amp;A. &#10;@BBCScotlandNews is a politically warped representation of it." />
         </attvalues>
       </edge>
-      <edge source="yhwhuniversity" target="@yhwhuniversity" id="40">
+      <edge source="@yhwhuniversity" target="@yhwhuniversity" id="40">
         <attvalues>
           <attvalue for="0" value="8289" />
           <attvalue for="1" value="5932" />
           <attvalue for="2" value="53896" />
           <attvalue for="3" value="208" />
           <attvalue for="4" value="2020-04-13T06:22:00Z" />
+          <attvalue for="5" value="During this #coronavirus🦠 crisis please practice #SocialDistancing &#10;&#10;#TruthMatters:&#10;This video is clearly not in a Church Synagog or Temple, but it is clearly hundreds of Islamist in a Mosque, performing some kind of halal approved sneezing ritual to get rid off #COViD19 https://t.co/qyHLlRNMOb" />
         </attvalues>
       </edge>
-      <edge source="yhwhuniversity" target="@DVATW" id="41">
+      <edge source="@yhwhuniversity" target="@DVATW" id="41">
         <attvalues>
           <attvalue for="0" value="8556" />
           <attvalue for="1" value="6017" />
           <attvalue for="2" value="54964" />
           <attvalue for="3" value="78" />
           <attvalue for="4" value="2020-04-28T18:44:53Z" />
+          <attvalue for="5" value="@DVATW In the UK there’s something that lurks around more contagious than #coronavirus as serious as that is!&#10;&#10;It’s called #Liberalism; a type of “herd mentality” were people are suppressed to think but just follow.&#10;&#10;Other groups with this trait:&#10;• socialism&#10;• nazism&#10;• islam https://t.co/kH4jvsMbKX" />
         </attvalues>
       </edge>
-      <edge source="Tubemole1" target="@TheLTDA,@UberUK" id="42">
+      <edge source="@Tubemole1" target="@UberUK,@TheLTDA" id="42">
         <attvalues>
           <attvalue for="0" value="162" />
           <attvalue for="1" value="362" />
           <attvalue for="2" value="4192" />
           <attvalue for="3" value="72" />
           <attvalue for="4" value="2020-04-11T06:34:28Z" />
+          <attvalue for="5" value="Thanks to Stephen who took me from Turnham Green to Victoria this morning! Chose a black cab over @UberUK because of #COVIDー19 (more space between driver &amp;amp; customer, glass barrier). Cab drivers income has nosedived...support them if you can! @TheLTDA #GettTaxi #coronavirus" />
         </attvalues>
       </edge>
-      <edge source="sharonpentay" target="@10DowningStreet,@Conservatives,@BorisJohnson" id="43">
+      <edge source="@sharonpentay" target="@BorisJohnson,@10DowningStreet,@Conservatives" id="43">
         <attvalues>
           <attvalue for="0" value="3608" />
           <attvalue for="1" value="4052" />
           <attvalue for="2" value="89749" />
           <attvalue for="3" value="57" />
           <attvalue for="4" value="2020-04-13T13:20:01Z" />
+          <attvalue for="5" value="Do you think .@BorisJohnson .@Conservatives .@10DowningStreet &#10;&#10; have handled the #coronavirus #COVID19  well ??&#10;&#10;Please retweet for a wider sample" />
         </attvalues>
       </edge>
-      <edge source="Ross1Kelly" target="@susannareid100,@GMB,@piersmorgan" id="44">
+      <edge source="@Ross1Kelly" target="@piersmorgan,@susannareid100,@GMB" id="44">
         <attvalues>
           <attvalue for="0" value="468" />
           <attvalue for="1" value="616" />
           <attvalue for="2" value="2883" />
           <attvalue for="3" value="83" />
           <attvalue for="4" value="2020-04-14T19:02:54Z" />
+          <attvalue for="5" value="Wow!! Before I left for work @piersmorgan @susannareid100 was hoping to reach 1 million within the hour on @GMB and now it’s 3 Million!!! Feeling emotional 😢🙏🏼 #GodBlessYou all #united we are! #CaptainTomMoore thank you once again. #COVID19 https://t.co/i5LYPOpcSu" />
         </attvalues>
       </edge>
-      <edge source="0824scon" target="@DogsTrust" id="45">
+      <edge source="@0824scon" target="@DogsTrust" id="45">
         <attvalues>
           <attvalue for="0" value="8480" />
           <attvalue for="1" value="8140" />
           <attvalue for="2" value="44973" />
           <attvalue for="3" value="278" />
           <attvalue for="4" value="2020-04-16T00:39:26Z" />
+          <attvalue for="5" value="If Bella gets over 1000 RTs ill donate £100 to my mums memory fundraising page helping @DogsTrust after passing away from #Covid_19 https://t.co/zIhhsEA8Kp https://t.co/2qks9JEVwe" />
         </attvalues>
       </edge>
-      <edge source="TrueIslamScot" target="@heraldscotland,@BBCScotlandNews,@BBCBreaking,@GlasgowLiving,@MetroScotland,@SadrMKAUK" id="46">
+      <edge source="@TrueIslamScot" target="@SadrMKAUK,@GlasgowLiving,@BBCBreaking,@heraldscotland,@MetroScotland,@BBCScotlandNews" id="46">
         <attvalues>
           <attvalue for="0" value="618" />
           <attvalue for="1" value="53" />
           <attvalue for="2" value="883" />
           <attvalue for="3" value="52" />
           <attvalue for="4" value="2020-04-16T16:22:04Z" />
+          <attvalue for="5" value="We are running a nationwide campaign today to recognise our #NHSheroes who are fighting in frontline to heal #COVID19 patients. Please join us at 7pm today along with @BBCScotlandNews @BBCBreaking @SadrMKAUK #PrayForHeroes @MetroScotland @heraldscotland @GlasgowLiving https://t.co/YDbrrlWq34" />
         </attvalues>
       </edge>
-      <edge source="SaminaYArif" target="@pressahmadiyya,@aqarif,@AtfalUK,@UKMuslimYouth,@HamoodaArif,@farihahammad" id="47">
+      <edge source="@SaminaYArif" target="@farihahammad,@pressahmadiyya,@AtfalUK,@aqarif,@UKMuslimYouth,@HamoodaArif" id="47">
         <attvalues>
           <attvalue for="0" value="178" />
           <attvalue for="1" value="31" />
           <attvalue for="2" value="314" />
           <attvalue for="3" value="172" />
           <attvalue for="4" value="2020-04-16T18:20:14Z" />
+          <attvalue for="5" value="My children &amp;amp; I are thankful to #frontlineworkers for keeping us all safe in these troubling times. We pray that God continues to give them strength in fighting our common enemy. #PrayForHeroes #COVID19 @UKMuslimYouth @AtfalUK @aqarif @HamoodaArif @farihahammad @pressahmadiyya https://t.co/ivahKfkBH0" />
         </attvalues>
       </edge>
-      <edge source="ASPolice" target="@NHSuk" id="48">
+      <edge source="@ASPolice" target="@NHSuk" id="48">
         <attvalues>
           <attvalue for="0" value="167553" />
           <attvalue for="1" value="229" />
           <attvalue for="2" value="6957" />
           <attvalue for="3" value="129" />
           <attvalue for="4" value="2020-04-16T19:05:44Z" />
+          <attvalue for="5" value="Tonight police horse Hero, named in tribute to the @NHSuk, joined colleagues to thank all who are saving lives and keeping us safe in the fight against #COVID19 👏 &#10;&#10;#ClapforCarers #ClapForKeyWorkers https://t.co/Gyoghqhdyo" />
         </attvalues>
       </edge>
-      <edge source="Cakeydoll" target="@MattHancock" id="49">
+      <edge source="@Cakeydoll" target="@MattHancock" id="49">
         <attvalues>
           <attvalue for="0" value="1178" />
           <attvalue for="1" value="1552" />
           <attvalue for="2" value="9193" />
           <attvalue for="3" value="5094" />
           <attvalue for="4" value="2020-04-17T22:54:50Z" />
+          <attvalue for="5" value="Dear @MattHancock - this is my daughter - who I put to bed tonight sobbing and begging me not to work in A&amp;amp;E - her words broke me ,               “ Mummy I’m only 8 and I need you - I don’t want you to die” #PPEnow #gowns #COVID19 https://t.co/JfI46HFfAE" />
         </attvalues>
       </edge>
-      <edge source="16MillionRising" target="@MattHancock" id="50">
+      <edge source="@16MillionRising" target="@MattHancock" id="50">
         <attvalues>
           <attvalue for="0" value="42325" />
           <attvalue for="1" value="46404" />
           <attvalue for="2" value="43931" />
           <attvalue for="3" value="116" />
           <attvalue for="4" value="2020-04-20T03:48:45Z" />
+          <attvalue for="5" value="So, we're at war with an &quot;invisible killer&quot; are we, @MattHancock ?&#10;&#10;I suppose it's rather fitting then, that you've chosen to fight it with invisible PPE, invisible ventilators, invisible tests and an invisible Prime Minister. &#10;&#10;#coronavirus #COVIDー19 #COVIDIOTS" />
         </attvalues>
       </edge>
-      <edge source="GerryGreek" target="@realDonaldTrump,@piersmorgan" id="51">
+      <edge source="@GerryGreek" target="@piersmorgan,@realDonaldTrump" id="51">
         <attvalues>
           <attvalue for="0" value="190977" />
           <attvalue for="1" value="155062" />
           <attvalue for="2" value="8974" />
           <attvalue for="3" value="99" />
           <attvalue for="4" value="2020-04-20T17:45:24Z" />
+          <attvalue for="5" value="Like many people, I feel confused by agreeing with @piersmorgan, again! During this crisis Mr Morgan has become the voice of reason, it's like watching him wake up in slow motion. He is right, @realDonaldTrump is focused on the US election rather than tackling #coronavirus! https://t.co/P99ww0zn8P" />
         </attvalues>
       </edge>
-      <edge source="Tilt_Brum" target="@bhamcitycouncil" id="52">
+      <edge source="@Tilt_Brum" target="@bhamcitycouncil" id="52">
         <attvalues>
           <attvalue for="0" value="5449" />
           <attvalue for="1" value="473" />
           <attvalue for="2" value="1528" />
           <attvalue for="3" value="83" />
           <attvalue for="4" value="2020-04-20T18:19:46Z" />
+          <attvalue for="5" value="After 4 weeks of no contact from our landlords @bhamcitycouncil today we received this telling us if we don’t make payment on our rent with in 10 days they will send in the Bailiffs… &#10;&#10;How heartless can they be, during this #COVID19 crisis... when 100% of our revenue has stopped https://t.co/6Q8krarOpT" />
         </attvalues>
       </edge>
-      <edge source="natalieben" target="@LeftFootFwd" id="53">
+      <edge source="@natalieben" target="@LeftFootFwd" id="53">
         <attvalues>
           <attvalue for="0" value="165572" />
           <attvalue for="1" value="120044" />
           <attvalue for="2" value="12855" />
           <attvalue for="3" value="54" />
           <attvalue for="4" value="2020-04-21T16:15:28Z" />
+          <attvalue for="5" value="There is a moral case for not bailing out the taxdodgers, I write for @LeftFootFwd.&#10;&#10;But also a practical one - what sort of society and economy do we want post-#coronavirus?&#10;&#10;The decisions we make now will determine that&#10;https://t.co/99DFal4E8u" />
         </attvalues>
       </edge>
-      <edge source="CrostonBluesEFC" target="@Everton" id="54">
+      <edge source="@CrostonBluesEFC" target="@Everton" id="54">
         <attvalues>
           <attvalue for="0" value="2626" />
           <attvalue for="1" value="3650" />
           <attvalue for="2" value="2018" />
           <attvalue for="3" value="64" />
           <attvalue for="4" value="2020-04-22T12:22:48Z" />
+          <attvalue for="5" value="Here are the @Everton fans of Croston with their #Toiletrollchallenge Hopefully something to make you smile during the #CoronaVirus #Lockdown #EFC #COYB #toiletpaperchallenge https://t.co/AHlEkSoEFr" />
         </attvalues>
       </edge>
-      <edge source="WoodgateAir" target="@planefinder,@belfastairport,@NHSuk,@Cargolux_Intl" id="55">
+      <edge source="@WoodgateAir" target="@NHSuk,@planefinder,@belfastairport,@Cargolux_Intl" id="55">
         <attvalues>
           <attvalue for="0" value="1075" />
           <attvalue for="1" value="907" />
           <attvalue for="2" value="1858" />
           <attvalue for="3" value="55" />
           <attvalue for="4" value="2020-04-23T14:56:05Z" />
+          <attvalue for="5" value="This afternoon we took to the sky above Northern Ireland in one of our fixed wing Air Ambulance’s to show our own appreciation to all frontline @NHSuk staff.🛩🌈 #NHS #ClapForOurCarers #ClapForTheNHS #COVID19 #aviation #bizav #avion @planefinder @Cargolux_Intl @belfastairport https://t.co/nwNDr4HGD8" />
         </attvalues>
       </edge>
-      <edge source="NickDixonITV" target="@GMB" id="56">
+      <edge source="@NickDixonITV" target="@GMB" id="56">
         <attvalues>
           <attvalue for="0" value="11253" />
           <attvalue for="1" value="2936" />
           <attvalue for="2" value="7322" />
           <attvalue for="3" value="59" />
           <attvalue for="4" value="2020-04-24T05:10:35Z" />
+          <attvalue for="5" value="Staff at a care home in East Sussex are struggling to get #PPE and now down to their last box of gloves...also finding prices vastly inflated online at times #coronavirus #Covid19UK #carers @GMB https://t.co/vIZ6Wme045" />
         </attvalues>
       </edge>
-      <edge source="Jeanelleuk" target="@ADPHUK,@LGAWellbeing,@BBCNews" id="57">
+      <edge source="@Jeanelleuk" target="@ADPHUK,@LGAWellbeing,@BBCNews" id="57">
         <attvalues>
           <attvalue for="0" value="2444" />
           <attvalue for="1" value="1784" />
           <attvalue for="2" value="5948" />
           <attvalue for="3" value="61" />
           <attvalue for="4" value="2020-04-25T06:32:30Z" />
+          <attvalue for="5" value="Just spoke on contact tracing on @BBCNews  #r4today - the skills and local knowledge of Directors of Public Health, local gov &amp;amp; local NHS colleagues needs to inform this next big program to stop #COVID19 spread and impact on our communities @ADPHUK @LGAWellbeing" />
         </attvalues>
       </edge>
-      <edge source="frlydensmith" target="@FansMuseum" id="58">
+      <edge source="@frlydensmith" target="@FansMuseum" id="58">
         <attvalues>
           <attvalue for="0" value="6661" />
           <attvalue for="1" value="376" />
           <attvalue for="2" value="24037" />
           <attvalue for="3" value="92" />
           <attvalue for="4" value="2020-04-25T13:43:30Z" />
+          <attvalue for="5" value="I’m very sad to hear that the flag from @FansMuseum has been #STOLEN in #Sunderland. The flag was flying half mast in respect to those who have died due to #Covid19. &#10;The guys there do great work for our community, and need the flag back! #Retweet 💔 &#10;https://t.co/PD8yNnCIPV" />
         </attvalues>
       </edge>
-      <edge source="BritIndianVoice" target="@hfbritain,@Keir_Starmer,@SeemaMalhotra1,@hindu_counciluk,@naomi2009,@VirendraSharma,@BarryGardiner,@ClaudiaWebbe" id="59">
+      <edge source="@BritIndianVoice" target="@Keir_Starmer,@VirendraSharma,@hfbritain,@SeemaMalhotra1,@naomi2009,@BarryGardiner,@hindu_counciluk,@ClaudiaWebbe" id="59">
         <attvalues>
           <attvalue for="0" value="4122" />
           <attvalue for="1" value="4548" />
           <attvalue for="2" value="8023" />
           <attvalue for="3" value="61" />
           <attvalue for="4" value="2020-04-25T23:24:12Z" />
+          <attvalue for="5" value="#BreakingNews : BAME does not include #BritishIndians 🕉 as @Keir_Starmer 🤦🏻‍♂️ forgot them in #Labour’s roundtable examining #Covid_19 impact on BAME.  &#10;&#10;@hfbritain @hindu_counciluk &#10;&#10;https://t.co/FsR9IUMtTS @naomi2009 @SeemaMalhotra1 @VirendraSharma @ClaudiaWebbe @BarryGardiner" />
         </attvalues>
       </edge>
-      <edge source="OweniteAdam" target="@Leic_hospital" id="60">
+      <edge source="@OweniteAdam" target="@Leic_hospital" id="60">
         <attvalues>
           <attvalue for="0" value="3103" />
           <attvalue for="1" value="2714" />
           <attvalue for="2" value="12717" />
           <attvalue for="3" value="181" />
           <attvalue for="4" value="2020-04-27T14:32:35Z" />
+          <attvalue for="5" value="We’re creating a Keyworkers’ Corridor, close to @Leic_hospital #LRI - helping new and returning keyworker cyclists get to where they need to be quickly and safely #tacticalurbanism #leicbikeaid 🚲 #COVID19 https://t.co/gaWTReRtFq" />
         </attvalues>
       </edge>
-      <edge source="Mancman10" target="@NursingNotesUK" id="61">
+      <edge source="@Mancman10" target="@NursingNotesUK" id="61">
         <attvalues>
           <attvalue for="0" value="6151" />
           <attvalue for="1" value="6757" />
           <attvalue for="2" value="30181" />
           <attvalue for="3" value="128" />
           <attvalue for="4" value="2020-04-27T16:13:15Z" />
+          <attvalue for="5" value="Matt Hancock says 82 NHS staff &amp;amp; 18 Care Home Workers have died but the number is more, it's at least 134 see this tweet from the very reliable @NursingNotesUK  #CoronaVirus #COVID19 https://t.co/Zqovy4Q2ht" />
         </attvalues>
       </edge>
-      <edge source="AntiRacismDay" target="@HackneyAbbott,@jeremycorbyn,@BellRibeiroAddy,@KateOsamor" id="62">
+      <edge source="@AntiRacismDay" target="@jeremycorbyn,@KateOsamor,@HackneyAbbott,@BellRibeiroAddy" id="62">
         <attvalues>
           <attvalue for="0" value="33302" />
           <attvalue for="1" value="16058" />
           <attvalue for="2" value="7986" />
           <attvalue for="3" value="50" />
           <attvalue for="4" value="2020-04-28T17:17:02Z" />
+          <attvalue for="5" value="7pm Tonight - On #IWMD20 join @HackneyAbbott @jeremycorbyn @BellRibeiroAddy @KateOsamor speaking out on #COVID19 &amp;amp; disproportionate #BAME deaths &#10;&#10;Youtube: https://t.co/ttA4p0og9y…&#10;Facebook: https://t.co/2o659rFH3T https://t.co/il73FcbYg4" />
         </attvalues>
       </edge>
-      <edge source="AneurinBevanUHB" target="@GrangeCritCare" id="63">
+      <edge source="@AneurinBevanUHB" target="@GrangeCritCare" id="63">
         <attvalues>
           <attvalue for="0" value="16536" />
           <attvalue for="1" value="801" />
           <attvalue for="2" value="5288" />
           <attvalue for="3" value="195" />
           <attvalue for="4" value="2020-04-29T17:15:20Z" />
+          <attvalue for="5" value="Great news - the first #Coronavirus patient to be admitted to the Royal Gwent Hospital's #intensivecare unit was discharged home today!&#10;&#10;This video shows Scott Howell leaving his ward to be reunited with his wife &amp;amp; children at home.  &#10;&#10;#NHSWales @GrangeCritCare  #COVID19Maldives https://t.co/QPdV1GeIY7" />
         </attvalues>
       </edge>
-      <edge source="AmandaFBelfast" target="@healthdpt" id="64">
+      <edge source="@AmandaFBelfast" target="@healthdpt" id="64">
         <attvalues>
           <attvalue for="0" value="18303" />
           <attvalue for="1" value="3493" />
           <attvalue for="2" value="15584" />
           <attvalue for="3" value="50" />
           <attvalue for="4" value="2020-04-30T16:11:09Z" />
+          <attvalue for="5" value="NEW: It's a rap on the knuckles from the stats police for @healthdpt... #covid19 https://t.co/mcGeqGlOL8" />
         </attvalues>
       </edge>
     </edges>

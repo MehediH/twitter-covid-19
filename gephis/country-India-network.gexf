@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2021-03-26">
+  <meta lastmodifieddate="2021-04-04">
     <creator>NetworkX 2.5</creator>
   </meta>
   <graph defaultedgetype="directed" mode="static" name="">
@@ -10,995 +10,1087 @@
       <attribute id="2" title="favourites_count" type="long" />
       <attribute id="3" title="retweet_count" type="long" />
       <attribute id="4" title="created_at" type="string" />
+      <attribute id="5" title="text" type="string" />
     </attributes>
     <nodes>
-      <node id="paperhearts79" label="paperhearts79" />
+      <node id="@paperhearts79" label="@paperhearts79" />
       <node id="@TajinderBagga" label="@TajinderBagga" />
-      <node id="deepaksomisetty" label="deepaksomisetty" />
-      <node id="@narendramodi,@AkhilAkkineni8,@iamnagarjuna,@chay_akkineni" label="@narendramodi,@AkhilAkkineni8,@iamnagarjuna,@chay_akkineni" />
-      <node id="LangaMahesh" label="LangaMahesh" />
+      <node id="@deepaksomisetty" label="@deepaksomisetty" />
+      <node id="@chay_akkineni,@AkhilAkkineni8,@iamnagarjuna,@narendramodi" label="@chay_akkineni,@AkhilAkkineni8,@iamnagarjuna,@narendramodi" />
+      <node id="@LangaMahesh" label="@LangaMahesh" />
       <node id="@ArvindKejriwal" label="@ArvindKejriwal" />
-      <node id="iMonkJi" label="iMonkJi" />
-      <node id="@ashutosh83B,@mygovindia" label="@ashutosh83B,@mygovindia" />
-      <node id="AshramBlr" label="AshramBlr" />
+      <node id="@iMonkJi" label="@iMonkJi" />
+      <node id="@mygovindia,@ashutosh83B" label="@mygovindia,@ashutosh83B" />
+      <node id="@AshramBlr" label="@AshramBlr" />
       <node id="@mygovindia" label="@mygovindia" />
-      <node id="MUMBlr1" label="MUMBlr1" />
-      <node id="@AshramBlr,@HRC,@humanrights1st,@HRDMinistry,@UN,@PMOIndia,@UNHumanRights,@RajGovOfficial,@CommissionerHR,@mygovindia,@HumaneSociety,@HMOIndia" label="@AshramBlr,@HRC,@humanrights1st,@HRDMinistry,@UN,@PMOIndia,@UNHumanRights,@RajGovOfficial,@CommissionerHR,@mygovindia,@HumaneSociety,@HMOIndia" />
-      <node id="sudarsansand" label="sudarsansand" />
+      <node id="@MUMBlr1" label="@MUMBlr1" />
+      <node id="@CommissionerHR,@UN,@AshramBlr,@RajGovOfficial,@HRDMinistry,@HumaneSociety,@humanrights1st,@HMOIndia,@PMOIndia,@UNHumanRights,@HRC,@mygovindia" label="@CommissionerHR,@UN,@AshramBlr,@RajGovOfficial,@HRDMinistry,@HumaneSociety,@humanrights1st,@HMOIndia,@PMOIndia,@UNHumanRights,@HRC,@mygovindia" />
+      <node id="@sudarsansand" label="@sudarsansand" />
       <node id="@Naveen_Odisha" label="@Naveen_Odisha" />
-      <node id="AnimaSonkar" label="AnimaSonkar" />
-      <node id="@RanveerOfficial,@deepikapadukone" label="@RanveerOfficial,@deepikapadukone" />
-      <node id="manukumarjain" label="manukumarjain" />
+      <node id="@AnimaSonkar" label="@AnimaSonkar" />
+      <node id="@deepikapadukone,@RanveerOfficial" label="@deepikapadukone,@RanveerOfficial" />
+      <node id="@manukumarjain" label="@manukumarjain" />
       <node id="@RailMinIndia" label="@RailMinIndia" />
-      <node id="Milan_reports" label="Milan_reports" />
+      <node id="@Milan_reports" label="@Milan_reports" />
       <node id="@IndiaToday" label="@IndiaToday" />
-      <node id="mymalishka" label="mymalishka" />
-      <node id="@AUThackeray,@RedFM_Mumbai,@RedFMIndia,@mybmc,@CMOMaharashtra" label="@AUThackeray,@RedFM_Mumbai,@RedFMIndia,@mybmc,@CMOMaharashtra" />
-      <node id="@AshramBlr,@BangaloreTimes1,@DDNational,@BangaloreMirror,@cnnbrk,@ZeeNews,@THBengaluru,@airnewsalerts,@BBCHindi,@DeccanHerald,@TOIBengaluru" label="@AshramBlr,@BangaloreTimes1,@DDNational,@BangaloreMirror,@cnnbrk,@ZeeNews,@THBengaluru,@airnewsalerts,@BBCHindi,@DeccanHerald,@TOIBengaluru" />
-      <node id="manojmuntashir" label="manojmuntashir" />
-      <node id="@narendramodi,@RochakTweets" label="@narendramodi,@RochakTweets" />
-      <node id="idiamondbabu" label="idiamondbabu" />
+      <node id="@mymalishka" label="@mymalishka" />
+      <node id="@RedFMIndia,@AUThackeray,@mybmc,@RedFM_Mumbai,@CMOMaharashtra" label="@RedFMIndia,@AUThackeray,@mybmc,@RedFM_Mumbai,@CMOMaharashtra" />
+      <node id="@AshramBlr,@BangaloreTimes1,@ZeeNews,@DeccanHerald,@cnnbrk,@DDNational,@BangaloreMirror,@TOIBengaluru,@airnewsalerts,@THBengaluru,@BBCHindi" label="@AshramBlr,@BangaloreTimes1,@ZeeNews,@DeccanHerald,@cnnbrk,@DDNational,@BangaloreMirror,@TOIBengaluru,@airnewsalerts,@THBengaluru,@BBCHindi" />
+      <node id="@manojmuntashir" label="@manojmuntashir" />
+      <node id="@RochakTweets,@narendramodi" label="@RochakTweets,@narendramodi" />
+      <node id="@idiamondbabu" label="@idiamondbabu" />
       <node id="@Siva_Kartikeyan" label="@Siva_Kartikeyan" />
-      <node id="prasarbharati" label="prasarbharati" />
+      <node id="@prasarbharati" label="@prasarbharati" />
       <node id="@narendramodi" label="@narendramodi" />
-      <node id="thekiranbedi" label="thekiranbedi" />
+      <node id="@thekiranbedi" label="@thekiranbedi" />
       <node id="@AkashvaniAIR,@ANI,@PTI_News" label="@AkashvaniAIR,@ANI,@PTI_News" />
-      <node id="DrTamilisaiGuv" label="DrTamilisaiGuv" />
-      <node id="@IPRTelangana,@VPSecretariat,@rashtrapatibhvn,@PMOIndia" label="@IPRTelangana,@VPSecretariat,@rashtrapatibhvn,@PMOIndia" />
+      <node id="@DrTamilisaiGuv" label="@DrTamilisaiGuv" />
+      <node id="@rashtrapatibhvn,@PMOIndia,@VPSecretariat,@IPRTelangana" label="@rashtrapatibhvn,@PMOIndia,@VPSecretariat,@IPRTelangana" />
       <node id="@NewIndianXpress,@ANI" label="@NewIndianXpress,@ANI" />
-      <node id="deepak_mragwani" label="deepak_mragwani" />
+      <node id="@deepak_mragwani" label="@deepak_mragwani" />
       <node id="@JantaKeeAwaaz" label="@JantaKeeAwaaz" />
-      <node id="CharanT16" label="CharanT16" />
+      <node id="@CharanT16" label="@CharanT16" />
       <node id="@TV9Telugu" label="@TV9Telugu" />
       <node id="@narendramodi,@PMOIndia" label="@narendramodi,@PMOIndia" />
-      <node id="docvjg" label="docvjg" />
-      <node id="@RMLDelhi,@AnantBhan,@drharshvardhan,@PMOIndia" label="@RMLDelhi,@AnantBhan,@drharshvardhan,@PMOIndia" />
+      <node id="@docvjg" label="@docvjg" />
+      <node id="@PMOIndia,@drharshvardhan,@AnantBhan,@RMLDelhi" label="@PMOIndia,@drharshvardhan,@AnantBhan,@RMLDelhi" />
       <node id="@OfficeofUT,@CMOMaharashtra" label="@OfficeofUT,@CMOMaharashtra" />
-      <node id="vikrantgupta73" label="vikrantgupta73" />
+      <node id="@vikrantgupta73" label="@vikrantgupta73" />
       <node id="@TheKanikakapoor" label="@TheKanikakapoor" />
-      <node id="ABChiruYuvatha" label="ABChiruYuvatha" />
-      <node id="@narendramodi,@AlwaysRamCharan" label="@narendramodi,@AlwaysRamCharan" />
-      <node id="chhuti_is" label="chhuti_is" />
-      <node id="@BJP4India,@dreamgirlhema" label="@BJP4India,@dreamgirlhema" />
-      <node id="@MoHFW_INDIA,@narendramodi,@dpradhanbjp,@imranirampal,@COVIDNewsByMIB,@drharshvardhan,@PiyushGoyal,@HimaDas8,@HardeepSPuri,@AmitShah,@smritiirani" label="@MoHFW_INDIA,@narendramodi,@dpradhanbjp,@imranirampal,@COVIDNewsByMIB,@drharshvardhan,@PiyushGoyal,@HimaDas8,@HardeepSPuri,@AmitShah,@smritiirani" />
-      <node id="KSFA_Official" label="KSFA_Official" />
-      <node id="@KicchaSudeep,@ColorsKannada" label="@KicchaSudeep,@ColorsKannada" />
-      <node id="@ArvindKejriwal,@CMODelhi" label="@ArvindKejriwal,@CMODelhi" />
+      <node id="@ABChiruYuvatha" label="@ABChiruYuvatha" />
+      <node id="@AlwaysRamCharan,@narendramodi" label="@AlwaysRamCharan,@narendramodi" />
+      <node id="@chhuti_is" label="@chhuti_is" />
+      <node id="@dreamgirlhema,@BJP4India" label="@dreamgirlhema,@BJP4India" />
+      <node id="@PiyushGoyal,@AmitShah,@imranirampal,@HimaDas8,@smritiirani,@HardeepSPuri,@drharshvardhan,@COVIDNewsByMIB,@narendramodi,@MoHFW_INDIA,@dpradhanbjp" label="@PiyushGoyal,@AmitShah,@imranirampal,@HimaDas8,@smritiirani,@HardeepSPuri,@drharshvardhan,@COVIDNewsByMIB,@narendramodi,@MoHFW_INDIA,@dpradhanbjp" />
+      <node id="@KSFA_Official" label="@KSFA_Official" />
+      <node id="@ColorsKannada,@KicchaSudeep" label="@ColorsKannada,@KicchaSudeep" />
+      <node id="@CMODelhi,@ArvindKejriwal" label="@CMODelhi,@ArvindKejriwal" />
       <node id="@KicchaSudeep" label="@KicchaSudeep" />
       <node id="@KChiruTweets" label="@KChiruTweets" />
-      <node id="@AshramBlr,@banashankarips,@Tejasvi_Surya,@HRC,@UNOCHA,@BlrCityPolice,@CPBlr,@narendramodi,@HRDMinistry,@UNHumanRights,@HumaneSociety,@HMOKarnataka" label="@AshramBlr,@banashankarips,@Tejasvi_Surya,@HRC,@UNOCHA,@BlrCityPolice,@CPBlr,@narendramodi,@HRDMinistry,@UNHumanRights,@HumaneSociety,@HMOKarnataka" />
+      <node id="@AshramBlr,@HRDMinistry,@HumaneSociety,@banashankarips,@HRC,@UNHumanRights,@UNOCHA,@Tejasvi_Surya,@BlrCityPolice,@HMOKarnataka,@CPBlr,@narendramodi" label="@AshramBlr,@HRDMinistry,@HumaneSociety,@banashankarips,@HRC,@UNHumanRights,@UNOCHA,@Tejasvi_Surya,@BlrCityPolice,@HMOKarnataka,@CPBlr,@narendramodi" />
       <node id="@narendramodi,@alluarjun" label="@narendramodi,@alluarjun" />
-      <node id="musharraf_ias" label="musharraf_ias" />
-      <node id="@arvindkumar_ias,@KTRTRS" label="@arvindkumar_ias,@KTRTRS" />
+      <node id="@musharraf_ias" label="@musharraf_ias" />
+      <node id="@KTRTRS,@arvindkumar_ias" label="@KTRTRS,@arvindkumar_ias" />
       <node id="@PMCares" label="@PMCares" />
-      <node id="revolution_raj7" label="revolution_raj7" />
+      <node id="@revolution_raj7" label="@revolution_raj7" />
       <node id="@BJP4India" label="@BJP4India" />
-      <node id="Chaiti" label="Chaiti" />
+      <node id="@Chaiti" label="@Chaiti" />
       <node id="@BorisJohnson" label="@BorisJohnson" />
-      <node id="Gurkirtan_77" label="Gurkirtan_77" />
+      <node id="@Gurkirtan_77" label="@Gurkirtan_77" />
       <node id="@derasachasauda" label="@derasachasauda" />
-      <node id="sandep_lnsan" label="sandep_lnsan" />
+      <node id="@sandep_lnsan" label="@sandep_lnsan" />
       <node id="@Gurmeetramrahim" label="@Gurmeetramrahim" />
-      <node id="@IndianExpress,@ANI,@PTI_News" label="@IndianExpress,@ANI,@PTI_News" />
-      <node id="vbwalia" label="vbwalia" />
+      <node id="@ANI,@IndianExpress,@PTI_News" label="@ANI,@IndianExpress,@PTI_News" />
+      <node id="@vbwalia" label="@vbwalia" />
       <node id="@IYC" label="@IYC" />
-      <node id="radiocityindia" label="radiocityindia" />
+      <node id="@radiocityindia" label="@radiocityindia" />
       <node id="@narendramodi,@BeingSalmanKhan,@PMOIndia" label="@narendramodi,@BeingSalmanKhan,@PMOIndia" />
-      <node id="worldNTRfans" label="worldNTRfans" />
-      <node id="@tarak9999,@AnsarNtr" label="@tarak9999,@AnsarNtr" />
-      <node id="karunasagarllb" label="karunasagarllb" />
+      <node id="@worldNTRfans" label="@worldNTRfans" />
+      <node id="@AnsarNtr,@tarak9999" label="@AnsarNtr,@tarak9999" />
+      <node id="@karunasagarllb" label="@karunasagarllb" />
       <node id="@Eenadu_Newspapr" label="@Eenadu_Newspapr" />
-      <node id="IamMaheshFan" label="IamMaheshFan" />
+      <node id="@IamMaheshFan" label="@IamMaheshFan" />
       <node id="@urstrulyMahesh" label="@urstrulyMahesh" />
-      <node id="JSPLFoundation" label="JSPLFoundation" />
-      <node id="@jsplcorporate,@shallujindal20,@JSPLFoundation" label="@jsplcorporate,@shallujindal20,@JSPLFoundation" />
-      <node id="Srigangacinemas" label="Srigangacinemas" />
-      <node id="@OTFC_Off,@Dir_Lokesh,@actorvijay,@XBFilmCreators,@Srigangacinemas,@anirudhofficial" label="@OTFC_Off,@Dir_Lokesh,@actorvijay,@XBFilmCreators,@Srigangacinemas,@anirudhofficial" />
-      <node id="gauravcsawant" label="gauravcsawant" />
-      <node id="@narendramodi,@realDonaldTrump,@PMOIndia" label="@narendramodi,@realDonaldTrump,@PMOIndia" />
+      <node id="@JSPLFoundation" label="@JSPLFoundation" />
+      <node id="@shallujindal20,@jsplcorporate,@JSPLFoundation" label="@shallujindal20,@jsplcorporate,@JSPLFoundation" />
+      <node id="@Srigangacinemas" label="@Srigangacinemas" />
+      <node id="@Srigangacinemas,@OTFC_Off,@Dir_Lokesh,@anirudhofficial,@actorvijay,@XBFilmCreators" label="@Srigangacinemas,@OTFC_Off,@Dir_Lokesh,@anirudhofficial,@actorvijay,@XBFilmCreators" />
+      <node id="@gauravcsawant" label="@gauravcsawant" />
+      <node id="@realDonaldTrump,@narendramodi,@PMOIndia" label="@realDonaldTrump,@narendramodi,@PMOIndia" />
       <node id="@adgpi" label="@adgpi" />
-      <node id="VijuyRonjan" label="VijuyRonjan" />
+      <node id="@VijuyRonjan" label="@VijuyRonjan" />
       <node id="@TheOfficialSBI" label="@TheOfficialSBI" />
-      <node id="@gauravcsawant," label="@gauravcsawant," />
-      <node id="SubbarajuSiva" label="SubbarajuSiva" />
-      <node id="@rk_mahanti,@AkhilAkkineni8,@iamnagarjuna,@amalaakkineni1,@chay_akkineni" label="@rk_mahanti,@AkhilAkkineni8,@iamnagarjuna,@amalaakkineni1,@chay_akkineni" />
-      <node id="digvijayvasuni1" label="digvijayvasuni1" />
+      <node id="@SubbarajuSiva" label="@SubbarajuSiva" />
+      <node id="@chay_akkineni,@AkhilAkkineni8,@amalaakkineni1,@iamnagarjuna,@rk_mahanti" label="@chay_akkineni,@AkhilAkkineni8,@amalaakkineni1,@iamnagarjuna,@rk_mahanti" />
+      <node id="@digvijayvasuni1" label="@digvijayvasuni1" />
       <node id="@TOIMumbai" label="@TOIMumbai" />
-      <node id="@AshramBlr" label="@AshramBlr" />
       <node id="@RamanSI02837335" label="@RamanSI02837335" />
       <node id="@RamratePahade,@bhartiya_a_" label="@RamratePahade,@bhartiya_a_" />
-      <node id="amitbhawani" label="amitbhawani" />
-      <node id="silarindam" label="silarindam" />
-      <node id="@RituparnaSpeaks,@RukminiMaitra,@MamataOfficial,@bickramghosh,@mimichakraborty,@YourKoel,@nusratchirps,@jeet30,@prosenjitbumba,@idevadhikari,@subhashreesotwe" label="@RituparnaSpeaks,@RukminiMaitra,@MamataOfficial,@bickramghosh,@mimichakraborty,@YourKoel,@nusratchirps,@jeet30,@prosenjitbumba,@idevadhikari,@subhashreesotwe" />
-      <node id="achyuta_samanta" label="achyuta_samanta" />
+      <node id="@amitbhawani" label="@amitbhawani" />
+      <node id="@silarindam" label="@silarindam" />
+      <node id="@MamataOfficial,@subhashreesotwe,@RukminiMaitra,@bickramghosh,@nusratchirps,@idevadhikari,@prosenjitbumba,@mimichakraborty,@YourKoel,@jeet30,@RituparnaSpeaks" label="@MamataOfficial,@subhashreesotwe,@RukminiMaitra,@bickramghosh,@nusratchirps,@idevadhikari,@prosenjitbumba,@mimichakraborty,@YourKoel,@jeet30,@RituparnaSpeaks" />
+      <node id="@achyuta_samanta" label="@achyuta_samanta" />
       <node id="@odisha_mining" label="@odisha_mining" />
-      <node id="SuriyaFansClub" label="SuriyaFansClub" />
-      <node id="@Suriya_offl,@rajsekarpandian,@NorthchennaiSFC,@prabhu_sr" label="@Suriya_offl,@rajsekarpandian,@NorthchennaiSFC,@prabhu_sr" />
-      <node id="gaurgopald" label="gaurgopald" />
-      <node id="alok_ajay" label="alok_ajay" />
-      <node id="pafcoms" label="pafcoms" />
+      <node id="@SuriyaFansClub" label="@SuriyaFansClub" />
+      <node id="@prabhu_sr,@NorthchennaiSFC,@rajsekarpandian,@Suriya_offl" label="@prabhu_sr,@NorthchennaiSFC,@rajsekarpandian,@Suriya_offl" />
+      <node id="@gaurgopald" label="@gaurgopald" />
+      <node id="@alok_ajay" label="@alok_ajay" />
+      <node id="@pafcoms" label="@pafcoms" />
       <node id="@milaapdotorg" label="@milaapdotorg" />
-      <node id="Elizatweetz" label="Elizatweetz" />
+      <node id="@Elizatweetz" label="@Elizatweetz" />
       <node id="@RahulGandhi" label="@RahulGandhi" />
       <node id="@_Ajayks" label="@_Ajayks" />
-      <node id="kartikeya_1975" label="kartikeya_1975" />
-      <node id="Guttajwala" label="Guttajwala" />
+      <node id="@kartikeya_1975" label="@kartikeya_1975" />
+      <node id="@Guttajwala" label="@Guttajwala" />
       <node id="@TheVishnuVishal" label="@TheVishnuVishal" />
-      <node id="JebiMather" label="JebiMather" />
+      <node id="@JebiMather" label="@JebiMather" />
       <node id="@hazeekhalid,@IYC" label="@hazeekhalid,@IYC" />
-      <node id="SandeepUnnithan" label="SandeepUnnithan" />
+      <node id="@SandeepUnnithan" label="@SandeepUnnithan" />
       <node id="@indiatoday" label="@indiatoday" />
-      <node id="TanushreePande" label="TanushreePande" />
+      <node id="@TanushreePande" label="@TanushreePande" />
       <node id="@iamsrk" label="@iamsrk" />
-      <node id="@WHO,@DrTedros,@ladygaga,@GlblCtzn" label="@WHO,@DrTedros,@ladygaga,@GlblCtzn" />
-      <node id="Srk_bangalore" label="Srk_bangalore" />
-      <node id="@iamsrk,@GlblCtzn,@togetherathome" label="@iamsrk,@GlblCtzn,@togetherathome" />
-      <node id="GulzebAhmed" label="GulzebAhmed" />
-      <node id="@SachinPilot,@ashokgehlot51,@INCRajasthan" label="@SachinPilot,@ashokgehlot51,@INCRajasthan" />
-      <node id="@HFWOdisha,@MoHFW_INDIA,@dpradhanbjp,@KapilSharmaK9,@COVIDNewsByMIB,@drharshvardhan,@PiyushGoyal,@SrBachchan,@ArvindKejriwal,@ChouhanShivraj,@ICMRDELHI,@CMO_Odisha,@KTRTRS" label="@HFWOdisha,@MoHFW_INDIA,@dpradhanbjp,@KapilSharmaK9,@COVIDNewsByMIB,@drharshvardhan,@PiyushGoyal,@SrBachchan,@ArvindKejriwal,@ChouhanShivraj,@ICMRDELHI,@CMO_Odisha,@KTRTRS" />
-      <node id="Anurag_Dwary" label="Anurag_Dwary" />
-      <node id="@AbhayIndia,@ndtvindia,@OfficeOfKNath,@VTankha,@ndtv" label="@AbhayIndia,@ndtvindia,@OfficeOfKNath,@VTankha,@ndtv" />
+      <node id="@GlblCtzn,@DrTedros,@ladygaga,@WHO" label="@GlblCtzn,@DrTedros,@ladygaga,@WHO" />
+      <node id="@Srk_bangalore" label="@Srk_bangalore" />
+      <node id="@GlblCtzn,@iamsrk,@togetherathome" label="@GlblCtzn,@iamsrk,@togetherathome" />
+      <node id="@GulzebAhmed" label="@GulzebAhmed" />
+      <node id="@ashokgehlot51,@INCRajasthan,@SachinPilot" label="@ashokgehlot51,@INCRajasthan,@SachinPilot" />
+      <node id="@ArvindKejriwal,@ChouhanShivraj,@KTRTRS,@PiyushGoyal,@SrBachchan,@HFWOdisha,@KapilSharmaK9,@ICMRDELHI,@CMO_Odisha,@COVIDNewsByMIB,@drharshvardhan,@MoHFW_INDIA,@dpradhanbjp" label="@ArvindKejriwal,@ChouhanShivraj,@KTRTRS,@PiyushGoyal,@SrBachchan,@HFWOdisha,@KapilSharmaK9,@ICMRDELHI,@CMO_Odisha,@COVIDNewsByMIB,@drharshvardhan,@MoHFW_INDIA,@dpradhanbjp" />
+      <node id="@Anurag_Dwary" label="@Anurag_Dwary" />
+      <node id="@ndtv,@ndtvindia,@AbhayIndia,@VTankha,@OfficeOfKNath" label="@ndtv,@ndtvindia,@AbhayIndia,@VTankha,@OfficeOfKNath" />
       <node id="@ndtv,@ravishndtv" label="@ndtv,@ravishndtv" />
-      <node id="AvdheshanandG" label="AvdheshanandG" />
+      <node id="@AvdheshanandG" label="@AvdheshanandG" />
       <node id="@ani_digital" label="@ani_digital" />
-      <node id="ImSuresh_insan" label="ImSuresh_insan" />
-      <node id="@KicchaSudeep,@AanandAaudio,@10am,@Kotigobba3Movie" label="@KicchaSudeep,@AanandAaudio,@10am,@Kotigobba3Movie" />
+      <node id="@ImSuresh_insan" label="@ImSuresh_insan" />
+      <node id="@KicchaSudeep,@Kotigobba3Movie,@AanandAaudio,@10am" label="@KicchaSudeep,@Kotigobba3Movie,@AanandAaudio,@10am" />
       <node id="@tarak9999" label="@tarak9999" />
-      <node id="DEVenDrapai" label="DEVenDrapai" />
+      <node id="@DEVenDrapai" label="@DEVenDrapai" />
       <node id="@CMOMaharashtra" label="@CMOMaharashtra" />
       <node id="@ndtv" label="@ndtv" />
-      <node id="@TheOfficialSBI,@challasetty" label="@TheOfficialSBI,@challasetty" />
-      <node id="@ChouhanShivraj,@ndtvindia,@drnarottammisra,@INCMP,@OfficeOfKNath,@ndtv" label="@ChouhanShivraj,@ndtvindia,@drnarottammisra,@INCMP,@OfficeOfKNath,@ndtv" />
-      <node id="@ani_digital,@RSSorg,@AcharyaSabha,@VHPDigital" label="@ani_digital,@RSSorg,@AcharyaSabha,@VHPDigital" />
-      <node id="SinghLions" label="SinghLions" />
+      <node id="@challasetty,@TheOfficialSBI" label="@challasetty,@TheOfficialSBI" />
+      <node id="@drnarottammisra,@INCMP,@ChouhanShivraj,@ndtvindia,@ndtv,@OfficeOfKNath" label="@drnarottammisra,@INCMP,@ChouhanShivraj,@ndtvindia,@ndtv,@OfficeOfKNath" />
+      <node id="@ani_digital,@VHPDigital,@AcharyaSabha,@RSSorg" label="@ani_digital,@VHPDigital,@AcharyaSabha,@RSSorg" />
+      <node id="@SinghLions" label="@SinghLions" />
       <node id="@DelhiPolice" label="@DelhiPolice" />
-      <node id="KotaNeelima" label="KotaNeelima" />
-      <node id="@TedhiLakeer,@TheQuint" label="@TedhiLakeer,@TheQuint" />
-      <node id="NPDay" label="NPDay" />
+      <node id="@KotaNeelima" label="@KotaNeelima" />
+      <node id="@TheQuint,@TedhiLakeer" label="@TheQuint,@TedhiLakeer" />
+      <node id="@NPDay" label="@NPDay" />
       <node id="@ThePrintIndia" label="@ThePrintIndia" />
-      <node id="SanirSayyed" label="SanirSayyed" />
-      <node id="@aimim_national,@asadowaisi" label="@aimim_national,@asadowaisi" />
-      <node id="PramodChturvedi" label="PramodChturvedi" />
+      <node id="@SanirSayyed" label="@SanirSayyed" />
+      <node id="@asadowaisi,@aimim_national" label="@asadowaisi,@aimim_national" />
+      <node id="@PramodChturvedi" label="@PramodChturvedi" />
       <node id="@aimim_national" label="@aimim_national" />
       <node id="@aimim_national,@balala_ahmed" label="@aimim_national,@balala_ahmed" />
-      <node id="@narendramodi,@DrKumarVishwas,@drharshvardhan,@ZeeMusicCompany,@akshaykumar,@ParineetiChopra" label="@narendramodi,@DrKumarVishwas,@drharshvardhan,@ZeeMusicCompany,@akshaykumar,@ParineetiChopra" />
+      <node id="@akshaykumar,@ParineetiChopra,@ZeeMusicCompany,@drharshvardhan,@narendramodi,@DrKumarVishwas" label="@akshaykumar,@ParineetiChopra,@ZeeMusicCompany,@drharshvardhan,@narendramodi,@DrKumarVishwas" />
     </nodes>
     <edges>
-      <edge source="paperhearts79" target="@TajinderBagga" id="0">
+      <edge source="@paperhearts79" target="@TajinderBagga" id="0">
         <attvalues>
           <attvalue for="0" value="1698" />
           <attvalue for="1" value="867" />
           <attvalue for="2" value="34283" />
           <attvalue for="3" value="303" />
           <attvalue for="4" value="2020-03-29T10:22:53Z" />
+          <attvalue for="5" value="One person who has done absolutely stellar work of helping feed,rescue and coordinate during the #COVID19 crisis in India is Tajinder Bhai 👏🏻👏🏻👏🏻👌🏻👌🏻👌🏻👌🏻 brilliant! Bhai aapko Bahut dua mili hain for this ! Stay blessed @TajinderBagga 🙏🏻🙏🏻" />
         </attvalues>
       </edge>
-      <edge source="deepaksomisetty" target="@narendramodi,@AkhilAkkineni8,@iamnagarjuna,@chay_akkineni" id="1">
+      <edge source="@deepaksomisetty" target="@chay_akkineni,@AkhilAkkineni8,@iamnagarjuna,@narendramodi" id="1">
         <attvalues>
           <attvalue for="0" value="2587" />
           <attvalue for="1" value="34" />
           <attvalue for="2" value="22673" />
           <attvalue for="3" value="57" />
           <attvalue for="4" value="2020-03-29T11:36:45Z" />
+          <attvalue for="5" value="We make a life by what we give ☺  &#10;&#10;On behalf of our @iamnagarjuna @chay_akkineni @AkhilAkkineni8 Fans, I am donating 40,000 to @narendramodi ji PM Relief Fund from my savings to ensure that we are with you and lets fight together with #CoronaVirus 🤗&#10;&#10;#StayHomeStaySafe 🧡 https://t.co/YjGxO8QUWn" />
         </attvalues>
       </edge>
-      <edge source="LangaMahesh" target="@ArvindKejriwal" id="2">
+      <edge source="@LangaMahesh" target="@ArvindKejriwal" id="2">
         <attvalues>
           <attvalue for="0" value="24173" />
           <attvalue for="1" value="791" />
           <attvalue for="2" value="13932" />
           <attvalue for="3" value="90" />
           <attvalue for="4" value="2020-03-29T16:51:26Z" />
+          <attvalue for="5" value="So centre strikes again even as @ArvindKejriwal continues to do stellar work on #CoronavirusPandemic https://t.co/TzUMKldcTj" />
         </attvalues>
       </edge>
-      <edge source="iMonkJi" target="@ashutosh83B,@mygovindia" id="3">
+      <edge source="@iMonkJi" target="@mygovindia,@ashutosh83B" id="3">
         <attvalues>
           <attvalue for="0" value="20370" />
           <attvalue for="1" value="5204" />
           <attvalue for="2" value="46301" />
           <attvalue for="3" value="606" />
           <attvalue for="4" value="2020-03-30T02:37:13Z" />
+          <attvalue for="5" value="@ashutosh83B Due to ongoing threat of #CoronavirusOutbreak, @mygovindia must release oldage group prisoners first,especially those who are 65+ yrs &amp;amp; therefore special attention must be given to Sant Shri Asharamji Bapu whose age is 85 yrs. #ReleaseAsharamjiBapuOnParole&#10;https://t.co/EFy0dtXUN5 https://t.co/iHQ28YeSO8" />
         </attvalues>
       </edge>
-      <edge source="iMonkJi" target="@narendramodi,@alluarjun" id="4">
+      <edge source="@iMonkJi" target="@narendramodi,@alluarjun" id="4">
         <attvalues>
           <attvalue for="0" value="20194" />
           <attvalue for="1" value="5150" />
           <attvalue for="2" value="46305" />
           <attvalue for="3" value="147" />
           <attvalue for="4" value="2020-04-06T02:32:12Z" />
+          <attvalue for="5" value="@alluarjun Spell bounded to see the North to South, east to west.. follow the request of @narendramodi Ji. Goosebumps.&#10;&#10;#MondayMorning&#10;India is ONE🙏🏼&#10;That’s the crux of #कोरोना_हराओ_देश_बचाओ #9baje9mintues #IndiaFightsCorona #9बजे9मिनट #coronavirus #9pm9mins #COVID2019 #StayHomeStaySafe https://t.co/c1KmfX4sfz" />
         </attvalues>
       </edge>
-      <edge source="AshramBlr" target="@mygovindia" id="5">
+      <edge source="@AshramBlr" target="@mygovindia" id="5">
         <attvalues>
           <attvalue for="0" value="11190" />
           <attvalue for="1" value="33" />
           <attvalue for="2" value="9464" />
           <attvalue for="3" value="633" />
           <attvalue for="4" value="2020-03-30T02:42:05Z" />
+          <attvalue for="5" value="Due to ongoing threat of #CoronavirusOutbreak, @mygovindia must release oldage group prisoners first,especially those who are 65+ yrs &amp;amp; therefore special attention must be given to Sant Shri Asharamji Bapu whose age is 85 yrs. #ReleaseAsharamjiBapuOnParole&#10;https://t.co/UTJlyYeir2 https://t.co/HeR37RF7I7" />
         </attvalues>
       </edge>
-      <edge source="AshramBlr" target="@AshramBlr" id="6">
+      <edge source="@AshramBlr" target="@AshramBlr" id="6">
         <attvalues>
           <attvalue for="0" value="11182" />
           <attvalue for="1" value="33" />
           <attvalue for="2" value="9468" />
           <attvalue for="3" value="454" />
           <attvalue for="4" value="2020-04-14T01:38:56Z" />
+          <attvalue for="5" value="#LetUsPrayForCoronaFighters #LetsFightCoronaTogether&#10;&#10;#YSSBlr's Volunteers acting as #COVID2019 #coronavirus Fighters..they to their level best are supporting #Bengaluru administration at grassroot level.&#10;#Lockdown2 #MissionHumanity&#10;https://t.co/1irwhud6k5&#10;https://t.co/RYpFwVr5CO" />
         </attvalues>
       </edge>
-      <edge source="MUMBlr1" target="@AshramBlr,@HRC,@humanrights1st,@HRDMinistry,@UN,@PMOIndia,@UNHumanRights,@RajGovOfficial,@CommissionerHR,@mygovindia,@HumaneSociety,@HMOIndia" id="7">
+      <edge source="@MUMBlr1" target="@CommissionerHR,@UN,@AshramBlr,@RajGovOfficial,@HRDMinistry,@HumaneSociety,@humanrights1st,@HMOIndia,@PMOIndia,@UNHumanRights,@HRC,@mygovindia" id="7">
         <attvalues>
           <attvalue for="0" value="6794" />
           <attvalue for="1" value="244" />
           <attvalue for="2" value="4064" />
           <attvalue for="3" value="74" />
           <attvalue for="4" value="2020-03-30T02:52:10Z" />
+          <attvalue for="5" value="@AshramBlr @mygovindia @HRDMinistry @PMOIndia @HMOIndia @RajGovOfficial @UN @UNHumanRights @HumaneSociety @HRC @humanrights1st @CommissionerHR #mondaythoughts #MondayMorning&#10;The Tihar Jail authority has released over 400 inmates to reduce overcrowding in prisons to prevent the spread of #CoronavirusOutbreak as per Supreme court instructions.&#10;Hence, also #ReleaseAsharamjiBapuOnParole&#10;#Covid_19 https://t.co/2OzK4MNFvd https://t.co/Dx6mtg1kal" />
         </attvalues>
       </edge>
-      <edge source="MUMBlr1" target="@AshramBlr,@BangaloreTimes1,@DDNational,@BangaloreMirror,@cnnbrk,@ZeeNews,@THBengaluru,@airnewsalerts,@BBCHindi,@DeccanHerald,@TOIBengaluru" id="8">
+      <edge source="@MUMBlr1" target="@AshramBlr,@BangaloreTimes1,@ZeeNews,@DeccanHerald,@cnnbrk,@DDNational,@BangaloreMirror,@TOIBengaluru,@airnewsalerts,@THBengaluru,@BBCHindi" id="8">
         <attvalues>
           <attvalue for="0" value="6792" />
           <attvalue for="1" value="243" />
           <attvalue for="2" value="4066" />
           <attvalue for="3" value="75" />
           <attvalue for="4" value="2020-03-31T01:50:27Z" />
+          <attvalue for="5" value="@AshramBlr @BBCHindi @ZeeNews @airnewsalerts @DDNational @cnnbrk @DeccanHerald @BangaloreTimes1 @TOIBengaluru @THBengaluru @BangaloreMirror #TuesdayThoughts&#10;Can Govt. assure that there won't be a single case of #COVID19 in prisons all over the country?&#10;&#10;If not, #CoronaRisk_ReleaseAsaramBapuji &amp;amp; other elderly prisoners too.&#10;#Coronavirustruth #CoronaJihad #CoronavirusOutbreak #CoronaPandemic&#10;https://t.co/u4GECZaSq8 https://t.co/QMwonPI4Ae" />
         </attvalues>
       </edge>
-      <edge source="MUMBlr1" target="@AshramBlr,@banashankarips,@Tejasvi_Surya,@HRC,@UNOCHA,@BlrCityPolice,@CPBlr,@narendramodi,@HRDMinistry,@UNHumanRights,@HumaneSociety,@HMOKarnataka" id="9">
+      <edge source="@MUMBlr1" target="@AshramBlr,@HRDMinistry,@HumaneSociety,@banashankarips,@HRC,@UNHumanRights,@UNOCHA,@Tejasvi_Surya,@BlrCityPolice,@HMOKarnataka,@CPBlr,@narendramodi" id="9">
         <attvalues>
           <attvalue for="0" value="6781" />
           <attvalue for="1" value="242" />
           <attvalue for="2" value="4077" />
           <attvalue for="3" value="68" />
           <attvalue for="4" value="2020-04-06T01:36:08Z" />
+          <attvalue for="5" value="@AshramBlr @HRDMinistry @UNHumanRights @HumaneSociety @HRC @UNOCHA @BlrCityPolice @banashankarips @CPBlr @HMOKarnataka @Tejasvi_Surya Spell bounded to see the North to South, east to west.. follow the request of @narendramodi Ji. Goosebumps.&#10;&#10;India is ONE Flag of India🙏🏼&#10;That’s the crux of #कोरोना_हराओ_देश_बचाओ #9baje9mintues #IndiaFightsCorona #9बजे9मिनट #coronavirus #9pm9mins #COVID2019 #StayHomeStaySafe https://t.co/jvejgbHQZz" />
         </attvalues>
       </edge>
-      <edge source="sudarsansand" target="@Naveen_Odisha" id="10">
+      <edge source="@sudarsansand" target="@Naveen_Odisha" id="10">
         <attvalues>
           <attvalue for="0" value="577028" />
           <attvalue for="1" value="827" />
           <attvalue for="2" value="57357" />
           <attvalue for="3" value="467" />
           <attvalue for="4" value="2020-03-30T05:12:45Z" />
+          <attvalue for="5" value="This photo speaks so many words,how #Odisha preparing to fight against #Covid_19 . Thanks so much to Hon’ble CM @Naveen_Odisha and his Team. #OdishaFightsCorona. https://t.co/Pslmp5QY27" />
         </attvalues>
       </edge>
-      <edge source="sudarsansand" target="@narendramodi" id="11">
+      <edge source="@sudarsansand" target="@narendramodi" id="11">
         <attvalues>
           <attvalue for="0" value="578215" />
           <attvalue for="1" value="830" />
           <attvalue for="2" value="57657" />
           <attvalue for="3" value="58" />
           <attvalue for="4" value="2020-04-05T07:01:15Z" />
+          <attvalue for="5" value="I will join the nation for the call tonight #9baje9minute appealed by our Hon’ble PM @narendramodi sir. This will bring our nation united and strengthen the battle against #COVID19 &#10;#IndiaFightsCorona . My SandArt installation. https://t.co/x7AiEqY2rC" />
         </attvalues>
       </edge>
-      <edge source="sudarsansand" target="@MoHFW_INDIA,@narendramodi,@dpradhanbjp,@imranirampal,@COVIDNewsByMIB,@drharshvardhan,@PiyushGoyal,@HimaDas8,@HardeepSPuri,@AmitShah,@smritiirani" id="12">
+      <edge source="@sudarsansand" target="@PiyushGoyal,@AmitShah,@imranirampal,@HimaDas8,@smritiirani,@HardeepSPuri,@drharshvardhan,@COVIDNewsByMIB,@narendramodi,@MoHFW_INDIA,@dpradhanbjp" id="12">
         <attvalues>
           <attvalue for="0" value="578216" />
           <attvalue for="1" value="830" />
           <attvalue for="2" value="57657" />
           <attvalue for="3" value="68" />
           <attvalue for="4" value="2020-04-05T03:55:59Z" />
+          <attvalue for="5" value="My SandArt installation on #9baje9minute will bring our nation united &amp;amp; strengthen the battle against #COVID19 #IndiaFightsCorona. @narendramodi @MoHFW_INDIA @AmitShah @dpradhanbjp @smritiirani @drharshvardhan @COVIDNewsByMIB @PiyushGoyal @HardeepSPuri @imranirampal @HimaDas8 https://t.co/751dpuu8co" />
         </attvalues>
       </edge>
-      <edge source="sudarsansand" target="@WHO,@DrTedros,@ladygaga,@GlblCtzn" id="13">
+      <edge source="@sudarsansand" target="@GlblCtzn,@DrTedros,@ladygaga,@WHO" id="13">
         <attvalues>
           <attvalue for="0" value="581648" />
           <attvalue for="1" value="838" />
           <attvalue for="2" value="58675" />
           <attvalue for="3" value="62" />
           <attvalue for="4" value="2020-04-18T10:46:06Z" />
+          <attvalue for="5" value="One World: #TogetherAtHome   is a historic, global broadcast to support the fight against #COVID19. My SandArt animation in support of . @WHO and @GlblCtzn To support health care workers. @DrTedros  @ladygaga https://t.co/gR3MpqGZYR" />
         </attvalues>
       </edge>
-      <edge source="sudarsansand" target="@HFWOdisha,@MoHFW_INDIA,@dpradhanbjp,@KapilSharmaK9,@COVIDNewsByMIB,@drharshvardhan,@PiyushGoyal,@SrBachchan,@ArvindKejriwal,@ChouhanShivraj,@ICMRDELHI,@CMO_Odisha,@KTRTRS" id="14">
+      <edge source="@sudarsansand" target="@ArvindKejriwal,@ChouhanShivraj,@KTRTRS,@PiyushGoyal,@SrBachchan,@HFWOdisha,@KapilSharmaK9,@ICMRDELHI,@CMO_Odisha,@COVIDNewsByMIB,@drharshvardhan,@MoHFW_INDIA,@dpradhanbjp" id="14">
         <attvalues>
           <attvalue for="0" value="581931" />
           <attvalue for="1" value="838" />
           <attvalue for="2" value="58750" />
           <attvalue for="3" value="131" />
           <attvalue for="4" value="2020-04-20T14:48:11Z" />
+          <attvalue for="5" value="My SandArt animation with message Don't spit at public places. Fight against #COVID19 #StayHome #StaySafe . @COVIDNewsByMIB @MoHFW_INDIA @HFWOdisha @drharshvardhan @ICMRDELHI @CMO_Odisha @dpradhanbjp @ChouhanShivraj @KTRTRS @ArvindKejriwal @PiyushGoyal @SrBachchan @KapilSharmaK9 https://t.co/AZ9kZt4oFv" />
         </attvalues>
       </edge>
-      <edge source="AnimaSonkar" target="@RanveerOfficial,@deepikapadukone" id="15">
+      <edge source="@AnimaSonkar" target="@deepikapadukone,@RanveerOfficial" id="15">
         <attvalues>
           <attvalue for="0" value="10316" />
           <attvalue for="1" value="550" />
           <attvalue for="2" value="49962" />
           <attvalue for="3" value="112" />
           <attvalue for="4" value="2020-03-30T08:26:53Z" />
+          <attvalue for="5" value="Film star @deepikapadukone&#10;The same actress who:&#10;•Is worth 140 crores&#10;•Charges 10-13 crore for a movie&#10;•Made shaadi in Italy&#10;•Showed solidarity with Naxal-student wing #JNUViolence&#10;Has contributed=ZERO towards #PMCaresFunds for fighting #CoronavirusOutbreak&#10;@RanveerOfficial ? https://t.co/KKZPJF8MAb" />
         </attvalues>
       </edge>
-      <edge source="AnimaSonkar" target="@adgpi" id="16">
+      <edge source="@AnimaSonkar" target="@adgpi" id="16">
         <attvalues>
           <attvalue for="0" value="11101" />
           <attvalue for="1" value="617" />
           <attvalue for="2" value="52692" />
           <attvalue for="3" value="62" />
           <attvalue for="4" value="2020-04-08T20:35:50Z" />
+          <attvalue for="5" value="Does #Covid_19 even exists??&#10;&#10;1000s attend funeral prayers of local Jaish-e-Mohammed militant Sajad Ahmed Dar. This, in middle of coronavirus pandemic, social-distancing gone forever toss.&#10;Jai Hind 🇮🇳 @adgpi for the encounter.... https://t.co/YfPvCsU3Kq" />
         </attvalues>
       </edge>
-      <edge source="manukumarjain" target="@RailMinIndia" id="17">
+      <edge source="@manukumarjain" target="@RailMinIndia" id="17">
         <attvalues>
           <attvalue for="0" value="316020" />
           <attvalue for="1" value="375" />
           <attvalue for="2" value="1281" />
           <attvalue for="3" value="79" />
           <attvalue for="4" value="2020-03-30T12:44:12Z" />
+          <attvalue for="5" value="#IndiaFightsCorona: train coach modified into an isolation ward for #CoronaVirus patients! &#10;&#10;Impressed by how we are playing by our strength. I think we should absolutely try this. Respect for @RailMinIndia for this innovative trial. 👏 &#10;&#10;#Xiaomi ❤️ #India 🇮🇳 https://t.co/e3qz3KeHz3" />
         </attvalues>
       </edge>
-      <edge source="manukumarjain" target="@OfficeofUT,@CMOMaharashtra" id="18">
+      <edge source="@manukumarjain" target="@OfficeofUT,@CMOMaharashtra" id="18">
         <attvalues>
           <attvalue for="0" value="319428" />
           <attvalue for="1" value="377" />
           <attvalue for="2" value="1283" />
           <attvalue for="3" value="189" />
           <attvalue for="4" value="2020-04-03T14:42:22Z" />
+          <attvalue for="5" value="I commend the brave way in which #Maharashtra govt is battling #Covid19.&#10;&#10;We've donated ₹ 25 lakh to @CMOMaharashtra Relief fund &amp;amp; handed over 15,000 masks for health workers. This is part of ₹10 Cr commitment for PM &amp;amp; CM relief funds.&#10;&#10;#Xiaomi ❤️ #IndiaFightsCorona @OfficeofUT https://t.co/IuWDfBGPXd" />
         </attvalues>
       </edge>
-      <edge source="manukumarjain" target="@ArvindKejriwal,@CMODelhi" id="19">
+      <edge source="@manukumarjain" target="@CMODelhi,@ArvindKejriwal" id="19">
         <attvalues>
           <attvalue for="0" value="321245" />
           <attvalue for="1" value="377" />
           <attvalue for="2" value="1282" />
           <attvalue for="3" value="83" />
           <attvalue for="4" value="2020-04-05T10:38:17Z" />
+          <attvalue for="5" value="Respect for CM Shri @ArvindKejriwal ji and #Delhi govt. for battling #Covid19.&#10;&#10;We are with you. We're donating ₹ 25 lakh to @CMODelhi Relief fund &amp;amp; 10,000 masks for doctors.&#10;&#10;This is part of ₹10 Cr commitment for PM &amp;amp; CM relief funds.&#10;&#10;#Xiaomi ❤️️ #India #IndiaFightsCorona 🇮🇳 https://t.co/SWgs3R0az8" />
         </attvalues>
       </edge>
-      <edge source="Milan_reports" target="@IndiaToday" id="20">
+      <edge source="@Milan_reports" target="@IndiaToday" id="20">
         <attvalues>
           <attvalue for="0" value="3156" />
           <attvalue for="1" value="853" />
           <attvalue for="2" value="12696" />
           <attvalue for="3" value="106" />
           <attvalue for="4" value="2020-04-04T05:21:32Z" />
+          <attvalue for="5" value="#BREAKING #EXCLUSIVE&#10;&#10;MORE THAN 100 HEALTH CARE STAFF QUARANTINED AT DELHI’s SIR GANGARAM HOSPITAL &#10;&#10;Includes senior doctors, nurses, medical professionals &#10;&#10;2 PATIENTS CAME TO HOSPITAL FOR OTHER AILMENTS TESTED POSITIVE Patients did not show any symptoms for #COVID19 @IndiaToday" />
         </attvalues>
       </edge>
-      <edge source="mymalishka" target="@AUThackeray,@RedFM_Mumbai,@RedFMIndia,@mybmc,@CMOMaharashtra" id="21">
+      <edge source="@mymalishka" target="@RedFMIndia,@AUThackeray,@mybmc,@RedFM_Mumbai,@CMOMaharashtra" id="21">
         <attvalues>
           <attvalue for="0" value="1353059" />
           <attvalue for="1" value="567" />
           <attvalue for="2" value="9531" />
           <attvalue for="3" value="54" />
           <attvalue for="4" value="2020-03-30T19:52:03Z" />
+          <attvalue for="5" value="How Can we help these people ? They’ve reached out to me and it plays on my show In the morning @RedFM_Mumbai @RedFMIndia #coronavirus #food #Mumbai &#10;@CMOMaharashtra @mybmc @AUThackeray https://t.co/oyDYEnuPyS" />
         </attvalues>
       </edge>
-      <edge source="manojmuntashir" target="@narendramodi,@RochakTweets" id="22">
+      <edge source="@manojmuntashir" target="@RochakTweets,@narendramodi" id="22">
         <attvalues>
           <attvalue for="0" value="153916" />
           <attvalue for="1" value="600" />
           <attvalue for="2" value="34825" />
           <attvalue for="3" value="97" />
           <attvalue for="4" value="2020-03-31T08:21:05Z" />
+          <attvalue for="5" value="Dear @narendramodi ji, matching steps with your relentless efforts to save our people from #coronavirus we have made this prayer to appreciate the spirit of #coronawarriors &amp;amp; make the cry of  humanity reach out to the almighty.🙏#SambhaalLena @RochakTweets https://t.co/61FAbrJz4K https://t.co/fndzEwrVC7" />
         </attvalues>
       </edge>
-      <edge source="idiamondbabu" target="@Siva_Kartikeyan" id="23">
+      <edge source="@idiamondbabu" target="@Siva_Kartikeyan" id="23">
         <attvalues>
           <attvalue for="0" value="43413" />
           <attvalue for="1" value="1055" />
           <attvalue for="2" value="24450" />
           <attvalue for="3" value="106" />
           <attvalue for="4" value="2020-03-31T09:13:53Z" />
+          <attvalue for="5" value="Actor @Siva_Kartikeyan has given Rs. 25 Lakhs to TN Chief Minister relief fund to help the needy during this #CoronavirusPandemic &#10;&#10;வாழ்த்துக்கள் #Sivakarthikeyan 💐💐💐" />
         </attvalues>
       </edge>
-      <edge source="prasarbharati" target="@narendramodi" id="24">
+      <edge source="@prasarbharati" target="@narendramodi" id="24">
         <attvalues>
           <attvalue for="0" value="190823" />
           <attvalue for="1" value="115" />
           <attvalue for="2" value="518" />
           <attvalue for="3" value="57" />
           <attvalue for="4" value="2020-03-31T11:50:44Z" />
+          <attvalue for="5" value="Acting on the call of Hon'ble Prime Minister @narendramodi, Prasar Bharati Employees have come forward to contribute their one day's salary to PM-CARES fund, to fight against #COVID19. https://t.co/3127FisWn4" />
         </attvalues>
       </edge>
-      <edge source="thekiranbedi" target="@AkashvaniAIR,@ANI,@PTI_News" id="25">
+      <edge source="@thekiranbedi" target="@AkashvaniAIR,@ANI,@PTI_News" id="25">
         <attvalues>
           <attvalue for="0" value="12223352" />
           <attvalue for="1" value="296" />
           <attvalue for="2" value="9692" />
           <attvalue for="3" value="80" />
           <attvalue for="4" value="2020-04-01T06:28:33Z" />
+          <attvalue for="5" value="We are at a war of survival &amp;amp; every one is a soldier or a victim &#10;The enemy is very nimble &amp;amp; invisible. &#10;It’s attacking those not listening. #coronavirus is using them to spread its carnage. &#10;Make your prayers Private&#10;Don’t fall a prey to @PTI_News @ANI @AkashvaniAIR" />
         </attvalues>
       </edge>
-      <edge source="thekiranbedi" target="@NewIndianXpress,@ANI" id="26">
+      <edge source="@thekiranbedi" target="@NewIndianXpress,@ANI" id="26">
         <attvalues>
           <attvalue for="0" value="12223173" />
           <attvalue for="1" value="296" />
           <attvalue for="2" value="9692" />
           <attvalue for="3" value="59" />
           <attvalue for="4" value="2020-04-01T11:07:09Z" />
+          <attvalue for="5" value="A setback for Puducherry.&#10;Puducherry Police is searching for many many more of who connected with them all these days. To identify who may still be passing on the #coronavirus amongst the people. &#10;Many of them deliberately hid info #falsely and #knowingly. &#10;@NewIndianXpress @ANI https://t.co/2w0azbn3M8" />
         </attvalues>
       </edge>
-      <edge source="thekiranbedi" target="@narendramodi,@PMOIndia" id="27">
+      <edge source="@thekiranbedi" target="@narendramodi,@PMOIndia" id="27">
         <attvalues>
           <attvalue for="0" value="12229786" />
           <attvalue for="1" value="296" />
           <attvalue for="2" value="9702" />
           <attvalue for="3" value="370" />
           <attvalue for="4" value="2020-04-03T03:59:05Z" />
+          <attvalue for="5" value="9 PM for 9 Minutes on April 5 th, switch off all lights and light a lamp... Says our @PMOIndia @narendramodi &#10;He has given us the weapon to #Breakthechain  #AloneTogether to kill the devil of #coronavirus. &#10;#leadingthroughchange 1.3 Billion. https://t.co/H4U8AYEaID" />
         </attvalues>
       </edge>
-      <edge source="thekiranbedi" target="@IndianExpress,@ANI,@PTI_News" id="28">
+      <edge source="@thekiranbedi" target="@ANI,@IndianExpress,@PTI_News" id="28">
         <attvalues>
           <attvalue for="0" value="12244867" />
           <attvalue for="1" value="295" />
           <attvalue for="2" value="9714" />
           <attvalue for="3" value="132" />
           <attvalue for="4" value="2020-04-07T04:09:52Z" />
+          <attvalue for="5" value="Bhilwara Model of ‘ruthless containment’ to stop #CoronaVirus &#10;“Surveying,combing,screening &amp;amp; testing -we stuck to these &#10;4 pts along with home quarantine &amp;amp; isolation,” said Bhilwara District Collector Rajendra Bhatt. &#10;:https://t.co/kDb5aITDyR via @IndianExpress @ANI @PTI_News" />
         </attvalues>
       </edge>
-      <edge source="DrTamilisaiGuv" target="@IPRTelangana,@VPSecretariat,@rashtrapatibhvn,@PMOIndia" id="29">
+      <edge source="@DrTamilisaiGuv" target="@rashtrapatibhvn,@PMOIndia,@VPSecretariat,@IPRTelangana" id="29">
         <attvalues>
           <attvalue for="0" value="355679" />
           <attvalue for="1" value="520" />
           <attvalue for="2" value="35426" />
           <attvalue for="3" value="459" />
           <attvalue for="4" value="2020-04-01T08:40:08Z" />
+          <attvalue for="5" value="#rajbhavan #Hyderabad #Telangana kitchen getting ready to serve the needy poor labourers around Rajbhavan. Lunch packets prepared to distribute today #coronavirus #Lockdown21 #FeedTheNeedy @IPRTelangana @VPSecretariat @rashtrapatibhvn @PMOIndia https://t.co/W1g2WJseQK" />
         </attvalues>
       </edge>
-      <edge source="DrTamilisaiGuv" target="@PMCares" id="30">
+      <edge source="@DrTamilisaiGuv" target="@PMCares" id="30">
         <attvalues>
           <attvalue for="0" value="361221" />
           <attvalue for="1" value="524" />
           <attvalue for="2" value="35765" />
           <attvalue for="3" value="53" />
           <attvalue for="4" value="2020-04-06T06:04:21Z" />
+          <attvalue for="5" value="Forwarded on 4th April  from #rajbhavan #Hyderabad a cheque for Rs 5 Lakhs towards @PMCares Honb PM fund towards #Covid_19 eradication https://t.co/gmKqlePM6i" />
         </attvalues>
       </edge>
-      <edge source="deepak_mragwani" target="@JantaKeeAwaaz" id="31">
+      <edge source="@deepak_mragwani" target="@JantaKeeAwaaz" id="31">
         <attvalues>
           <attvalue for="0" value="9676" />
           <attvalue for="1" value="5579" />
           <attvalue for="2" value="216765" />
           <attvalue for="3" value="61" />
           <attvalue for="4" value="2020-04-02T01:20:52Z" />
+          <attvalue for="5" value="@JantaKeeAwaaz Being a responsible Citizen  once should follow the instructions of Government whenever it's required.&#10;Now in a #CoronaVirusPandemic situation it's better to stay at home.&#10;#SupportLockdownStaySafe&#10;#Lockdown &#10;#ThursdayThoughts #ThursdayMotivation" />
         </attvalues>
       </edge>
-      <edge source="deepak_mragwani" target="@RamanSI02837335" id="32">
+      <edge source="@deepak_mragwani" target="@RamanSI02837335" id="32">
         <attvalues>
           <attvalue for="0" value="9974" />
           <attvalue for="1" value="5584" />
           <attvalue for="2" value="218843" />
           <attvalue for="3" value="50" />
           <attvalue for="4" value="2020-04-14T02:20:37Z" />
+          <attvalue for="5" value="@RamanSI02837335 We are in a #CoronaVirusPandemic &#10;situation where everyone wants to be with their families and be safe.&#10;But our frontline fighters like doctors, nurses are working day and night to protect the life of others.  #LetUsPrayForCoronaFighters" />
         </attvalues>
       </edge>
-      <edge source="deepak_mragwani" target="@RamratePahade,@bhartiya_a_" id="33">
+      <edge source="@deepak_mragwani" target="@RamratePahade,@bhartiya_a_" id="33">
         <attvalues>
           <attvalue for="0" value="9974" />
           <attvalue for="1" value="5584" />
           <attvalue for="2" value="218843" />
           <attvalue for="3" value="53" />
           <attvalue for="4" value="2020-04-14T02:26:33Z" />
+          <attvalue for="5" value="@RamratePahade @bhartiya_a_ In a #CoronaVirusPandemic some people are misbehaving with police and doctors who are frontline fighters and working for us. We must support them and appreciate evey action taken by them to safeguard us.  #LetUsPrayForCoronaFighters" />
         </attvalues>
       </edge>
-      <edge source="deepak_mragwani" target="@_Ajayks" id="34">
+      <edge source="@deepak_mragwani" target="@_Ajayks" id="34">
         <attvalues>
           <attvalue for="0" value="10004" />
           <attvalue for="1" value="5656" />
           <attvalue for="2" value="219230" />
           <attvalue for="3" value="62" />
           <attvalue for="4" value="2020-04-16T02:34:43Z" />
+          <attvalue for="5" value="@_Ajayks Sant Shri Asharamji Bapu established Yuwa seva Sangh, Mahila Utthan Mandal .These organizations provide food or basic essentials to poor peoples at this critical time of #CoronavirusPandemic.&#10;#लॉकडाउन_में_सेवापरायण_आशारामजी_आश्रम &#10;https://t.co/UFKqX10Z8W" />
         </attvalues>
       </edge>
-      <edge source="CharanT16" target="@TV9Telugu" id="35">
+      <edge source="@CharanT16" target="@TV9Telugu" id="35">
         <attvalues>
           <attvalue for="0" value="1506" />
           <attvalue for="1" value="1817" />
           <attvalue for="2" value="4760" />
           <attvalue for="3" value="574" />
           <attvalue for="4" value="2020-04-02T07:32:36Z" />
+          <attvalue for="5" value=".#SriRamaKalyanam live from Bhadrachalam. Images @TV9Telugu.&#10;I will not say single word about #COVID19 or so-called #socialdistancing. https://t.co/szNIxmI07k" />
         </attvalues>
       </edge>
-      <edge source="docvjg" target="@RMLDelhi,@AnantBhan,@drharshvardhan,@PMOIndia" id="36">
+      <edge source="@docvjg" target="@PMOIndia,@drharshvardhan,@AnantBhan,@RMLDelhi" id="36">
         <attvalues>
           <attvalue for="0" value="3039" />
           <attvalue for="1" value="3769" />
           <attvalue for="2" value="19261" />
           <attvalue for="3" value="78" />
           <attvalue for="4" value="2020-04-03T08:08:03Z" />
+          <attvalue for="5" value="In #AIIMS Delhi staff are not getting N95 #Masks&#10;Only available for #Covid_19 positive ICU facilities&#10;Same must be going on in other #hospitals&#10;@RMLDelhi &#10;See in this pic #doctors not wearing but @drharshvardhan n other officers have privilege&#10;#VIPs&#10;@PMOIndia &#10;@AnantBhan&#10;#Corona https://t.co/cIQE3Klfva" />
         </attvalues>
       </edge>
-      <edge source="docvjg" target="@narendramodi,@DrKumarVishwas,@drharshvardhan,@ZeeMusicCompany,@akshaykumar,@ParineetiChopra" id="37">
+      <edge source="@docvjg" target="@akshaykumar,@ParineetiChopra,@ZeeMusicCompany,@drharshvardhan,@narendramodi,@DrKumarVishwas" id="37">
         <attvalues>
           <attvalue for="0" value="3853" />
           <attvalue for="1" value="1430" />
           <attvalue for="2" value="20856" />
           <attvalue for="3" value="2098" />
           <attvalue for="4" value="2020-04-29T15:21:12Z" />
+          <attvalue for="5" value="This lady is working in a ICU deptt. in hospital where covid patients are treated.She came home after 20 days of non-stop service.Her family &amp;amp; society people welcomed her&#10;@narendramodi&#10;@drharshvardhan &#10;@akshaykumar &#10;@ZeeMusicCompany &#10;@ParineetiChopra &#10;@DrKumarVishwas &#10;#Covid_19 https://t.co/bOncwKVMAi" />
         </attvalues>
       </edge>
-      <edge source="vikrantgupta73" target="@TheKanikakapoor" id="38">
+      <edge source="@vikrantgupta73" target="@TheKanikakapoor" id="38">
         <attvalues>
           <attvalue for="0" value="319227" />
           <attvalue for="1" value="312" />
           <attvalue for="2" value="17070" />
           <attvalue for="3" value="64" />
           <attvalue for="4" value="2020-04-04T15:40:45Z" />
+          <attvalue for="5" value="Sixth time lucky, @TheKanikakapoor has finally tested negative for #COVID19Pandemic #CoronavirusPandemic" />
         </attvalues>
       </edge>
-      <edge source="ABChiruYuvatha" target="@narendramodi,@AlwaysRamCharan" id="39">
+      <edge source="@ABChiruYuvatha" target="@AlwaysRamCharan,@narendramodi" id="39">
         <attvalues>
           <attvalue for="0" value="835" />
           <attvalue for="1" value="4" />
           <attvalue for="2" value="55" />
           <attvalue for="3" value="56" />
           <attvalue for="4" value="2020-04-04T15:46:08Z" />
+          <attvalue for="5" value="PM @narendramodi on our Mega Power Star @AlwaysRamCharan lamp light up video &#10;&#10; Thank you Modi Ji &#10;#StayHomeStaySafe &#10;#IndiaFightsCorona https://t.co/EVe4rgp4TD" />
         </attvalues>
       </edge>
-      <edge source="ABChiruYuvatha" target="@KChiruTweets" id="40">
+      <edge source="@ABChiruYuvatha" target="@KChiruTweets" id="40">
         <attvalues>
           <attvalue for="0" value="835" />
           <attvalue for="1" value="4" />
           <attvalue for="2" value="55" />
           <attvalue for="3" value="73" />
           <attvalue for="4" value="2020-04-05T16:01:24Z" />
+          <attvalue for="5" value="Megastar @KChiruTweets &amp;amp; family participated in #9pm9minutes&#10;#iSupportLampLighting &#10;#IndiaFightsCoronavirus&#10;#StayHomeStaySafe &#10;#IndiaFightsCorona https://t.co/JSBEzeGvVc" />
         </attvalues>
       </edge>
-      <edge source="chhuti_is" target="@BJP4India,@dreamgirlhema" id="41">
+      <edge source="@chhuti_is" target="@dreamgirlhema,@BJP4India" id="41">
         <attvalues>
           <attvalue for="0" value="8489" />
           <attvalue for="1" value="836" />
           <attvalue for="2" value="21463" />
           <attvalue for="3" value="71" />
           <attvalue for="4" value="2020-04-04T16:06:09Z" />
+          <attvalue for="5" value="So @dreamgirlhema &amp;amp; her stepson Sunny Deol, both @BJP4India MPs, only contributed from taxpayer funded MPLAD and nothing from their deep pockets for #COVID19 #PMCARESFund. Remember Hema Malini got prime land at dirt cheap from Fadnavis govt. How cheap! https://t.co/iJGTJMVWZr" />
         </attvalues>
       </edge>
-      <edge source="KSFA_Official" target="@KicchaSudeep,@ColorsKannada" id="42">
+      <edge source="@KSFA_Official" target="@ColorsKannada,@KicchaSudeep" id="42">
         <attvalues>
           <attvalue for="0" value="91971" />
           <attvalue for="1" value="7" />
           <attvalue for="2" value="83378" />
           <attvalue for="3" value="53" />
           <attvalue for="4" value="2020-04-05T06:20:14Z" />
+          <attvalue for="5" value="Watch #BBK7 Grand Opening &quot;RE-TELECAST&quot; Now On @ColorsKannada 😍😍💥&#10;@KicchaSudeep ❤️❤️&#10;&#10;✨ #StayHomeStaySafe 🏡 https://t.co/0NZ9VEqReV" />
         </attvalues>
       </edge>
-      <edge source="KSFA_Official" target="@KicchaSudeep" id="43">
+      <edge source="@KSFA_Official" target="@KicchaSudeep" id="43">
         <attvalues>
           <attvalue for="0" value="91971" />
           <attvalue for="1" value="7" />
           <attvalue for="2" value="83378" />
           <attvalue for="3" value="86" />
           <attvalue for="4" value="2020-04-05T15:43:08Z" />
+          <attvalue for="5" value="#9pm9minutes is not what mattered... #KicchA is what matters us..!! Anytime anywhere we see only @KicchaSudeep  🥳🥳😍❤️&#10;&#10;           ✨ #StayHomeStaySafe ✨ https://t.co/PMO3ECLwsF" />
         </attvalues>
       </edge>
-      <edge source="KSFA_Official" target="@KicchaSudeep,@AanandAaudio,@10am,@Kotigobba3Movie" id="44">
+      <edge source="@KSFA_Official" target="@KicchaSudeep,@Kotigobba3Movie,@AanandAaudio,@10am" id="44">
         <attvalues>
           <attvalue for="0" value="92184" />
           <attvalue for="1" value="7" />
           <attvalue for="2" value="83548" />
           <attvalue for="3" value="146" />
           <attvalue for="4" value="2020-04-24T06:32:32Z" />
+          <attvalue for="5" value="EXCLUSIVE Video: Mark The Date..😎&#10;#GhoSt is Arriving 😈 #Kotigobba3 &quot;Aakashane Adarisuva&quot; Lyrical Video Releasing on this 27th April @10am on @AanandAaudio YouTube channel..🕺🕺🔥&#10;&#10;@KicchaSudeep @Kotigobba3Movie&#10;       ✨ #StayHomeStaySafe ✨ https://t.co/ejOaBikb5Y" />
         </attvalues>
       </edge>
-      <edge source="musharraf_ias" target="@arvindkumar_ias,@KTRTRS" id="45">
+      <edge source="@musharraf_ias" target="@KTRTRS,@arvindkumar_ias" id="45">
         <attvalues>
           <attvalue for="0" value="14690" />
           <attvalue for="1" value="310" />
           <attvalue for="2" value="2532" />
           <attvalue for="3" value="190" />
           <attvalue for="4" value="2020-04-06T03:34:10Z" />
+          <attvalue for="5" value="Decentralised #VegetableMarkets in  #Nirmal&#10;&#10;A market within 500mts of every household in town. Roads washed, disinfected &amp;amp; converted&#10;&#10;All essentials are available within walkable distance, hence vehicular usage has come down greatly&#10;&#10;#StayHomeStaySafe&#10;&#10;@KTRTRS @arvindkumar_ias https://t.co/kuOw1J2mmv" />
         </attvalues>
       </edge>
-      <edge source="revolution_raj7" target="@BJP4India" id="46">
+      <edge source="@revolution_raj7" target="@BJP4India" id="46">
         <attvalues>
           <attvalue for="0" value="1575" />
           <attvalue for="1" value="940" />
           <attvalue for="2" value="26900" />
           <attvalue for="3" value="60" />
           <attvalue for="4" value="2020-04-06T16:32:27Z" />
+          <attvalue for="5" value="Dear @BJP4India , &#10;Give India , what it actually needs to fight #Covid_19 ...&#10;Rest all is NAUTANKI &amp;amp; Political Gimmick for PR !&#10;&#10;#ModiGovtFailsIndia https://t.co/SFRMVC2t87" />
         </attvalues>
       </edge>
-      <edge source="Chaiti" target="@BorisJohnson" id="47">
+      <edge source="@Chaiti" target="@BorisJohnson" id="47">
         <attvalues>
           <attvalue for="0" value="17170" />
           <attvalue for="1" value="1871" />
           <attvalue for="2" value="9995" />
           <attvalue for="3" value="50" />
           <attvalue for="4" value="2020-04-06T19:41:39Z" />
+          <attvalue for="5" value="News reports coming in. @BorisJohnson taken into ICU. Condition worsens #Coronavirus" />
         </attvalues>
       </edge>
-      <edge source="Gurkirtan_77" target="@derasachasauda" id="48">
+      <edge source="@Gurkirtan_77" target="@derasachasauda" id="48">
         <attvalues>
           <attvalue for="0" value="147" />
           <attvalue for="1" value="17" />
           <attvalue for="2" value="13836" />
           <attvalue for="3" value="112" />
           <attvalue for="4" value="2020-04-07T01:34:07Z" />
+          <attvalue for="5" value="Today 7th April &#10;#WorldHealthDay  My Salute to all the Doctors who are Serving the Nation. &#10;👇&#10;@derasachasauda Salutes the Health Workers for Serving Selflessly in this tough Times. &#10;#Covid19 https://t.co/nlK0Kzbbo8" />
         </attvalues>
       </edge>
-      <edge source="sandep_lnsan" target="@Gurmeetramrahim" id="49">
+      <edge source="@sandep_lnsan" target="@Gurmeetramrahim" id="49">
         <attvalues>
           <attvalue for="0" value="327" />
           <attvalue for="1" value="129" />
           <attvalue for="2" value="9787" />
           <attvalue for="3" value="69" />
           <attvalue for="4" value="2020-04-07T01:38:32Z" />
+          <attvalue for="5" value="#WorldHealthDay&#10;#Covid19&#10;🙏🏼.......&#10;Inspired by revered Guruji Saint Dr. @Gurmeetramrahim &#10;🙏🏼.......&#10;recommends all  things to boost immunity to fight against diseases like Coronavirus&#10;🙏🏼......... https://t.co/VWtEpwgq4A" />
         </attvalues>
       </edge>
-      <edge source="vbwalia" target="@IYC" id="50">
+      <edge source="@vbwalia" target="@IYC" id="50">
         <attvalues>
           <attvalue for="0" value="18088" />
           <attvalue for="1" value="549" />
           <attvalue for="2" value="2242" />
           <attvalue for="3" value="70" />
           <attvalue for="4" value="2020-04-07T07:00:27Z" />
+          <attvalue for="5" value="On #WorldHealthDay I salute all Doctors, Nurses, Medical Staff, technicians and other professionals for serving my nation with utmost love and care in difficult times of #Covid19 &#10;&#10;#HumeGarvHai @IYC https://t.co/hrsSQxrDLF" />
         </attvalues>
       </edge>
-      <edge source="radiocityindia" target="@narendramodi,@BeingSalmanKhan,@PMOIndia" id="51">
+      <edge source="@radiocityindia" target="@narendramodi,@BeingSalmanKhan,@PMOIndia" id="51">
         <attvalues>
           <attvalue for="0" value="311039" />
           <attvalue for="1" value="470" />
           <attvalue for="2" value="10984" />
           <attvalue for="3" value="171" />
           <attvalue for="4" value="2020-04-07T07:15:32Z" />
+          <attvalue for="5" value="&quot;For the love of your family, stay home stay safe&quot; - @BeingSalmanKhan &#10;@PMOIndia @narendramodi &#10;Tap on the image to listen. &#10;#WorldHealthDay2020 #Covid_19 #StayHome #StayHomeSaveLives   #IndiaVsCorona #IndiaFightCorona  #Covid19Out #salmankhan #WorldHealthDay2020 https://t.co/ObHHEP6mbT" />
         </attvalues>
       </edge>
-      <edge source="worldNTRfans" target="@tarak9999,@AnsarNtr" id="52">
+      <edge source="@worldNTRfans" target="@AnsarNtr,@tarak9999" id="52">
         <attvalues>
           <attvalue for="0" value="60563" />
           <attvalue for="1" value="1" />
           <attvalue for="2" value="4363" />
           <attvalue for="3" value="94" />
           <attvalue for="4" value="2020-04-07T07:20:40Z" />
+          <attvalue for="5" value="Kakinada @tarak9999 fans &#10; @AnsarNtr (state wide Conv) &#10; &amp;amp; V Durga Rao garu distributing &#10;10kg Rice&#10;Kg Daal&#10;Litre Oil&#10;And Some Vegatables For&#10;100 Poor Families &#10;#StayHomeStaySafe #IndiaFightsCorona https://t.co/sAWvrxbtAO" />
         </attvalues>
       </edge>
-      <edge source="worldNTRfans" target="@tarak9999" id="53">
+      <edge source="@worldNTRfans" target="@tarak9999" id="53">
         <attvalues>
           <attvalue for="0" value="61589" />
           <attvalue for="1" value="1" />
           <attvalue for="2" value="4406" />
           <attvalue for="3" value="115" />
           <attvalue for="4" value="2020-04-25T02:53:01Z" />
+          <attvalue for="5" value="Guy things have gone worst day by day &#10;&#10;Please #StayHomeStaySafe 🙏🏽🙏🏽🙏🏽&#10;&#10;#StayHome #Coronavirus &#10;&#10;@tarak9999 fans Who r distribute food &#10;&amp;amp; other needs please b CareFull 🙏🏽" />
         </attvalues>
       </edge>
-      <edge source="karunasagarllb" target="@Eenadu_Newspapr" id="54">
+      <edge source="@karunasagarllb" target="@Eenadu_Newspapr" id="54">
         <attvalues>
           <attvalue for="0" value="3964" />
           <attvalue for="1" value="230" />
           <attvalue for="2" value="7655" />
           <attvalue for="3" value="165" />
           <attvalue for="4" value="2020-04-08T04:29:52Z" />
+          <attvalue for="5" value="Telugu daily @Eenadu_Newspapr has given Hindu name 'RAVI' to a person who was tested #Covid_19 positive after attending #TabligiJamaat to hide his religious identity...&#10;How coward &amp;amp; shameless...  Auck thoo https://t.co/LegAcDkuMn" />
         </attvalues>
       </edge>
-      <edge source="IamMaheshFan" target="@urstrulyMahesh" id="55">
+      <edge source="@IamMaheshFan" target="@urstrulyMahesh" id="55">
         <attvalues>
           <attvalue for="0" value="24948" />
           <attvalue for="1" value="167" />
           <attvalue for="2" value="8922" />
           <attvalue for="3" value="52" />
           <attvalue for="4" value="2020-04-08T05:47:55Z" />
+          <attvalue for="5" value="Define each letter of &quot;MAHESH&quot; in your own style. Let's see some different answerss.. !! Let's start 👍 #StayHomeIndia #StayHomeStaySafe @urstrulyMahesh https://t.co/FDPzqDjHY3" />
         </attvalues>
       </edge>
-      <edge source="JSPLFoundation" target="@jsplcorporate,@shallujindal20,@JSPLFoundation" id="56">
+      <edge source="@JSPLFoundation" target="@shallujindal20,@jsplcorporate,@JSPLFoundation" id="56">
         <attvalues>
           <attvalue for="0" value="5908" />
           <attvalue for="1" value="152" />
           <attvalue for="2" value="1741" />
           <attvalue for="3" value="83" />
           <attvalue for="4" value="2020-04-08T16:12:29Z" />
+          <attvalue for="5" value=".@JSPLFoundation dedicates 103 beds for #COVID19 patients in Fortis OP Jindal Hospital at Raigarh &amp;amp; Tamnar, CG with medical equipment including 15 ICU beds with  ventilators and PPE for hospital staff and doctors. Thanks @jsplcorporate @shallujindal20 #IndiaFightsCorona https://t.co/zTJ5wNwvsr" />
         </attvalues>
       </edge>
-      <edge source="Srigangacinemas" target="@OTFC_Off,@Dir_Lokesh,@actorvijay,@XBFilmCreators,@Srigangacinemas,@anirudhofficial" id="57">
+      <edge source="@Srigangacinemas" target="@Srigangacinemas,@OTFC_Off,@Dir_Lokesh,@anirudhofficial,@actorvijay,@XBFilmCreators" id="57">
         <attvalues>
           <attvalue for="0" value="4558" />
           <attvalue for="1" value="63" />
           <attvalue for="2" value="625" />
           <attvalue for="3" value="386" />
           <attvalue for="4" value="2020-04-08T17:35:06Z" />
+          <attvalue for="5" value="#COVID #lockdown #StayHomeStaySafe we all miss most expected movie of our Thalapathy.&amp;amp; Lokesh combo @Srigangacinemas @OTFC_Off @XBFilmCreators @Dir_Lokesh @anirudhofficial @actorvijay kindly update for #MasterTrailer #MasterTrailerUpdate 🙏🏻🙏🏻 https://t.co/xRxMU5DvO7" />
         </attvalues>
       </edge>
-      <edge source="gauravcsawant" target="@narendramodi,@realDonaldTrump,@PMOIndia" id="58">
+      <edge source="@gauravcsawant" target="@realDonaldTrump,@narendramodi,@PMOIndia" id="58">
         <attvalues>
           <attvalue for="0" value="1425465" />
           <attvalue for="1" value="1299" />
           <attvalue for="2" value="10814" />
           <attvalue for="3" value="81" />
           <attvalue for="4" value="2020-04-08T19:20:57Z" />
+          <attvalue for="5" value="On #HanumanJayanti the President of Brazil refers to Lord Hanuman bringing Sanjeevani Booti to save Lakshman while requesting @PMOIndia for #Hydroxychloroquine for #Brazil. US president @realDonaldTrump thanks @narendramodi too.Will India be the Sankat Mochan #CoronavirusPandemic https://t.co/L0GeJLO7E0" />
         </attvalues>
       </edge>
-      <edge source="gauravcsawant" target="@gauravcsawant," id="59">
+      <edge source="@gauravcsawant" target="@gauravcsawant" id="59">
         <attvalues>
           <attvalue for="0" value="1425598" />
           <attvalue for="1" value="1301" />
           <attvalue for="2" value="10848" />
           <attvalue for="3" value="74" />
           <attvalue for="4" value="2020-04-10T15:21:22Z" />
+          <attvalue for="5" value="The army used both field guns &amp;amp; 155 mm howitzers to target a terror launch pad and possibly even a Pak army ammunition dump in PoK. As India battles #CoronaVirusPandemic, our army is also destroying the Pak state sponsored terror virus. But need to destroy terror virus at source." />
         </attvalues>
       </edge>
-      <edge source="VijuyRonjan" target="@TheOfficialSBI" id="60">
+      <edge source="@VijuyRonjan" target="@TheOfficialSBI" id="60">
         <attvalues>
           <attvalue for="0" value="2004" />
           <attvalue for="1" value="305" />
           <attvalue for="2" value="8525" />
           <attvalue for="3" value="85" />
           <attvalue for="4" value="2020-04-17T12:59:58Z" />
+          <attvalue for="5" value="Team #SBI Delhi Circle is providing the best support in humanity's fight against Covid-19. We are proud to join forces with Delhi Police and all the essential service providers in our war against #COVID19. Team SBI Delhi urge all to #StayHomeStaySafe &#10;&amp;amp; #GoDigital&#10;@TheOfficialSBI https://t.co/jGIjD99nID" />
         </attvalues>
       </edge>
-      <edge source="VijuyRonjan" target="@TheOfficialSBI,@challasetty" id="61">
+      <edge source="@VijuyRonjan" target="@challasetty,@TheOfficialSBI" id="61">
         <attvalues>
           <attvalue for="0" value="2124" />
           <attvalue for="1" value="308" />
           <attvalue for="2" value="8756" />
           <attvalue for="3" value="89" />
           <attvalue for="4" value="2020-04-26T12:31:08Z" />
+          <attvalue for="5" value="It's not just providing Banking service, but the way we receive the customers with an open heart day after day.Thank you Team SBI Delhi for practicing Banking Dil Se💖💖💖and serving the customers with passion day after day.&#10;@TheOfficialSBI @challasetty &#10;#COVID19 #SBI #ProudSBI https://t.co/Sceerh1Exm" />
         </attvalues>
       </edge>
-      <edge source="SubbarajuSiva" target="@rk_mahanti,@AkhilAkkineni8,@iamnagarjuna,@amalaakkineni1,@chay_akkineni" id="62">
+      <edge source="@SubbarajuSiva" target="@chay_akkineni,@AkhilAkkineni8,@amalaakkineni1,@iamnagarjuna,@rk_mahanti" id="62">
         <attvalues>
           <attvalue for="0" value="3079" />
           <attvalue for="1" value="228" />
           <attvalue for="2" value="5291" />
           <attvalue for="3" value="63" />
           <attvalue for="4" value="2020-04-11T08:57:10Z" />
+          <attvalue for="5" value="Did my bit to help the people in need with basic grocery items on behalf of Akkineni Family @iamnagarjuna @chay_akkineni @AkhilAkkineni8 @amalaakkineni1&#10;&#10;Special thanks to @rk_mahanti Anna for the initiative &amp;amp; support🤗&#10;&#10;#StayHomeStaySafe #COVID19&#10;#CoronaCrisisCharity #GodBless https://t.co/AgwLDB9N3P" />
         </attvalues>
       </edge>
-      <edge source="digvijayvasuni1" target="@TOIMumbai" id="63">
+      <edge source="@digvijayvasuni1" target="@TOIMumbai" id="63">
         <attvalues>
           <attvalue for="0" value="1576" />
           <attvalue for="1" value="596" />
           <attvalue for="2" value="31840" />
           <attvalue for="3" value="549" />
           <attvalue for="4" value="2020-04-12T02:59:43Z" />
+          <attvalue for="5" value="@TOIMumbai Yes Sant Shri Asharamji Bapu always teaches to his Sadhaks that &quot;💐Nar Sewa Narayan sewa&quot;.💐&#10;By following the same path now in #CoronaVirusPandemic situation, his sadhaks are serving the needy people across the nation.🚩&#10;#AsharamjiBapuAshramsHelpingInLockdown" />
         </attvalues>
       </edge>
-      <edge source="amitbhawani" target="@narendramodi" id="64">
+      <edge source="@amitbhawani" target="@narendramodi" id="64">
         <attvalues>
           <attvalue for="0" value="222695" />
           <attvalue for="1" value="58" />
           <attvalue for="2" value="1336" />
           <attvalue for="3" value="397" />
           <attvalue for="4" value="2020-04-14T04:48:10Z" />
+          <attvalue for="5" value="Retweet if you agree with Lockdown extension by Hon PM @narendramodi till 3rd May. &#10;&#10;Till April 20th, hotspots will be monitored. &#10;&#10;#coronavirus #Lockdownextention #StayHome" />
         </attvalues>
       </edge>
-      <edge source="silarindam" target="@RituparnaSpeaks,@RukminiMaitra,@MamataOfficial,@bickramghosh,@mimichakraborty,@YourKoel,@nusratchirps,@jeet30,@prosenjitbumba,@idevadhikari,@subhashreesotwe" id="65">
+      <edge source="@silarindam" target="@MamataOfficial,@subhashreesotwe,@RukminiMaitra,@bickramghosh,@nusratchirps,@idevadhikari,@prosenjitbumba,@mimichakraborty,@YourKoel,@jeet30,@RituparnaSpeaks" id="65">
         <attvalues>
           <attvalue for="0" value="85446" />
           <attvalue for="1" value="647" />
           <attvalue for="2" value="15779" />
           <attvalue for="3" value="55" />
           <attvalue for="4" value="2020-04-14T08:44:42Z" />
+          <attvalue for="5" value="Honoured to be part of this project. On #coronavirus awareness and to raise funds for our industry workers. @MamataOfficial @prosenjitbumba @bickramghosh @idevadhikari @RituparnaSpeaks @jeet30 @YourKoel @subhashreesotwe @mimichakraborty @RukminiMaitra @nusratchirps https://t.co/gzI0nmSbYT" />
         </attvalues>
       </edge>
-      <edge source="achyuta_samanta" target="@odisha_mining" id="66">
+      <edge source="@achyuta_samanta" target="@odisha_mining" id="66">
         <attvalues>
           <attvalue for="0" value="146661" />
           <attvalue for="1" value="14" />
           <attvalue for="2" value="1441" />
           <attvalue for="3" value="66" />
           <attvalue for="4" value="2020-04-14T15:39:16Z" />
+          <attvalue for="5" value="Standalone #COVID19 Hospitals were inaugurated in Bolangir (200 bedded) &amp;amp; Kandhamal (150 bedded) by respective District Collectors.&#10;&#10;Thanks to @odisha_mining for funding it and Odisha Govt for always motivating and leading us. https://t.co/1ufZlzOABs" />
         </attvalues>
       </edge>
-      <edge source="achyuta_samanta" target="@ndtv,@ravishndtv" id="67">
+      <edge source="@achyuta_samanta" target="@ndtv,@ravishndtv" id="67">
         <attvalues>
           <attvalue for="0" value="147638" />
           <attvalue for="1" value="14" />
           <attvalue for="2" value="1447" />
           <attvalue for="3" value="59" />
           <attvalue for="4" value="2020-04-22T15:13:22Z" />
+          <attvalue for="5" value="Odisha's fight against #COVID19 is appreciated by one and all. A glimpse of our campus, which is now a #COVID Hospital also in this clip. Thanks Shri @ravishndtv ji for this story of good governance and preparedness.&#10;#OdishaFightsCorona&#10;@ndtv&#10;&#10;Watch: https://t.co/Ivv5eZY7ed" />
         </attvalues>
       </edge>
-      <edge source="SuriyaFansClub" target="@Suriya_offl,@rajsekarpandian,@NorthchennaiSFC,@prabhu_sr" id="68">
+      <edge source="@SuriyaFansClub" target="@prabhu_sr,@NorthchennaiSFC,@rajsekarpandian,@Suriya_offl" id="68">
         <attvalues>
           <attvalue for="0" value="262651" />
           <attvalue for="1" value="103" />
           <attvalue for="2" value="13703" />
           <attvalue for="3" value="212" />
           <attvalue for="4" value="2020-04-14T17:38:30Z" />
+          <attvalue for="5" value="Day - 5 Today We #NorthChennaiSFC Donated Food To 200 People's Who Have Been Sheltered On The Road During This #CoronaVirus &#10;&#10;@Suriya_offl | @rajsekarpandian | @prabhu_sr | @NorthchennaiSFC https://t.co/LkAso6dR1P" />
         </attvalues>
       </edge>
-      <edge source="gaurgopald" target="@narendramodi" id="69">
+      <edge source="@gaurgopald" target="@narendramodi" id="69">
         <attvalues>
           <attvalue for="0" value="62552" />
           <attvalue for="1" value="2" />
           <attvalue for="2" value="105" />
           <attvalue for="3" value="75" />
           <attvalue for="4" value="2020-04-15T03:55:14Z" />
+          <attvalue for="5" value="You may have seen this but couldn’t resist posting it. A serious message coming from an innocent child is both charming and appealing. Thankyou for reminding us to take the words of @narendramodi (uncle) seriously.&#10;&#10;#coronavirus #StayHome #Lockdown2 #lockdown #LockdownExtended https://t.co/6LCqWSZfCx" />
         </attvalues>
       </edge>
-      <edge source="alok_ajay" target="@narendramodi" id="70">
+      <edge source="@alok_ajay" target="@narendramodi" id="70">
         <attvalues>
           <attvalue for="0" value="108493" />
           <attvalue for="1" value="50" />
           <attvalue for="2" value="110" />
           <attvalue for="3" value="59" />
           <attvalue for="4" value="2020-04-15T06:48:57Z" />
+          <attvalue for="5" value="In #COVID19 crisis one govt which has been most proactive on all fronts is @narendramodi govt , this has been globally accepted and as you know PM has special love for NRI and vice versa across globe which causes deep heart burn to you has taken steps to ensure wellness , CHILL https://t.co/KFBeUJGhQw" />
         </attvalues>
       </edge>
-      <edge source="pafcoms" target="@milaapdotorg" id="71">
+      <edge source="@pafcoms" target="@milaapdotorg" id="71">
         <attvalues>
           <attvalue for="0" value="1522" />
           <attvalue for="1" value="979" />
           <attvalue for="2" value="8669" />
           <attvalue for="3" value="52" />
           <attvalue for="4" value="2020-04-15T08:11:18Z" />
+          <attvalue for="5" value="During #COVID19 crisis, SEWA BHARTI is supplying ration to poor families&#10;&#10;Pls. contribute to Sewa Bharti. @milaapdotorg has been kind enough to reimburse it's platform fees. Your money will go a long way in feeding poorest of poor during the lockdown 🙏&#10;https://t.co/woBfUVwVY4" />
         </attvalues>
       </edge>
-      <edge source="Elizatweetz" target="@RahulGandhi" id="72">
+      <edge source="@Elizatweetz" target="@RahulGandhi" id="72">
         <attvalues>
           <attvalue for="0" value="2017" />
           <attvalue for="1" value="861" />
           <attvalue for="2" value="3061" />
           <attvalue for="3" value="149" />
           <attvalue for="4" value="2020-04-15T09:06:29Z" />
+          <attvalue for="5" value="The Man India Needed 5 years ago - @RahulGandhi - Man with knowledge on issues &amp;amp; love for countrymen, his endearing attitude, his Noble heart. India needs him for healing touch.. He warned about impact of #CoronavirusOutbreak. Even on this issue it was proved that #RahulSahiHai https://t.co/o5pYr3TCfp" />
         </attvalues>
       </edge>
-      <edge source="kartikeya_1975" target="@RahulGandhi" id="73">
+      <edge source="@kartikeya_1975" target="@RahulGandhi" id="73">
         <attvalues>
           <attvalue for="0" value="13506" />
           <attvalue for="1" value="763" />
           <attvalue for="2" value="5824" />
           <attvalue for="3" value="60" />
           <attvalue for="4" value="2020-04-16T08:46:33Z" />
+          <attvalue for="5" value="Sober press conference by @RahulGandhi on #Covid19. Did not get into a blame game mode and refrained from blaming Modi in person and ensured that PC does not turn into us vs them match." />
         </attvalues>
       </edge>
-      <edge source="Guttajwala" target="@TheVishnuVishal" id="74">
+      <edge source="@Guttajwala" target="@TheVishnuVishal" id="74">
         <attvalues>
           <attvalue for="0" value="1520434" />
           <attvalue for="1" value="421" />
           <attvalue for="2" value="8806" />
           <attvalue for="3" value="74" />
           <attvalue for="4" value="2020-04-17T07:33:20Z" />
+          <attvalue for="5" value="Lockdown saga continues 🙂❤️&#10;#missingmyman #thistooshallpass #stayhomestaysafe &#10;@TheVishnuVishal https://t.co/EeqquYglBY" />
         </attvalues>
       </edge>
-      <edge source="JebiMather" target="@hazeekhalid,@IYC" id="75">
+      <edge source="@JebiMather" target="@hazeekhalid,@IYC" id="75">
         <attvalues>
           <attvalue for="0" value="18923" />
           <attvalue for="1" value="70" />
           <attvalue for="2" value="17862" />
           <attvalue for="3" value="62" />
           <attvalue for="4" value="2020-04-17T10:26:41Z" />
+          <attvalue for="5" value="The Baby Touch🥰 By Youth Congress! &#10;&#10;Baby Bed, Baby Kit, Baby Net, Baby Dresses, Baby Rattle Set and lots of love.....to Uttar Pradesh daily wage labourer’s 3 Week old baby in #COVID19 Relief Camp, Kerala by @IYC Aluva AYC P @hazeekhalid &amp;amp; team. &#10;&#10;#HumeGarvHai &#10;#MeriZimmedari https://t.co/ovLgGFiLkB" />
         </attvalues>
       </edge>
-      <edge source="SandeepUnnithan" target="@indiatoday" id="76">
+      <edge source="@SandeepUnnithan" target="@indiatoday" id="76">
         <attvalues>
           <attvalue for="0" value="19690" />
           <attvalue for="1" value="704" />
           <attvalue for="2" value="13472" />
           <attvalue for="3" value="101" />
           <attvalue for="4" value="2020-04-17T15:23:48Z" />
+          <attvalue for="5" value="For some perspective - India’s country-sized states that are battling #Covid_19  https://t.co/BIvDPHI6tm via @indiatoday #Lockdown2 https://t.co/Fynu5J8U0I" />
         </attvalues>
       </edge>
-      <edge source="TanushreePande" target="@iamsrk" id="77">
+      <edge source="@TanushreePande" target="@iamsrk" id="77">
         <attvalues>
           <attvalue for="0" value="11330" />
           <attvalue for="1" value="1303" />
           <attvalue for="2" value="17440" />
           <attvalue for="3" value="222" />
           <attvalue for="4" value="2020-04-18T06:39:14Z" />
+          <attvalue for="5" value="Never imagined I'll be the only fan standing outside @iamsrk's Mannat someday. Only if I could spot him watching us report from one of his windows 🙈 #HighHopes #LockdownTale #Covid_19 https://t.co/r4Ya9Fs4Ch" />
         </attvalues>
       </edge>
-      <edge source="Srk_bangalore" target="@iamsrk,@GlblCtzn,@togetherathome" id="78">
+      <edge source="@Srk_bangalore" target="@GlblCtzn,@iamsrk,@togetherathome" id="78">
         <attvalues>
           <attvalue for="0" value="5336" />
           <attvalue for="1" value="198" />
           <attvalue for="2" value="5757" />
           <attvalue for="3" value="61" />
           <attvalue for="4" value="2020-04-18T18:10:08Z" />
+          <attvalue for="5" value="Tomorrow, we will witness a historic moment of unity to support #COVID19 healthcare workers. Join @iamsrk, with the @GlblCtzn, for One World: #TogetherAtHome, from 5:30 AM IST onwards. More info: https://t.co/DFwDAL0CaQ&#10;@togetherathome #coronavirus https://t.co/hCn7ZTZE1y" />
         </attvalues>
       </edge>
-      <edge source="GulzebAhmed" target="@SachinPilot,@ashokgehlot51,@INCRajasthan" id="79">
+      <edge source="@GulzebAhmed" target="@ashokgehlot51,@INCRajasthan,@SachinPilot" id="79">
         <attvalues>
           <attvalue for="0" value="8161" />
           <attvalue for="1" value="2490" />
           <attvalue for="2" value="13766" />
           <attvalue for="3" value="87" />
           <attvalue for="4" value="2020-04-19T12:25:21Z" />
+          <attvalue for="5" value="The promptness with which Rajasthan Govt. fought against #Covid19 is worthy of praise.&#10;Whether it is a Rapid Testing or Bhilwada Model,&#10;Rajasthan has set an example under the leadership of CM @ashokgehlot51 Ji and Deputy CM @SachinPilot Ji.&#10;&#10;#RajasthanFightsCorona @INCRajasthan https://t.co/0yCTcYi7Rk" />
         </attvalues>
       </edge>
-      <edge source="Anurag_Dwary" target="@AbhayIndia,@ndtvindia,@OfficeOfKNath,@VTankha,@ndtv" id="80">
+      <edge source="@Anurag_Dwary" target="@ndtv,@ndtvindia,@AbhayIndia,@VTankha,@OfficeOfKNath" id="80">
         <attvalues>
           <attvalue for="0" value="3954" />
           <attvalue for="1" value="264" />
           <attvalue for="2" value="89" />
           <attvalue for="3" value="155" />
           <attvalue for="4" value="2020-04-22T14:43:30Z" />
+          <attvalue for="5" value="Cops and doctors under attack again in MP,  The latest incident has been reported from Gaswani village of Sheopur district, Where an ASI and doctor were attacked with stones by a man and his two sons @ndtvindia @ndtv @OfficeOfKNath @VTankha @AbhayIndia #lockdown #Covid_19 https://t.co/kdKBa0k9wr" />
         </attvalues>
       </edge>
-      <edge source="Anurag_Dwary" target="@ndtv" id="81">
+      <edge source="@Anurag_Dwary" target="@ndtv" id="81">
         <attvalues>
           <attvalue for="0" value="4035" />
           <attvalue for="1" value="264" />
           <attvalue for="2" value="89" />
           <attvalue for="3" value="263" />
           <attvalue for="4" value="2020-04-26T03:25:50Z" />
+          <attvalue for="5" value="joyride in a high-end Porsche convertible car amid the #coronavirus #lockdown in Indore ended in doing sit ups #Covid_19 @ndtv #coronavirus #LockdownQuestions https://t.co/mK5tImJYqJ" />
         </attvalues>
       </edge>
-      <edge source="Anurag_Dwary" target="@ChouhanShivraj,@ndtvindia,@drnarottammisra,@INCMP,@OfficeOfKNath,@ndtv" id="82">
+      <edge source="@Anurag_Dwary" target="@drnarottammisra,@INCMP,@ChouhanShivraj,@ndtvindia,@ndtv,@OfficeOfKNath" id="82">
         <attvalues>
           <attvalue for="0" value="4089" />
           <attvalue for="1" value="265" />
           <attvalue for="2" value="89" />
           <attvalue for="3" value="73" />
           <attvalue for="4" value="2020-04-26T16:06:03Z" />
+          <attvalue for="5" value="@ChouhanShivraj got the Health minister after a month, but it seems the newly appointed @drnarottammisra forgets #Social_Distancing and wearing #facemaskholder on return to his home town Datia @INCMP @OfficeOfKNath @ndtvindia @ndtv #moblynching #COVID2019india #Covid_19 https://t.co/BWhMeMRaG0" />
         </attvalues>
       </edge>
-      <edge source="AvdheshanandG" target="@ani_digital" id="83">
+      <edge source="@AvdheshanandG" target="@ani_digital" id="83">
         <attvalues>
           <attvalue for="0" value="182988" />
           <attvalue for="1" value="59" />
           <attvalue for="2" value="2406" />
           <attvalue for="3" value="1077" />
           <attvalue for="4" value="2020-04-23T01:30:04Z" />
+          <attvalue for="5" value="Ancient spiritual value system is upheld by saints,philosophers and monks of the country. Brutality towards them is an attack on the Indian culture and civilization. #PalgharMobLynching #Palghar_Incident #एकांतऔषधिहै #StayHomeStaySafe #StayAtHome @ani_digital #एकांतऔषधिहै #pryer" />
         </attvalues>
       </edge>
-      <edge source="AvdheshanandG" target="@ani_digital,@RSSorg,@AcharyaSabha,@VHPDigital" id="84">
+      <edge source="@AvdheshanandG" target="@ani_digital,@VHPDigital,@AcharyaSabha,@RSSorg" id="84">
         <attvalues>
           <attvalue for="0" value="187987" />
           <attvalue for="1" value="52" />
           <attvalue for="2" value="2511" />
           <attvalue for="3" value="421" />
           <attvalue for="4" value="2020-04-27T01:30:04Z" />
+          <attvalue for="5" value="Fulfill your duty with sincerity and offer your actions to God. Focus on your efforts, results will be granted by the Lord.#पालघर #एकांतऔषधिहै #PMCARES #StayHomeStaySafe #घरमेंरहेंस्वस्थरहें @ani_digital #UNIndia @AcharyaSabha #BePositive @RSSorg #PalgharMobLynching @VHPDigital" />
         </attvalues>
       </edge>
-      <edge source="ImSuresh_insan" target="@Gurmeetramrahim" id="85">
+      <edge source="@ImSuresh_insan" target="@Gurmeetramrahim" id="85">
         <attvalues>
           <attvalue for="0" value="3856" />
           <attvalue for="1" value="703" />
           <attvalue for="2" value="191095" />
           <attvalue for="3" value="70" />
           <attvalue for="4" value="2020-04-23T01:52:35Z" />
+          <attvalue for="5" value="#ServingTheNation&#10;&#10;Dera Sacha Sauda 's&#10;Volunteers are ensuring every day some units of blood are donated by volunteers making sure social distancing is maintained along with the supply of blood. #COVID19 #Inspired by Saint Dr. @Gurmeetramrahim Ji Insan." />
         </attvalues>
       </edge>
-      <edge source="DEVenDrapai" target="@CMOMaharashtra" id="86">
+      <edge source="@DEVenDrapai" target="@CMOMaharashtra" id="86">
         <attvalues>
           <attvalue for="0" value="8160" />
           <attvalue for="1" value="990" />
           <attvalue for="2" value="2361" />
           <attvalue for="3" value="70" />
           <attvalue for="4" value="2020-04-25T10:37:08Z" />
+          <attvalue for="5" value="It's tool 24 hours to admit a general physician who contracted #COVID19 - several hospitals and even ambulances refused to admit him.&#10;&#10;The doctor finally succumbed! 🥺&#10;&#10;@CMOMaharashtra this is heart-wrenching 😢 https://t.co/VHD1UNu4LF" />
         </attvalues>
       </edge>
-      <edge source="SinghLions" target="@DelhiPolice" id="87">
+      <edge source="@SinghLions" target="@DelhiPolice" id="87">
         <attvalues>
           <attvalue for="0" value="1500208" />
           <attvalue for="1" value="1493093" />
           <attvalue for="2" value="26780" />
           <attvalue for="3" value="183" />
           <attvalue for="4" value="2020-04-27T10:42:58Z" />
+          <attvalue for="5" value="Police cruisers of @DelhiPolice circumambulated around Gurudwara Bangla Sahib in Delhi to Thank &amp;amp; Salute the Sikh community who have been serving food to 100000 destitute people everyday since lockdown. Gurdwara accommodations are also being used as quarantine centres. #COVID19 https://t.co/nLCgzmTHsm" />
         </attvalues>
       </edge>
-      <edge source="KotaNeelima" target="@TedhiLakeer,@TheQuint" id="88">
+      <edge source="@KotaNeelima" target="@TheQuint,@TedhiLakeer" id="88">
         <attvalues>
           <attvalue for="0" value="22211" />
           <attvalue for="1" value="790" />
           <attvalue for="2" value="2492" />
           <attvalue for="3" value="110" />
           <attvalue for="4" value="2020-04-27T15:37:53Z" />
+          <attvalue for="5" value="The children will remember. Over 6 lakh #migrantworkers walked across India after #lockdown. What do the barefoot children think of India? My take in @TheQuint @TedhiLakeer #lockdown #COVID19 https://t.co/0i8bLv1CIM" />
         </attvalues>
       </edge>
-      <edge source="NPDay" target="@ThePrintIndia" id="89">
+      <edge source="@NPDay" target="@ThePrintIndia" id="89">
         <attvalues>
           <attvalue for="0" value="19874" />
           <attvalue for="1" value="1036" />
           <attvalue for="2" value="8933" />
           <attvalue for="3" value="390" />
           <attvalue for="4" value="2020-04-28T05:18:54Z" />
+          <attvalue for="5" value="“If he had been the son of the DM or any other official, would the hospitals have refused?” - 12-year-old dies of ‘stomach pain’ after 6 Agra hospitals refuse treatment over Covid scare. My ground report from Agra https://t.co/xBiVmxxKt1 via @ThePrintIndia #Covid_19" />
         </attvalues>
       </edge>
-      <edge source="SanirSayyed" target="@aimim_national,@asadowaisi" id="90">
+      <edge source="@SanirSayyed" target="@asadowaisi,@aimim_national" id="90">
         <attvalues>
           <attvalue for="0" value="58" />
           <attvalue for="1" value="51" />
           <attvalue for="2" value="1261" />
           <attvalue for="3" value="169" />
           <attvalue for="4" value="2020-04-28T09:57:41Z" />
+          <attvalue for="5" value="In the instructions of @aimim_national president barrister @asadowaisi sahab. ALLAHABAD (UP) president mohd Shah Alam is distributing Relief material (Ramazan kits) continuously from 1st roza among the people who have been effected dua to #covid_19 lockdown https://t.co/g4G1GEGK8I" />
         </attvalues>
       </edge>
-      <edge source="PramodChturvedi" target="@aimim_national" id="91">
+      <edge source="@PramodChturvedi" target="@aimim_national" id="91">
         <attvalues>
           <attvalue for="0" value="2273" />
           <attvalue for="1" value="2017" />
           <attvalue for="2" value="3620" />
           <attvalue for="3" value="180" />
           <attvalue for="4" value="2020-04-29T03:53:15Z" />
+          <attvalue for="5" value="#Hyderabad: #AIMIM chief shares details of 32 #coronavirus cured patients willing to donate #Plasma &#10;&#10;#Telangana #TelanganaFightsCorona #PlasmaTherapy #coronavirus #COVID2019india @aimim_national&#10;&#10;https://t.co/dHbH79ql6Y" />
         </attvalues>
       </edge>
-      <edge source="PramodChturvedi" target="@aimim_national,@balala_ahmed" id="92">
+      <edge source="@PramodChturvedi" target="@aimim_national,@balala_ahmed" id="92">
         <attvalues>
           <attvalue for="0" value="2282" />
           <attvalue for="1" value="2020" />
           <attvalue for="2" value="3628" />
           <attvalue for="3" value="68" />
           <attvalue for="4" value="2020-04-29T12:52:01Z" />
+          <attvalue for="5" value="#Telangana: #ContainmentZones in #Hyderabad's #Malakpet opened after all #Covid_19 patients from area recovered&#10;&#10;#TelanganaFightsCorona @balala_ahmed @aimim_national&#10; https://t.co/ZT5MHRdz88" />
         </attvalues>
       </edge>
     </edges>

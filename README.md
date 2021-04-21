@@ -8,3 +8,4 @@ Download dataset from: https://www.kaggle.com/smid80/coronavirus-covid19-tweets-
 * `networkStatistics.ipynb` includes some basic network statistics. 
 * `thematicAnalysis.ipynb` includes all the code for LDA.
 * `toxicityAnalysis.ipynb` includes all the code for generating the toxicity dataset, and creating a network with the toxicity data.
+* `utilities.py` includes some utility functions for generating networks, pre-processing dataset, etc.
